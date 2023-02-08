@@ -1,0 +1,15 @@
+[[1. 정규식 (RegEx) (x)]]
+[[2. 함수형 프로그래밍]]
+[[3. Currying]]
+[[4. Unit Test]]
+[[5. filter vs reduce (x)]]
+[[6. map vs compactMap (x)]]
+[[7. SOLID 원칙]]
+[[8. 계산 표기법]]
+[[9. TDD(Test Driven Development)]]
+[[10. BDD (Behavior Driven Development) (x)]]
+[[11. Code Convention]]
+- Design Pattern
+	[[1. MVC, MVP, MVVM 비교]]
+	[[2. Command Pattern (x)]]
+#CS/Coding
