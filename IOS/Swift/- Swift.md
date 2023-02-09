@@ -1,6 +1,6 @@
 [[1. What is Swift]]
 [[2. Identifiable]]
-[[3. Caseiterable]]
+[[3. CaseIterable]]
 [[4. ForEach vs. For In (x)]]
 [[5. Codable]]
 [[6. Memory Leak (x) 중요]]

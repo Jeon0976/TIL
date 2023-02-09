@@ -172,7 +172,6 @@
 ### 연결문서 
 - [[RxSwift)Ch 2. Observables]]
 - [[RxSwift)Ch 1. Hello, RxSwift]]
-
 ### Tag
 - #IOS/RxSwift/Subject/PublishSubject
 - #IOS/RxSwift/Subject/BehaviorSubject
