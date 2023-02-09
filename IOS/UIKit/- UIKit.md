@@ -24,7 +24,7 @@
 [[25. UILabel]]
 [[26. UIButton (x)]]
 [[27. sizeToFit vs sizeThatFits (x)]]
-
+[[28. UITabBarController (x)]]
 - RxSwift
 	- RxSwift. Reactive Programming with Swift
 			[[RxSwift)Ch 1. Hello, RxSwift]]
