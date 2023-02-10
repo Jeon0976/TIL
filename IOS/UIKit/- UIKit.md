@@ -25,6 +25,16 @@
 [[26. UIButton (x)]]
 [[27. sizeToFit vs sizeThatFits (x)]]
 [[28. UITabBarController (x)]]
+[[29. dequeueResableCell 옵셔널 다운캐스팅 하는 이유 (x)]]
+[[30. safe area (x)]]
+[[31. navi.pushViewController VS present (x)]]
+[[32. Label vs TextField vs TextView (x)]]
+[[33. TextView Custom PlaceHolder]]
+[[34. Text Field (x)]]
+[[35. Text View (x)]]
+[[36. alpha VS opacity (x)]]
+[[37. UIButton Configuration is iOS 15 (x)]]
+[[TabBar 유지보수 쉽게 만들기 (x)]]
 - RxSwift
 	- RxSwift. Reactive Programming with Swift
 			[[RxSwift)Ch 1. Hello, RxSwift]]
