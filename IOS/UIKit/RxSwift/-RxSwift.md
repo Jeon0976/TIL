@@ -1,4 +1,3 @@
-[[- RxSwift 용어 정리]]
 [[- RxSwift. Reactive Programming with Swift]]
 [[1. Driver]]
 [[2. ~Subject vs ~Relay]]
@@ -6,3 +5,4 @@
 [[4. RxSwift 기본 개념]]
 [[5. Hot Observable VS Cold Observable]]
 [[6. Finite Observable VS Infinite Observable]]
+[[7.  Digging into Subscribe's Behavior]]
