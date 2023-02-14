@@ -6,3 +6,5 @@
 [[5. Hot Observable VS Cold Observable]]
 [[6. Finite Observable VS Infinite Observable]]
 [[7.  Digging into Subscribe's Behavior]]
+[[8. Subscribe Memory Leak]]
+[[9. share]]
