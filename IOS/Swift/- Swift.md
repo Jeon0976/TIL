@@ -12,13 +12,16 @@
 [[12. ARC (3)]]
 [[13. weak self (x)]]
 [[14. Capture List]]
-[[15. Closures (x)]]
+[[15. Closures]]
 [[16. Memory Safety (x)]]
-[[17. escaping (x)]]
+[[17. escaping]]
 [[18. GCD (x)]]
 [[19. Equatable]]
 [[20. map (x)]]
 [[21. filter (x)]]
 [[22. Dictionary (x)]]
 [[23. enum (x)]]
+[[24. Any & AnyObject (x)]]
+[[25. Sturct VS Class (x)]]
+
 #Swift 
