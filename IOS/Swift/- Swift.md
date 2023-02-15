@@ -14,7 +14,7 @@
 [[14. Capture List]]
 [[15. Closures (x)]]
 [[16. Memory Safety (x)]]
-[[17. @escaping (x)]]
+[[17. escaping (x)]]
 [[18. GCD (x)]]
 [[19. Equatable]]
 [[20. map (x)]]
