@@ -27,6 +27,7 @@
 		~~~
 2. **concat**
 	- As it turns out, startWith(\_:) is the simple variant of the more general concat family of operators. Your initial value is a sequence of one element, to which RxSwift appends the sequence that startWith(\_:) chains too. **The Observable.concat(_:) static function chains two sequences.**
+	- *flatMap에 의해서 새로 생성된 Observable들의 순서를 보장해주고 싶다면 concatMap을 사용하면 된다.*
 		![[스크린샷 2022-11-17 12.03.48.png|500]]
 	- example Code
 		~~~ swift

@@ -240,7 +240,7 @@
 - RxSwift. Reactive Programming with Swift
 - https://github.com/fimuxd/RxSwift
 ### 연결문서 
-- [[9. share]]
+- [[4. share]]
 ### Tag
 - #IOS/RxSwift/Operators/ignoreElements
 - #IOS/RxSwift/Operators/elementAt
