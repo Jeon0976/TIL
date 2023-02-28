@@ -6,4 +6,4 @@
 [[4. Hot Observable VS Cold Observable]]
 [[5. Finite Observable VS Infinite Observable]]
 [[6.  Digging into Subscribe's Behavior]]
-[[7. What is RxCocoa (x)]]
+[[7. What is RxCocoa]]
