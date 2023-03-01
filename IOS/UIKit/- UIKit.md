@@ -10,6 +10,8 @@
 [[- UITabBarController]]
 [[- UITableView]]
 [[- UITabGestureRecognizer]]
+[[- UIProgressView]]
+[[- UIImageView]]
 [[1. NoStoryBoard]]
 [[2. ViewDidLoad() vs init()]]
 [[3. URLSession, Alamofire, AFNetworking (x)]]
