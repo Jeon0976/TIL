@@ -14,7 +14,6 @@
 [[- UIImageView]]
 [[1. NoStoryBoard]]
 [[2. ViewDidLoad() vs init()]]
-[[3. URLSession, Alamofire, AFNetworking (x)]]
 [[4. SnapKit Q]]
 [[5. super.init (x)]]
 [[6. WebView]]

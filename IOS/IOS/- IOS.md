@@ -16,4 +16,7 @@
 [[16. html 형식 필터링 하는 법]]
 [[17. PropertyList(Decoder,Encoder) (x)]]
 [[18. Alamofire (x)]]
+[[19. Toast-Swift (x)]]
+[[20. GCD(Grand Central Dispatch) (x)]]
+[[21. KVO(key Value Observing) (x)]]
 #IOS 
