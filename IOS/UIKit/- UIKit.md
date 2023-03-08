@@ -21,4 +21,5 @@
 [[8. safe area (x)]]
 [[9. navi.pushViewController VS present (x)]]
 [[10. alpha VS opacity (x)]]
+[[11. NSLayoutContraints (x)]]
 #IOS/UIKit 
