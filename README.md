@@ -1,7 +1,7 @@
 # IOS 
 ### IOS 
-- [1. CLLocationManager]
-- [2. Bridging Header]
+- [1. CLLocationManager](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/1.%20CLLocationManager.md)
+- [2. Bridging Header](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/2.%20Bridging%20Header.md)
 - [3. UIViewController LifeCycle]
 - [4. IOS Basic Asynchronous Programming (x)]
 - [5. MVVM]
