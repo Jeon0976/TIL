@@ -1,0 +1,6 @@
+[[1. Identifiable]]
+[[2. CaseIterable]]
+[[3. Codable]]
+[[4. Equatable]]
+[[5. Sequence (x)]]
+[[6. Collection (x)]]
