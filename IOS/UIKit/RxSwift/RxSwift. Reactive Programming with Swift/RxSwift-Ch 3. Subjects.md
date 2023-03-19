@@ -170,8 +170,8 @@
 - https://github.com/fimuxd/RxSwift
 - https://velog.io/@iammiori/RxSwift-4-4.-AsyncSubject
 ### 연결문서 
-- [[RxSwift)Ch 2. Observables]]
-- [[RxSwift)Ch 1. Hello, RxSwift]]
+- [[RxSwift-Ch 2. Observables]]
+- [[RxSwift-Ch 1. Hello, RxSwift]]
 ### Tag
 - #IOS/RxSwift/Subject/PublishSubject
 - #IOS/RxSwift/Subject/BehaviorSubject

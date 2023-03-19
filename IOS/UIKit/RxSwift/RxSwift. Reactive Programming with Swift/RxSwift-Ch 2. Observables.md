@@ -304,7 +304,7 @@
 - https://github.com/fimuxd/RxSwift
 - https://rxmarbles.com
 ### 연결문서 
-- [[RxSwift)Ch 1. Hello, RxSwift]]
+- [[RxSwift-Ch 1. Hello, RxSwift]]
 
 
 ### Tag
