@@ -151,61 +151,61 @@
 - [5. SOLID 원칙](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/Coding/5.%20filter%20vs%20reduce%20(x).md) 
 - [6. prefix, infix, postfix](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/Coding/6.%20map%20vs%20compactMap%20(x).md)
 - [7. TDD(Test Driven Development)](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/Coding/7.%20SOLID%20원칙.md)
-- [8. BDD(Behavior Driven Development) (x)]
-- [9. Code Convention - Swift]
-- [10. Parameter and Argument]
-- [11. 값 타입 vs 참조 타입 (x)]
+- [8. BDD(Behavior Driven Development) (x)](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/Coding/8.%20BDD%20(Behavior%20Driven%20Development)%20(x).md)
+- [9. Code Convention - Swift](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/Coding/9.%20Code%20Convention%20-%20Swift.md)
+- [10. Parameter and Argument](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/Coding/10.%20매개변수(parameter)와%20전달인자(argument).md)
+- [11. 값 타입 vs 참조 타입 (x)](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/Coding/11.%20값%20타입%20vs%20참조%20타입%20(x).md)
 #### Design Pattern
-- [1. MVC, MVP, MVVM 비교]
-- [2 Command Pattern (x)]
+- [1. MVC, MVP, MVVM 비교](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/Coding/Design%20Pattern/1.%20MVC%2C%20MVP%2C%20MVVM%20비교.md)
+- [2 Command Pattern (x)](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/Coding/Design%20Pattern/2.%20Command%20Pattern%20(x).md)
 ### DB 
-- [1. Realm (x)]
-- [2. 프로그래머 코딩테스트(23.03.14)]
-- [3. 날짜, 시간 차이 구하기]
+- [1. Realm (x)](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/DB/1.%20Realm%20(x).md)
+- [2. 프로그래머 코딩테스트(23.03.14)](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/DB/2.%20프로그래머%20코딩테스트%20(23.03.14).md)
+- [3. 날짜, 시간 차이 구하기](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/DB/3.%20날짜%2C%20시간%20차이%20구하기.md)
 ### ETC 
-- [1. AS-IS, TO-BE]
-- [2. CI, CD (x)]
-- [3. bitrise (x)]
+- [1. AS-IS, TO-BE](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/ETC/1.%20AS-IS%2C%20TO-BE.md)
+- [2. CI, CD (x)](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/ETC/2.%20CI%2C%20CD%20(x).md)
+- [3. bitrise (x)](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/ETC/3.%20bitrise%20(x).md)
 ### Internet Protocol & Server 
-- [1. API와 SDK]
-- [2. URI vs URL]
-- [3. REST]
-- [4. Load Balancing (x)]
+- [1. API와 SDK](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/Internet%20Protocol%2C%20Server/1.%20API와%20SDK.md)
+- [2. URI vs URL](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/Internet%20Protocol%2C%20Server/2.%20URI%20vs%20URL.md)
+- [3. REST](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/Internet%20Protocol%2C%20Server/3.%20REST.md)
+- [4. Load Balancing (x)](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/Internet%20Protocol%2C%20Server/4.%20Load%20Balancing%20(x).md)
 ### Linux
-- [1. I-Node란?]
-- [2. Disk Quotas란?]
+- [1. I-Node란?](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/Linux/1.%20I-Node란%3F.md)
+- [2. Disk Quotas란?](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/Linux/2.%20%20Disk%20Quotas%20란%3F.md)
 #### LinuxMster
-- [1. 리눅스의 이해 -1) 개요]
-- [1. 리눅스의 이해 -2) 리눅스의 역사 및 철학]
-- [1. 리눅스의 이해 -3) 리눅스의 특징 및 장단점]
-- [2. 리눅스 설치 -1) 리눅스 설치 및 유형]
-- [2. 리눅스 설치 -2) 리눅스 부트]
-- [2. 리눅스 설치 -3) 파일 시스템과 파티션]
-- [3. 기본 명령어 -1) 사용자 생성 및 계정 관리]
-- [3. 기본 명령어 -2) 그룹 생성 및 그룹 관리]
-- [3. 기본 명령어 -3) 디렉터리 및 파일]
-- [3. 기본 명령어 -4) 기타 명령어]
-- [4. 파일 시스템 관리 -1) 사용자 권한 및 그룹 설정]
-- [4. 파일 시스템 관리 -2) 파일 시스템 관리 유틸리티]
-- [5. 셸 관리 -1) 셸의 특징 및 명령어]
-- [5. 셸 관리 -2) 환경 설정]
-- [6. 프로세스 관리 -1) 프로세스의 개념 및 유형 ]
-- [6. 프로세스 관리 -2) 프로세스 관리 유틸리티]
-- [7. 에디터 관리 -1) 에디터의 종류 및 특징]
-- [7. 에디터 관리 -2) 편집기(에디터) 활용]
-- [8. 소프트웨어 설치 관리 -1) 패키지 살치 및 제거]
-- [8. 소프트웨어 설치 관리 -2) 소스 파일 설치 및 제거]
-- [9. 주변 장치 관리 -1) 주변 장치의 종류 및 특징]
-- [9. 주변 장치 관리 -2) 주변 장치 활용]
-- [10. X 윈도 -1) X 윈도 일반]
-- [10. X 윈도 -2) X 윈도 활용]
-- [11. 인터넷 활용 -1) 네트워크의 개념]
-- [11. 인터넷 활용 -2) 인터넷 서비스 종류 및 특징]
-- [11. 인터넷 활용 -3) 인터넷 서비스 설정]
-- [12. 응용 분야 -1) 기술 동향]
-- [12. 응용 분야 -2) 활용 기술]
+- [1. 리눅스의 이해 -1) 개요](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/Linux/LinuxMaster/1.%20리눅스의%20이해%20-%201)%20개요.md)
+- [1. 리눅스의 이해 -2) 리눅스의 역사 및 철학](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/Linux/LinuxMaster/1.%20리눅스의%20이해%20-%202)%20리눅스의%20역사%20및%20철학.md)
+- [1. 리눅스의 이해 -3) 리눅스의 특징 및 장단점](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/Linux/LinuxMaster/1.%20리눅스의%20이해%20-%203)%20리눅스의%20특징%20및%20장%20단점.md)
+- [2. 리눅스 설치 -1) 리눅스 설치 및 유형](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/Linux/LinuxMaster/2.%20리눅스%20설치%20-%201)%20리눅스%20설치%20및%20유형.md)
+- [2. 리눅스 설치 -2) 리눅스 부트](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/Linux/LinuxMaster/2.%20리눅스%20설치%20-%202)%20리눅스%20부트.md)
+- [2. 리눅스 설치 -3) 파일 시스템과 파티션](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/Linux/LinuxMaster/2.%20리눅스%20설치%20-%203)%20파일%20시스템과%20파티션.md)
+- [3. 기본 명령어 -1) 사용자 생성 및 계정 관리](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/Linux/LinuxMaster/3.%20기본%20명령어%20-%201)%20사용자%20생성%20및%20계정%20관리.md)
+- [3. 기본 명령어 -2) 그룹 생성 및 그룹 관리](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/Linux/LinuxMaster/3.%20기본%20명령어%20-%202)%20그룹%20생성%20및%20그룹%20관리.md)
+- [3. 기본 명령어 -3) 디렉터리 및 파일](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/Linux/LinuxMaster/3.%20기본%20명령어%20-%203)%20디렉터리%20및%20파일.md)
+- [3. 기본 명령어 -4) 기타 명령어](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/Linux/LinuxMaster/3.%20기본%20명령어%20-%204)%20기타%20명령어.md)
+- [4. 파일 시스템 관리 -1) 사용자 권한 및 그룹 설정](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/Linux/LinuxMaster/4.%20파일%20시스템%20관리%20-%201)%20사용자%20권한%20및%20그룹%20설정.md)
+- [4. 파일 시스템 관리 -2) 파일 시스템 관리 유틸리티](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/Linux/LinuxMaster/4.%20파일%20시스템%20관리%20-%202)%20파일%20시스템%20관리%20유틸리티.md)
+- [5. 셸 관리 -1) 셸의 특징 및 명령어](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/Linux/LinuxMaster/5.%20셸%20관리%20-%201)%20셸의%20특징%20및%20명령어.md)
+- [5. 셸 관리 -2) 환경 설정](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/Linux/LinuxMaster/5.%20셸%20관리%20-%202)%20환경%20설정.md)
+- [6. 프로세스 관리 -1) 프로세스의 개념 및 유형](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/Linux/LinuxMaster/6.%20프로세스%20관리%20-%201)%20프로세스의%20개념%20및%20유형.md)
+- [6. 프로세스 관리 -2) 프로세스 관리 유틸리티](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/Linux/LinuxMaster/6.%20프로세스%20관리%20-%202)%20프로세스%20관리%20유틸리티.md)
+- [7. 에디터 관리 -1) 에디터의 종류 및 특징](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/Linux/LinuxMaster/7.%20에디터%20관리%20-%201)%20에디터의%20종류%20및%20특징.md)
+- [7. 에디터 관리 -2) 편집기(에디터) 활용](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/Linux/LinuxMaster/7.%20에디터%20관리%20-%202)%20편집기(에디터)%20활용.md)
+- [8. 소프트웨어 설치 관리 -1) 패키지 살치 및 제거](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/Linux/LinuxMaster/8.%20소프트웨어%20설치%20관리%20-%201)%20패키지%20설치%20및%20제거.md)
+- [8. 소프트웨어 설치 관리 -2) 소스 파일 설치 및 제거](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/Linux/LinuxMaster/8.%20소프트웨어%20설치%20관리%20-%202)%20소스%20파일%20설치%20및%20제거.md)
+- [9. 주변 장치 관리 -1) 주변 장치의 종류 및 특징](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/Linux/LinuxMaster/9.%20주변%20장치%20관리%20-%201)%20주변%20장치의%20종류%20및%20특징.md)
+- [9. 주변 장치 관리 -2) 주변 장치 활용](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/Linux/LinuxMaster/9.%20주변%20장치%20관리%20-%202)%20주변%20장치%20활용.md)
+- [10. X 윈도 -1) X 윈도 일반](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/Linux/LinuxMaster/10.%20X%20윈도%20-%201)%20X%20윈도%20일반.md)
+- [10. X 윈도 -2) X 윈도 활용](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/Linux/LinuxMaster/10.%20X%20윈도%20-%202)%20X%20윈도%20활용.md)
+- [11. 인터넷 활용 -1) 네트워크의 개념](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/Linux/LinuxMaster/11.%20인터넷%20활용%20-%201)%20네트워크의%20개념.md)
+- [11. 인터넷 활용 -2) 인터넷 서비스 종류 및 특징](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/Linux/LinuxMaster/11.%20인터넷%20활용%20-%202)%20인터넷%20서비스%20종류%20및%20특징.md)
+- [11. 인터넷 활용 -3) 인터넷 서비스 설정](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/Linux/LinuxMaster/11.%20인터넷%20활용%20-%203)%20인터넷%20서비스%20설정.md)
+- [12. 응용 분야 -1) 기술 동향](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/Linux/LinuxMaster/12.%20응용%20분야%20-%201)%20기술%20동향.md)
+- [12. 응용 분야 -2) 활용 기술](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/Linux/LinuxMaster/12.%20응용%20분야%20-%202)%20활용%20기술.md)
 ### OS
-- [1. System Calls (x)]
+- [1. System Calls (x)](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/OS/1.%20System%20Calls%20(x).md)
 # Algorithm
 ### 문제 
 #### 백준 
