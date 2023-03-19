@@ -2,7 +2,7 @@
 [[2. UIText Field (x)]]
 [[3. UIText View (x)]]
 [[4. NSAttributedString vs NSMutableAttributedString]]
-[[5. UILabel Padding 넣기]]
+[[5. UILabel Padding]]
 [[6. sizeToFit vs sizeThatFits (x)]]
 [[7. Label vs TextField vs TextView (x)]]
 [[8. TextView Custom PlaceHolder]]

@@ -1,1 +1,1 @@
-[[1. UITapGestureRecongizer (x)]]
+[[1. UITapGestureRecognizer (x)]]

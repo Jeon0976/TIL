@@ -11,6 +11,5 @@
 [[11. Code Convention]]
 [[12. 매개변수(parameter)와 전달인자(argument)]]
 [[13. 값 타입 vs 참조 타입 (x)]]
-[[14. 고차함수 직접 구현하기 (x)]]
 [[- Design Pattern]]
 #CS/Coding
