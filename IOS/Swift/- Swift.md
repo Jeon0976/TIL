@@ -7,7 +7,7 @@
 [[5. DownCasting (x)]]
 [[6. ARC  (1)]]
 [[7. ARC (2)]]
-[[8. ARC (2)]]
+[[8. ARC (3)]]
 [[9. weak self]]
 [[10. Capture List]]
 [[11. Closures]]
