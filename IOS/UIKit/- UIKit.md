@@ -21,4 +21,5 @@
 [[7. navi.pushViewController VS present (x)]]
 [[8. alpha VS opacity (x)]]
 [[9. NSLayoutContraints (x)]]
+[[10. ViewController init? (x)]]
 #IOS/UIKit 
