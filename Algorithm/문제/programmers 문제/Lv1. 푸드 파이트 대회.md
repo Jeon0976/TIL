@@ -3,8 +3,8 @@
 ### 주제:  String, 배열 for 문 돌리기
 ---
 ### 메모: 
-#### 인사이드
-- 배열 for 문 돌리기 할때 기존 `for i in 0..<array.count` 대신  `for i in array.indices` 사용 
+#### 인사이트
+- 배열 for 문 돌리기 할때 기존 `for i in 0..<array.count` 대신  `for i in array.indices` 사용 or `for arr in array`
 - The indices that are valid for subscripting the collection, in ascending order.
 - String 연속 출력 -> String(repeating: , count: )
 #### 문제
