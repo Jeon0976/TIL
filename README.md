@@ -219,4 +219,4 @@
 - [1. 수학 계산 시간 복잡도](https://github.com/Jeon0976/TIL/blob/main/Algorithm/이론%20%26%20인사이트/1.%20%20수학%20계산%20시간%20복잡도.md)
 - [2. 고차함수 활용하기](https://github.com/Jeon0976/TIL/tree/main/Algorithm/이론%20%26%20인사이트)
 ##### Basic Data Structures & Algorithms
-- [1. Stack (x)]
+- [1. Stack (x)](https://github.com/Jeon0976/TIL/blob/main/Algorithm/이론%20%26%20인사이트/Basic%20Data%20Structures%20%26%20Algorithms/1.%20Stack.md)
