@@ -4,3 +4,5 @@
 [[4. Equatable]]
 [[5. Sequence (x)]]
 [[6. Collection (x)]]
+[[7. ExpressibleBy<Type>Literal (x)]]
+[[8. CustomStringConvertible (x)]]
