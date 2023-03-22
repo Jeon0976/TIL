@@ -6,3 +6,5 @@
 [[6. Collection (x)]]
 [[7. ExpressibleBy<Type>Literal (x)]]
 [[8. CustomStringConvertible (x)]]
+[[9. BidirectionalCollection (x)]]
+[[10. RandomAccessCollection (x)]]
