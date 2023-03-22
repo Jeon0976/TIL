@@ -47,9 +47,9 @@
 - [17. Struct vc Class (x)](https://github.com/Jeon0976/TIL/blob/main/IOS/Swift/17.%20Sturct%20VS%20Class%20(x).md)
 - [18. subscript (x)](https://github.com/Jeon0976/TIL/blob/main/IOS/Swift/18.%20subscript%20(x).md)
 - [19. 전역상수,변수와 함수](https://github.com/Jeon0976/TIL/blob/main/IOS/Swift/19.%20전역상수%2C변수와%20함수.md)
-- [20. inout (x)](https://github.com/Jeon0976/TIL/blob/main/IOS/Swift/20.%20inout%20(x).md)
-- [21. defer (x)]
-- [22. 연산자 '===,!==' vs '==,!=' (x)]
+- [20. inout ](https://github.com/Jeon0976/TIL/blob/main/IOS/Swift/20.%20inout.md)
+- [21. defer](https://github.com/Jeon0976/TIL/blob/main/IOS/Swift/21.%20defer.md)
+- [22. 연산자 '===,!==' vs '==,!=' (x)](https://github.com/Jeon0976/TIL/blob/main/IOS/Swift/22.%20연산자%20'%3D%3D%3D%2C!%3D%3D'%20vs%20'%3D%3D%2C!%3D'%20(x).md)
 #### 고차함수 
 - [1. map](https://github.com/Jeon0976/TIL/blob/main/IOS/Swift/고차함수/1.%20map.md)
 - [2. filter](https://github.com/Jeon0976/TIL/blob/main/IOS/Swift/고차함수/2.%20filter.md)
@@ -64,10 +64,11 @@
 - [4. Equatable](https://github.com/Jeon0976/TIL/blob/main/IOS/Swift/Protocol/4.%20Equatable.md)
 - [5. Sequence (x)](https://github.com/Jeon0976/TIL/blob/main/IOS/Swift/Protocol/5.%20Sequence%20(x).md)
 - [6. Collection (x)](https://github.com/Jeon0976/TIL/blob/main/IOS/Swift/Protocol/6.%20Collection%20(x).md)
-- [7. ExpressibleBy<Type>Literal (x)]
-- [8. CustomStringConvertible (x)]
-- [9. BidirectionalCollection (x)]
-- [10. RandomAccessCollection (x)]
+- [7. ExpressibleBy<\Type>Literal (x)](https://github.com/Jeon0976/TIL/blob/main/IOS/Swift/Protocol/7.%20ExpressibleBy%3CType%3ELiteral%20(x).md)
+- [8. CustomStringConvertible (x)](https://github.com/Jeon0976/TIL/blob/main/IOS/Swift/Protocol/8.%20CustomStringConvertible%20(x).md)
+- [9. BidirectionalCollection (x)](https://github.com/Jeon0976/TIL/blob/main/IOS/Swift/Protocol/9.%20BidirectionalCollection%20(x).md)
+- [10. RandomAccessCollection (x)](https://github.com/Jeon0976/TIL/blob/main/IOS/Swift/Protocol/10.%20RandomAccessCollection%20(x).md)
+- [11. DiscardableResult](https://github.com/Jeon0976/TIL/blob/main/IOS/Swift/Protocol/11.%20DiscardableResult.md)
 ### UIKit
 - [1. NoStroyBoard](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/1.%20NoStoryBoard.md)
 - [2. ViewDidLoad() vs init()](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/2.%20ViewDidLoad()%20vs%20init().md)
@@ -224,7 +225,7 @@
 ### 이론 & 인사이트 
 - [1. 수학 계산 시간 복잡도](https://github.com/Jeon0976/TIL/blob/main/Algorithm/이론%20%26%20인사이트/1.%20%20수학%20계산%20시간%20복잡도.md)
 - [2. 고차함수 활용하기](https://github.com/Jeon0976/TIL/tree/main/Algorithm/이론%20%26%20인사이트)
-- [3. 최대공약수 & 최소공배수 (x)]
+- [3. 최대공약수 & 최소공배수](https://github.com/Jeon0976/TIL/blob/main/Algorithm/이론%20%26%20인사이트/3.%20최대공약수%20%26%20최소공배수.md)
 ##### Basic Data Structures & Algorithms
 - [1. Stack](https://github.com/Jeon0976/TIL/blob/main/Algorithm/이론%20%26%20인사이트/Basic%20Data%20Structures%20%26%20Algorithms/1.%20Stack.md)
-- [2.Linked Lists (x)]
+- [2.Linked Lists (x)](https://github.com/Jeon0976/TIL/blob/main/Algorithm/이론%20%26%20인사이트/Basic%20Data%20Structures%20%26%20Algorithms/2.%20Linked%20Lists%20(x).md)
