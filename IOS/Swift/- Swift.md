@@ -19,7 +19,7 @@
 [[17. Sturct VS Class (x)]]
 [[18. subscript (x)]]
 [[19. 전역상수,변수와 함수]]
-[[20. inout (x)]]
-[[21. defer (x)]]
+[[20. inout]]
+[[21. defer]]
 [[22. 연산자 '===,!==' vs '==,!=' (x)]]
 #Swift 

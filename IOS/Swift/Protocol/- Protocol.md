@@ -8,3 +8,4 @@
 [[8. CustomStringConvertible (x)]]
 [[9. BidirectionalCollection (x)]]
 [[10. RandomAccessCollection (x)]]
+[[11. DiscardableResult]]
