@@ -22,4 +22,6 @@
 [[20. inout]]
 [[21. defer]]
 [[22. 연산자 '===,!==' vs '==,!=' (x)]]
+[[23. readLine()]]
+[[24. Substring (x)]]
 #Swift 
