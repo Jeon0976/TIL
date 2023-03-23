@@ -50,8 +50,8 @@
 - [20. inout ](https://github.com/Jeon0976/TIL/blob/main/IOS/Swift/20.%20inout.md)
 - [21. defer](https://github.com/Jeon0976/TIL/blob/main/IOS/Swift/21.%20defer.md)
 - [22. 연산자 '===,!==' vs '==,!=' (x)](https://github.com/Jeon0976/TIL/blob/main/IOS/Swift/22.%20연산자%20'%3D%3D%3D%2C!%3D%3D'%20vs%20'%3D%3D%2C!%3D'%20(x).md)
-- [23. readLine()]
-- [24. Substring (x)]
+- [23. readLine()](https://github.com/Jeon0976/TIL/blob/main/IOS/Swift/23.%20readLine().md)
+- [24. Substring (x)](https://github.com/Jeon0976/TIL/blob/main/IOS/Swift/24.%20Substring%20(x).md)
 #### 고차함수 
 - [1. map](https://github.com/Jeon0976/TIL/blob/main/IOS/Swift/고차함수/1.%20map.md)
 - [2. filter](https://github.com/Jeon0976/TIL/blob/main/IOS/Swift/고차함수/2.%20filter.md)
@@ -220,7 +220,7 @@
 ### 문제 
 #### 백준 
 #### programmers
-- [Lv0. 최댓값 만들기(1) (인사이트)]
+- [Lv0. 최댓값 만들기(1) (인사이트)](https://github.com/Jeon0976/TIL/blob/main/Algorithm/문제/programmers%20문제/Lv0.%20최댓값%20만들기(1)%20(인사이트).md)
 - [Lv0. 최빈값 구하기 (인사이트)](https://github.com/Jeon0976/TIL/blob/main/Algorithm/문제/programmers%20문제/Lv0.%20최빈값%20구하기%20(인사이트).md)
 - [Lv1. 콜라츠 추측](https://github.com/Jeon0976/TIL/blob/main/Algorithm/문제/programmers%20문제/Lv1.%20콜라츠%20추측.md)
 - [Lv1. 푸드 파이트 대회](https://github.com/Jeon0976/TIL/blob/main/Algorithm/문제/programmers%20문제/Lv1.%20푸드%20파이트%20대회.md)
