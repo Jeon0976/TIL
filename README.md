@@ -90,6 +90,8 @@
 - [5. Finite Observable vs Infinite Observable](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/RxSwift/5.%20Finite%20Observable%20VS%20Infinite%20Observable.md)
 - [6. Digging into Subscribe's Behavior](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/RxSwift/6.%20%20Digging%20into%20Subscribe's%20Behavior.md)
 - [7. What is RxCocoa](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/RxSwift/7.%20What%20is%20RxCocoa.md)
+- [8. Section 나누기 TableView (x)]
+- [9. modelSelected, itemSelected (x)]
 ##### RxSwift Operator+
 - [1. Driver](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/RxSwift/RxSwift%20Operator%2B/1.%20Driver.md)
 - [2. ~Subject vs ~Relay](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/RxSwift/RxSwift%20Operator%2B/2.%20%7ESubject%20vs%20%7ERelay.md)
@@ -150,6 +152,8 @@
 - [4. Header, Footer View에 관하여 (x)](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/UITableView/4.%20Header%2C%20Footer%20View에%20관하여%20(x).md)
 - [5. ViewContoller에서 TableViewCell 내부의 Button Action 처리하기](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/UITableView/5.%20ViewController에서%20TableViewCell%20내부의%20Button%20Action%20처리하기.md)
 - [6. ContenView?? (x)](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/UITableView/6.%20contentView%3F%3F%20(x).md)
+- [7. Table View background 설정 (x)]
+- [8. table view의 style 설정 (x)]
 #### UITapGestureRecognizer
 - [1. UITapGestureRecognizer (x)](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/UITapGestureRecognizer/1.%20UITapGestureRecognizer%20(x).md)
 # CS 
@@ -229,6 +233,8 @@
 - [1. 수학 계산 시간 복잡도](https://github.com/Jeon0976/TIL/blob/main/Algorithm/이론%20%26%20인사이트/1.%20%20수학%20계산%20시간%20복잡도.md)
 - [2. 고차함수 활용하기](https://github.com/Jeon0976/TIL/tree/main/Algorithm/이론%20%26%20인사이트)
 - [3. 최대공약수 & 최소공배수](https://github.com/Jeon0976/TIL/blob/main/Algorithm/이론%20%26%20인사이트/3.%20최대공약수%20%26%20최소공배수.md)
+- [4. 약수 구하기 알고리즘 (x)]
+- [5. Swift의 기본함수 활용하기]
 ##### Basic Data Structures & Algorithms
 - [1. Stack](https://github.com/Jeon0976/TIL/blob/main/Algorithm/이론%20%26%20인사이트/Basic%20Data%20Structures%20%26%20Algorithms/1.%20Stack.md)
 - [2.Linked Lists (x)](https://github.com/Jeon0976/TIL/blob/main/Algorithm/이론%20%26%20인사이트/Basic%20Data%20Structures%20%26%20Algorithms/2.%20Linked%20Lists%20(x).md)
