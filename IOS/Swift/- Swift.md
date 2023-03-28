@@ -24,4 +24,6 @@
 [[22. 연산자 '===,!==' vs '==,!=' (x)]]
 [[23. readLine()]]
 [[24. Substring (x)]]
+[[25. Value Semantics (x)]]
+[[26. COW(Copy-on-Write) (x)]]
 #Swift 
