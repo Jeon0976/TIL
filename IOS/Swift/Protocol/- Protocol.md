@@ -9,3 +9,5 @@
 [[9. BidirectionalCollection (x)]]
 [[10. RandomAccessCollection (x)]]
 [[11. DiscardableResult]]
+[[12. MutableCollection (x)]]
+[[13. RangeReplaceableCollection (x)]]
