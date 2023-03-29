@@ -173,8 +173,8 @@
 - [5. Swift의 기본함수 활용하기]
 ##### Basic Data Structures & Algorithms
 - [1. Stack](https://github.com/Jeon0976/TIL/blob/main/Algorithm/이론%20%26%20인사이트/Basic%20Data%20Structures%20%26%20Algorithms/1.%20Stack.md)
-- [2.Linked Lists (1)]https://github.com/Jeon0976/TIL/blob/main/Algorithm/이론%20%26%20인사이트/Basic%20Data%20Structures%20%26%20Algorithms/2.%20Linked%20Lists%20(1).md
-- [3.Linked List (2)]https://github.com/Jeon0976/TIL/blob/main/Algorithm/이론%20%26%20인사이트/Basic%20Data%20Structures%20%26%20Algorithms/3.%20Linked%20List%20(2).md
+- [2.Linked Lists (1)](https://github.com/Jeon0976/TIL/blob/main/Algorithm/이론%20%26%20인사이트/Basic%20Data%20Structures%20%26%20Algorithms/2.%20Linked%20Lists%20(1).md)
+- [3.Linked List (2)](https://github.com/Jeon0976/TIL/blob/main/Algorithm/이론%20%26%20인사이트/Basic%20Data%20Structures%20%26%20Algorithms/3.%20Linked%20List%20(2).md)
 # CS 
 ### Coding 
 - [1. 정규식(RegEx) (x)](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/Coding/1.%20정규식%20(RegEx)%20(x).md)
