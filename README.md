@@ -156,6 +156,25 @@
 - [8. table view의 style 설정 (x)]
 #### UITapGestureRecognizer
 - [1. UITapGestureRecognizer (x)](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/UITapGestureRecognizer/1.%20UITapGestureRecognizer%20(x).md)
+# Algorithm
+### 문제 
+#### 백준 
+#### programmers
+- [Lv0. 최댓값 만들기(1) (인사이트)](https://github.com/Jeon0976/TIL/blob/main/Algorithm/문제/programmers%20문제/Lv0.%20최댓값%20만들기(1)%20(인사이트).md)
+- [Lv0. 최빈값 구하기 (인사이트)](https://github.com/Jeon0976/TIL/blob/main/Algorithm/문제/programmers%20문제/Lv0.%20최빈값%20구하기%20(인사이트).md)
+- [Lv1. 콜라츠 추측](https://github.com/Jeon0976/TIL/blob/main/Algorithm/문제/programmers%20문제/Lv1.%20콜라츠%20추측.md)
+- [Lv1. 푸드 파이트 대회](https://github.com/Jeon0976/TIL/blob/main/Algorithm/문제/programmers%20문제/Lv1.%20푸드%20파이트%20대회.md)
+#### etc
+### 이론 & 인사이트 
+- [1. 수학 계산 시간 복잡도](https://github.com/Jeon0976/TIL/blob/main/Algorithm/이론%20%26%20인사이트/1.%20%20수학%20계산%20시간%20복잡도.md)
+- [2. 고차함수 활용하기](https://github.com/Jeon0976/TIL/tree/main/Algorithm/이론%20%26%20인사이트)
+- [3. 최대공약수 & 최소공배수](https://github.com/Jeon0976/TIL/blob/main/Algorithm/이론%20%26%20인사이트/3.%20최대공약수%20%26%20최소공배수.md)
+- [4. 약수 구하기 알고리즘 (x)]
+- [5. Swift의 기본함수 활용하기]
+##### Basic Data Structures & Algorithms
+- [1. Stack](https://github.com/Jeon0976/TIL/blob/main/Algorithm/이론%20%26%20인사이트/Basic%20Data%20Structures%20%26%20Algorithms/1.%20Stack.md)
+- [2.Linked Lists (1)]https://github.com/Jeon0976/TIL/blob/main/Algorithm/이론%20%26%20인사이트/Basic%20Data%20Structures%20%26%20Algorithms/2.%20Linked%20Lists%20(1).md
+- [3.Linked List (2)]https://github.com/Jeon0976/TIL/blob/main/Algorithm/이론%20%26%20인사이트/Basic%20Data%20Structures%20%26%20Algorithms/3.%20Linked%20List%20(2).md
 # CS 
 ### Coding 
 - [1. 정규식(RegEx) (x)](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/Coding/1.%20정규식%20(RegEx)%20(x).md)
@@ -220,21 +239,3 @@
 - [12. 응용 분야 -2) 활용 기술](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/Linux/LinuxMaster/12.%20응용%20분야%20-%202%20활용%20기술.md)
 ### OS
 - [1. System Calls (x)](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/OS/1.%20System%20Calls%20(x).md)
-# Algorithm
-### 문제 
-#### 백준 
-#### programmers
-- [Lv0. 최댓값 만들기(1) (인사이트)](https://github.com/Jeon0976/TIL/blob/main/Algorithm/문제/programmers%20문제/Lv0.%20최댓값%20만들기(1)%20(인사이트).md)
-- [Lv0. 최빈값 구하기 (인사이트)](https://github.com/Jeon0976/TIL/blob/main/Algorithm/문제/programmers%20문제/Lv0.%20최빈값%20구하기%20(인사이트).md)
-- [Lv1. 콜라츠 추측](https://github.com/Jeon0976/TIL/blob/main/Algorithm/문제/programmers%20문제/Lv1.%20콜라츠%20추측.md)
-- [Lv1. 푸드 파이트 대회](https://github.com/Jeon0976/TIL/blob/main/Algorithm/문제/programmers%20문제/Lv1.%20푸드%20파이트%20대회.md)
-#### etc
-### 이론 & 인사이트 
-- [1. 수학 계산 시간 복잡도](https://github.com/Jeon0976/TIL/blob/main/Algorithm/이론%20%26%20인사이트/1.%20%20수학%20계산%20시간%20복잡도.md)
-- [2. 고차함수 활용하기](https://github.com/Jeon0976/TIL/tree/main/Algorithm/이론%20%26%20인사이트)
-- [3. 최대공약수 & 최소공배수](https://github.com/Jeon0976/TIL/blob/main/Algorithm/이론%20%26%20인사이트/3.%20최대공약수%20%26%20최소공배수.md)
-- [4. 약수 구하기 알고리즘 (x)]
-- [5. Swift의 기본함수 활용하기]
-##### Basic Data Structures & Algorithms
-- [1. Stack](https://github.com/Jeon0976/TIL/blob/main/Algorithm/이론%20%26%20인사이트/Basic%20Data%20Structures%20%26%20Algorithms/1.%20Stack.md)
-- [2.Linked Lists (x)](https://github.com/Jeon0976/TIL/blob/main/Algorithm/이론%20%26%20인사이트/Basic%20Data%20Structures%20%26%20Algorithms/2.%20Linked%20Lists%20(x).md)
