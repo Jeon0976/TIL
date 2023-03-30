@@ -26,4 +26,6 @@
 [[24. Substring (x)]]
 [[25. Value Semantics (x)]]
 [[26. COW(Copy-on-Write) (x)]]
+[[27. associatedtype (x)]]
+[[28. get, set, didSet, willSet (x)]]
 #Swift 
