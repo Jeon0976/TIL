@@ -3,3 +3,6 @@
 [[3. Linked List (2)]]
 [[4. Doubly Linked List (x)]]
 [[5. RingBuffer (x)]]
+[[6. Queue (x)]]
+[[7. Deque (x)]]
+[[8. Parametric Search (x)]]
