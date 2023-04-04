@@ -28,4 +28,5 @@
 [[26. COW(Copy-on-Write) (x)]]
 [[27. associatedtype (x)]]
 [[28. get, set, didSet, willSet (x)]]
+[[29. Protocol 채택 시 Self requirements를 사용 하였을 때]]
 #Swift 
