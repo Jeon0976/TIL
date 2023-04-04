@@ -11,3 +11,5 @@
 [[11. DiscardableResult]]
 [[12. MutableCollection (x)]]
 [[13. RangeReplaceableCollection (x)]]
+[[14. Comparable (x)]]
+[[15. Hashable (x)]]
