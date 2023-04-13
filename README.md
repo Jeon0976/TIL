@@ -52,6 +52,13 @@
 - [22. 연산자 '===,!==' vs '==,!=' (x)](https://github.com/Jeon0976/TIL/blob/main/IOS/Swift/22.%20연산자%20'%3D%3D%3D%2C!%3D%3D'%20vs%20'%3D%3D%2C!%3D'%20(x).md)
 - [23. readLine()](https://github.com/Jeon0976/TIL/blob/main/IOS/Swift/23.%20readLine().md)
 - [24. Substring (x)](https://github.com/Jeon0976/TIL/blob/main/IOS/Swift/24.%20Substring%20(x).md)
+- [25. Value Semantics (x)]
+- [26. COW(Copy-on-Write) (x)]
+- [27. associatedtype (x)]
+- [28. get, set, didSet, wiiSet (x)]
+- [29. Protocol 채택 시 Self requirements를 사용 하였을 때]
+- [30. 소수점 다루기 (x)]
+- [31. Set (x)]
 #### 고차함수 
 - [1. map](https://github.com/Jeon0976/TIL/blob/main/IOS/Swift/고차함수/1.%20map.md)
 - [2. filter](https://github.com/Jeon0976/TIL/blob/main/IOS/Swift/고차함수/2.%20filter.md)
@@ -71,6 +78,10 @@
 - [9. BidirectionalCollection (x)](https://github.com/Jeon0976/TIL/blob/main/IOS/Swift/Protocol/9.%20BidirectionalCollection%20(x).md)
 - [10. RandomAccessCollection (x)](https://github.com/Jeon0976/TIL/blob/main/IOS/Swift/Protocol/10.%20RandomAccessCollection%20(x).md)
 - [11. DiscardableResult](https://github.com/Jeon0976/TIL/blob/main/IOS/Swift/Protocol/11.%20DiscardableResult.md)
+- [12. MutableCollection (x)]
+- [13. RangeReplaceableCollection (x)]
+- [14. Comparable (x)]
+- [15. Hashable (x)]
 ### UIKit
 - [1. NoStroyBoard](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/1.%20NoStoryBoard.md)
 - [2. ViewDidLoad() vs init()](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/2.%20ViewDidLoad()%20vs%20init().md)
@@ -159,22 +170,40 @@
 # Algorithm
 ### 문제 
 #### 백준 
+- [1463번. 1로 만들기]
+- [14725번. 개미굴 (x)]
 #### programmers
 - [Lv0. 최댓값 만들기(1) (인사이트)](https://github.com/Jeon0976/TIL/blob/main/Algorithm/문제/programmers%20문제/Lv0.%20최댓값%20만들기(1)%20(인사이트).md)
 - [Lv0. 최빈값 구하기 (인사이트)](https://github.com/Jeon0976/TIL/blob/main/Algorithm/문제/programmers%20문제/Lv0.%20최빈값%20구하기%20(인사이트).md)
 - [Lv1. 콜라츠 추측](https://github.com/Jeon0976/TIL/blob/main/Algorithm/문제/programmers%20문제/Lv1.%20콜라츠%20추측.md)
 - [Lv1. 푸드 파이트 대회](https://github.com/Jeon0976/TIL/blob/main/Algorithm/문제/programmers%20문제/Lv1.%20푸드%20파이트%20대회.md)
+- [Lv2. 가장 큰 수 (x)]
+- [Lv2. 큰 수 만들기(x)]
+- [Lv2. 가장 큰 수 (x)]
+- [Lv3. 네트워크 (x)]
+- [Lv3.  N으로 표현 (x)]
 #### etc
+- [1. 떡볶이 떡 만들기 (이코테.이진탐색) (x)]
+- [2. 이코테. DP 문제들]
 ### 이론 & 인사이트 
 - [1. 수학 계산 시간 복잡도](https://github.com/Jeon0976/TIL/blob/main/Algorithm/이론%20%26%20인사이트/1.%20%20수학%20계산%20시간%20복잡도.md)
 - [2. 고차함수 활용하기](https://github.com/Jeon0976/TIL/tree/main/Algorithm/이론%20%26%20인사이트)
 - [3. 최대공약수 & 최소공배수](https://github.com/Jeon0976/TIL/blob/main/Algorithm/이론%20%26%20인사이트/3.%20최대공약수%20%26%20최소공배수.md)
 - [4. 약수 구하기 알고리즘 (x)]
 - [5. Swift의 기본함수 활용하기]
+- [6. N이 주어졌을 때 N개의 배열을 동적으로 만드는 방법 (x)]
+
 ##### Basic Data Structures & Algorithms
 - [1. Stack](https://github.com/Jeon0976/TIL/blob/main/Algorithm/이론%20%26%20인사이트/Basic%20Data%20Structures%20%26%20Algorithms/1.%20Stack.md)
 - [2.Linked Lists (1)](https://github.com/Jeon0976/TIL/blob/main/Algorithm/이론%20%26%20인사이트/Basic%20Data%20Structures%20%26%20Algorithms/2.%20Linked%20Lists%20(1).md)
 - [3.Linked List (2)](https://github.com/Jeon0976/TIL/blob/main/Algorithm/이론%20%26%20인사이트/Basic%20Data%20Structures%20%26%20Algorithms/3.%20Linked%20List%20(2).md)
+- [4. Doubly Linked List (x)]
+- [5. RingBuffer (x)]
+- [6. Queue (x)]
+- [7. Deque (x)]
+- [8. Parametric Search (x)]
+- [9.  DP(Dynamic Programming)]
+- [10. Tabulation vs Memoization]
 # CS 
 ### Coding 
 - [1. 정규식(RegEx) (x)](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/Coding/1.%20정규식%20(RegEx)%20(x).md)

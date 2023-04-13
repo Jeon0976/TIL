@@ -30,4 +30,5 @@
 [[28. get, set, didSet, willSet (x)]]
 [[29. Protocol 채택 시 Self requirements를 사용 하였을 때]]
 [[30. 소수점 다루기 (x)]]
+[[31. Set (x)]]
 #Swift 

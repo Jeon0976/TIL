@@ -6,5 +6,5 @@
 [[6. Queue (x)]]
 [[7. Deque (x)]]
 [[8. Parametric Search (x)]]
-[[9.  DP(Dynamic Programming) (x)]]
-[[10. Tabulation vs Memoization (x)]]
+[[9.  DP(Dynamic Programming)]]
+[[10. Tabulation vs Memoization]]
