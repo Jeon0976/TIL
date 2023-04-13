@@ -56,7 +56,7 @@
 - [26. COW(Copy-on-Write) (x)]
 - [27. associatedtype (x)]
 - [28. get, set, didSet, wiiSet (x)]
-- [29. Protocol 채택 시 Self requirements를 사용 하였을 때]
+- [29. Protocol 채택 시 Self requirements를 사용 하였을 때](https://github.com/Jeon0976/TIL/blob/main/IOS/Swift/29.%20Protocol%20채택%20시%20Self%20requirements를%20사용%20하였을%20때.md)
 - [30. 소수점 다루기 (x)]
 - [31. Set (x)]
 #### 고차함수 
@@ -170,8 +170,8 @@
 # Algorithm
 ### 문제 
 #### 백준 
-- [1463번. 1로 만들기]
-- [14725번. 개미굴]
+- [1463번. 1로 만들기](https://github.com/Jeon0976/TIL/blob/main/Algorithm/문제/백준%20문제/1463번.%201로%20만들기.md)
+- [14725번. 개미굴](https://github.com/Jeon0976/TIL/blob/main/Algorithm/문제/백준%20문제/14725번.%20개미굴.md)
 #### programmers
 - [Lv0. 최댓값 만들기(1) (인사이트)](https://github.com/Jeon0976/TIL/blob/main/Algorithm/문제/programmers%20문제/Lv0.%20최댓값%20만들기(1)%20(인사이트).md)
 - [Lv0. 최빈값 구하기 (인사이트)](https://github.com/Jeon0976/TIL/blob/main/Algorithm/문제/programmers%20문제/Lv0.%20최빈값%20구하기%20(인사이트).md)
@@ -182,9 +182,10 @@
 - [Lv2. 가장 큰 수 (x)]
 - [Lv3. 네트워크 (x)]
 - [Lv3.  N으로 표현 (x)]
+- [Lv4. 무지의 먹방 라이브 (x)]
 #### etc
 - [1. 떡볶이 떡 만들기 (이코테.이진탐색) (x)]
-- [2. 이코테. DP 문제들]
+- [2. 이코테. DP 문제들](https://github.com/Jeon0976/TIL/blob/main/Algorithm/문제/2.%20이코테.%20DP%20문제들.md)
 ### 이론 & 인사이트 
 - [1. 수학 계산 시간 복잡도](https://github.com/Jeon0976/TIL/blob/main/Algorithm/이론%20%26%20인사이트/1.%20%20수학%20계산%20시간%20복잡도.md)
 - [2. 고차함수 활용하기](https://github.com/Jeon0976/TIL/tree/main/Algorithm/이론%20%26%20인사이트)
