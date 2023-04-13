@@ -171,7 +171,7 @@
 ### 문제 
 #### 백준 
 - [1463번. 1로 만들기]
-- [14725번. 개미굴 (x)]
+- [14725번. 개미굴]
 #### programmers
 - [Lv0. 최댓값 만들기(1) (인사이트)](https://github.com/Jeon0976/TIL/blob/main/Algorithm/문제/programmers%20문제/Lv0.%20최댓값%20만들기(1)%20(인사이트).md)
 - [Lv0. 최빈값 구하기 (인사이트)](https://github.com/Jeon0976/TIL/blob/main/Algorithm/문제/programmers%20문제/Lv0.%20최빈값%20구하기%20(인사이트).md)
