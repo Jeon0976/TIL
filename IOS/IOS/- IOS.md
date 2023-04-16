@@ -18,4 +18,5 @@
 [[17. GCD(Grand Central Dispatch) (x)]]
 [[18. KVO(key Value Observing) (x)]]
 [[19. URLSession (x)]]
+[[20. Xcode Memory Leak 확인 방법 (x)]]
 #IOS 
