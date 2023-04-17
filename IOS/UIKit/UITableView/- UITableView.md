@@ -4,3 +4,6 @@
 [[4. Header, Footer View에 관하여 (x)]]
 [[5. ViewController에서 TableViewCell 내부의 Button Action 처리하기]]
 [[6. contentView?? (x)]]
+[[7. Table View background 설정 (x)]]
+[[8. table view의 style 설정 (x)]]
+[[9. indexPath의 모든 것 (x)]]

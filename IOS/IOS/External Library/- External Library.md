@@ -2,3 +2,5 @@
 [[2. Alamofire (x)]]
 [[3. Toast-Swift (x)]]
 [[4. SnapKit Q]]
+[[5. SwiftyJSON (x)]]
+[[6. SwiftLint]]

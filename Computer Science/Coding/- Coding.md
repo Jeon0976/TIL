@@ -9,5 +9,6 @@
 [[9. Code Convention - Swift]]
 [[10. 매개변수(parameter)와 전달인자(argument)]]
 [[11. 값 타입 vs 참조 타입 (x)]]
+[[12. regacy code (x)]]
 [[- Design Pattern]]
 #CS/Coding
