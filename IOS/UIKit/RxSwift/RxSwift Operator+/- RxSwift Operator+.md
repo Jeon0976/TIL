@@ -4,5 +4,6 @@
 [[4. share]]
 [[5. merge MaxConcurrent 옵션]]
 [[6. subscribeOn, observeOn]]
-[[7. scan (x)]]
-[[8. WithLatestFrom - button data 이동 (x)]]
+[[7. scan의 모든 것]]
+[[8. WithLatestFrom - button data 이동]]
+[[9. DisposeBag (x)]]

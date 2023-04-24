@@ -7,3 +7,7 @@
 [[7. Table View background 설정 (x)]]
 [[8. table view의 style 설정 (x)]]
 [[9. indexPath의 모든 것 (x)]]
+[[10. prepareForReuse()]]
+[[11. section 나누기 (x)]]
+[[12. reuseIdentifier (x)]]
+[[13. dequeueReusableCell 과정과 사용 이유 (x)]]
