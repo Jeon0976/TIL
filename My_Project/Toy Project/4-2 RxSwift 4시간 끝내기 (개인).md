@@ -9,7 +9,7 @@
 #### 2단계) RxSwift 사용 없이 구현 (23.04.20)
 - 기존 UIKit만 활용하여 구현했을 때 Cell 내부 button 클릭이 Cell이 load가 완료되었음에도 불구하고 스크롤로 모든 데이터를 확인 한 후에야 buttton을 클릭이 가능해졌다. 
 - 여러 삽질 후 에전에 내가 겪었던 문제로, cell의 content에 add subview되는 것이 아니라 cell view위에 add subview해서 제대로 작동 되지 않았던 것.
-- MVC로 SnapKit만 활용하여, 기존 UIKit으로만 구현
+- MVC로 SnapKit만 활용하여, 구현
 #### 3단계) RxSwift사용하여 MVVM 구현 (23.04.21 - 23.04.23)
 - 다른 두 개의 기능이 하나의 기능으로 통해진다면 Observable.merge 이용을 고려해보자.
 - bind 내부에 input data, output data의 위치 조정이 필요함 

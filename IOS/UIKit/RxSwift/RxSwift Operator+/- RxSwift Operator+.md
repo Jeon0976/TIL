@@ -6,4 +6,4 @@
 [[6. subscribeOn, observeOn]]
 [[7. scan의 모든 것]]
 [[8. WithLatestFrom - button data 이동]]
-[[9. DisposeBag (x)]]
+[[9. DisposeBag]]
