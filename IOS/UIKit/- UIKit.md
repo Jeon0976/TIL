@@ -24,5 +24,6 @@
 [[9. NSLayoutContraints (x)]]
 [[10. ViewController init? (x)]]
 [[11. layoutIfNeeded() (x)]]
-[[12. 구분선 구현하기 (x)]]
+[[12. 구분선 구현하기]]
+[[13. UIView (x)]]
 #IOS/UIKit 
