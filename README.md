@@ -22,15 +22,15 @@
 - [20. CALayer (x)]
 - [21. Notification Center (x)]
 #### Extension
-- [1. html 형식 필터링 하는 법]
-- [2. currency 설정]
+- [1. html 형식 필터링 하는 법](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/Extension/1.%20html%20형식%20필터링%20하는%20법.md)
+- [2. currency 설정](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/Extension/2.%20currency%20설정.md)
 #### External Library
 - [1.TTGTagCollectionView (x)]
 - [2. Alamofire (x)]
 - [3. Toast-Swift (x)]
 - [4. SnapKit.Q](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/External%20Library/4.%20SnapKit%20Q.md)
 - [5. SwiftyJSON (x)]
-- [6. SwiftLint]
+- [6. SwiftLint](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/External%20Library/6.%20SwiftLint.md)
 ### SwiftUI
 - [1. List vs H(V)Stack vs LazyH(V)Stack](https://github.com/Jeon0976/TIL/blob/main/IOS/ISwiftUI/1.%20List%20vs%20H(V)Stack%20vs%20LazyH(V)Stack.md)
 - [2. State and Data Flow](https://github.com/Jeon0976/TIL/blob/main/IOS/ISwiftUI/2.%20State%20and%20Data%20Flow.md)
@@ -46,9 +46,9 @@
 - [9. weak self](https://github.com/Jeon0976/TIL/blob/main/IOS/Swift/9.%20weak%20self.md)
 - [10. Capture List](https://github.com/Jeon0976/TIL/blob/main/IOS/Swift/10.%20Capture%20List.md)
 - [11. Closures](https://github.com/Jeon0976/TIL/blob/main/IOS/Swift/11.%20Closures.md)
-- [12. Memory Safety ]
-- [13. escaping ]
-- [14. Dictionary ]
+- [12. Memory Safety (x)]
+- [13. escaping ](https://github.com/Jeon0976/TIL/blob/main/IOS/Swift/13.%20escaping.md)
+- [14. Dictionary](https://github.com/Jeon0976/TIL/blob/main/IOS/Swift/14.%20Dictionary.md)
 - [15. enum (x)]
 - [16. Any & AnyObject (x)]
 - [17. Struct vc Class (x)]
@@ -67,7 +67,7 @@
 - [30. 소수점 다루기 (x)]
 - [31. Set (x)]
 - [32. NumberFormatter (x)]
-- [33. Swift Method 사용 꿀 Tip]
+- [33. Swift Method 사용 꿀 Tip](https://github.com/Jeon0976/TIL/blob/main/IOS/Swift/33.%20Swift%20Method%20사용%20꿀%20Tip.md)
 - [34. Computed Property vs. Metohds (x)]
 - [35. Protocol (x)]
 #### 고차함수 
@@ -105,7 +105,7 @@
 - [9. NSLayoutContraints (x)]
 - [10. ViewController init? (x)]
 - [11. layoutIfNeeded() (x)]
-- [12. 구분선 구현하기]
+- [12. 구분선 구현하기](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/12.%20구분선%20구현하기.md)
 - [13. UIView (x)]
 #### RxSwift
 - [1. Custom Extensions](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/RxSwift/1.%20Custom%20Extensions.md)
@@ -115,12 +115,12 @@
 - [5. Finite Observable vs Infinite Observable](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/RxSwift/5.%20Finite%20Observable%20VS%20Infinite%20Observable.md)
 - [6. Digging into Subscribe's Behavior](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/RxSwift/6.%20%20Digging%20into%20Subscribe's%20Behavior.md)
 - [7. What is RxCocoa](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/RxSwift/7.%20What%20is%20RxCocoa.md)
-- [8. Section 나누기 TableView ]
-- [9. modelSelected, itemSelected ]
-- [10. dispose 관련]
-- [11. AnyObserver ]
-- [12. TableView cell 재사용 문제]
-- [13. Rx Cocoa에 rx.?? event 처리가 안 될 때 Tip]
+- [8. Section 나누기 TableView ](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/RxSwift/8.%20Section%20나누기%20TableView.md)
+- [9. modelSelected, itemSelected ](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/RxSwift/9.%20modelSelected%2C%20itemSelected.md)
+- [10. dispose 관련](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/RxSwift/10.%20dispose%20관련.md)
+- [11. AnyObserver ](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/RxSwift/11.%20AnyObserver.md)
+- [12. TableView cell 재사용 문제](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/RxSwift/12.%20TableView%20cell%20재사용%20문제.md)
+- [13. Rx Cocoa에 rx.?? event 처리가 안 될 때 Tip](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/RxSwift/13.%20Rx%20Cocoa에%20rx.%3F%3F%20event%20처리가%20안%20될%20때%20Tip.md)
 ##### RxSwift Extension
 - [1. RxDataSource (1) (x)]
 - [2. RxDataSource (2) (x)]
@@ -131,10 +131,10 @@
 - [3. concat 주의사항](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/RxSwift/RxSwift%20Operator%2B/3.%20concat%20주의사항.md)
 - [4. share](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/RxSwift/RxSwift%20Operator%2B/4.%20share.md)
 - [5. merge MaxConcurrent 옵션](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/RxSwift/RxSwift%20Operator%2B/5.%20merge%20MaxConcurrent%20옵션.md)
-- [6. subscribeOn, observeOn]
-- [7. scan의 모든 것]
-- [8. WithLatestFrom - button data 이동]
-- [9. DisposeBag]
+- [6. subscribeOn, observeOn](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/RxSwift/RxSwift%20Operator%2B/6.%20subscribeOn%2C%20observeOn.md)
+- [7. scan의 모든 것](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/RxSwift/RxSwift%20Operator%2B/7.%20scan의%20모든%20것.md)
+- [8. WithLatestFrom - button data 이동](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/RxSwift/RxSwift%20Operator%2B/8.%20WithLatestFrom%20-%20button%20data%20이동.md)
+- [9. DisposeBag](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/RxSwift/RxSwift%20Operator%2B/9.%20DisposeBag.md)
 ##### RxSwift. Reactive Programming with Swift
 - [RxSwift)Ch 1.Hello,RxSwift](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/RxSwift/RxSwift.%20Reactive%20Programming%20with%20Swift/RxSwift-Ch%201.%20Hello%2C%20RxSwift.md)
 - [RxSwift)Ch 2.Observables](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/RxSwift/RxSwift.%20Reactive%20Programming%20with%20Swift/RxSwift-Ch%202.%20Observables.md)
@@ -145,7 +145,7 @@
 - [RxSwift)Ch 11.Time-Based Operatosr](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/RxSwift/RxSwift.%20Reactive%20Programming%20with%20Swift/RxSwift-Ch%2011.%20Time-Based%20Operators.md)
 #### UIAlertController 
 - [1. UIAlertController](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/UIAlertController/1.%20UIAlertController.md)
-- [2. Alert Action 중 순환참조에 관하여 (미완)](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/UIAlertController/2.%20Alert%20Action%20중%20순환참조에%20관하여%20(미완).md)
+- [2. Alert Action 중 순환참조에 관하여](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/UIAlertController/2.%20Alert%20Action%20중%20순환참조에%20관하여.md)
 - [3. Alert에 TextField추가](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/UIAlertController/3.%20Alert에%20TextField%20추가.md)
 #### UIButton
 - [1. UIButton (x)]
@@ -162,7 +162,7 @@
 - [3. UICollectionViewLayout() vs UICollectionViewFlowLayout() (x)]
 - [4. UICollectionView Dynamic Cell (x)]
 #### UIDatePicker
-- [1. UIDatePicker (x)](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/UIDatePicker/1.%20UIDatePicker%20(x).md)
+- [1. UIDatePicker (x)]
 #### UILabel, TextField, TextView
 - [1. UILabel](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/UILabel%2C%20TextField%2C%20TextView/1.%20UILabel.md)
 - [2. UIText Field (x)]
@@ -189,7 +189,7 @@
 - [2. TabBar 유지보수 쉽게 만들기 (x)]
 #### UITableView
 - [1. UITableView (x)]
-- [2. dequeueResableCell 옵셔널 다운캐스팅 하는 이유 ]
+- [2. dequeueResableCell 옵셔널 다운캐스팅 하는 이유 ](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/UITableView/2.%20dequeueResableCell%20옵셔널%20다운캐스팅%20하는%20이유.md)
 - [3. TableView Line Remove (x)]
 - [4. Header, Footer View에 관하여 (x)]
 - [5. ViewContoller에서 TableViewCell 내부의 Button Action 처리하기](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/UITableView/5.%20ViewController에서%20TableViewCell%20내부의%20Button%20Action%20처리하기.md)
@@ -197,12 +197,12 @@
 - [7. Table View background 설정 (x)]
 - [8. table view의 style 설정 (x)]
 - [9. indexPath의 모든 것 (x)]
-- [10. prepareForReuse ()]
+- [10. prepareForReuse ()](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/UITableView/10.%20prepareForReuse().md)
 - [11. section 나누기 (x)]
 - [12. reuseIdentifier (x)]
 - [13. dequeueReusableCell 과정과 사용 이유 (x)]
 #### UITapGestureRecognizer
-- [1. UITapGestureRecognizer (x)](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/UITapGestureRecognizer/1.%20UITapGestureRecognizer%20(x).md)
+- [1. UITapGestureRecognizer (x)]
 # Algorithm
 ### 문제 
 #### 백준 
@@ -228,21 +228,21 @@
 - [2. 고차함수 활용하기](https://github.com/Jeon0976/TIL/tree/main/Algorithm/이론%20%26%20인사이트)
 - [3. 최대공약수 & 최소공배수](https://github.com/Jeon0976/TIL/blob/main/Algorithm/이론%20%26%20인사이트/3.%20최대공약수%20%26%20최소공배수.md)
 - [4. 약수 구하기 알고리즘 (x)]
-- [5. Swift의 기본함수 활용하기]
-- [6. Swift 코딩 테스트 tip]
+- [5. Swift의 기본함수 활용하기](https://github.com/Jeon0976/TIL/blob/main/Algorithm/이론%20%26%20인사이트/5.%20Swift의%20기본함수%20활용하기.md)
+- [6. Swift 코딩 테스트 tip](https://github.com/Jeon0976/TIL/blob/main/Algorithm/이론%20%26%20인사이트/6.%20Swift%20코딩%20테스트%20tip.md)
 - [7. 순열과 조합 (x)]
 ##### Basic Data Structures & Algorithms
 - [1. Stack](https://github.com/Jeon0976/TIL/blob/main/Algorithm/이론%20%26%20인사이트/Basic%20Data%20Structures%20%26%20Algorithms/1.%20Stack.md)
 - [2.Linked Lists (1)](https://github.com/Jeon0976/TIL/blob/main/Algorithm/이론%20%26%20인사이트/Basic%20Data%20Structures%20%26%20Algorithms/2.%20Linked%20Lists%20(1).md)
 - [3.Linked List (2)](https://github.com/Jeon0976/TIL/blob/main/Algorithm/이론%20%26%20인사이트/Basic%20Data%20Structures%20%26%20Algorithms/3.%20Linked%20List%20(2).md)
-- [4. Doubly Linked List]
-- [5. Queue]
-- [6. Deque]
-- [7. Parametric Search]
-- [8.  DP(Dynamic Programming)]
-- [9. Tabulation vs Memoization]
-- [10. Tree]
-- [11. Binary Trees]
+- [4. Doubly Linked List](https://github.com/Jeon0976/TIL/blob/main/Algorithm/이론%20%26%20인사이트/Basic%20Data%20Structures%20%26%20Algorithms/4.%20Doubly%20Linked%20List.md)
+- [5. Queue](https://github.com/Jeon0976/TIL/blob/main/Algorithm/이론%20%26%20인사이트/Basic%20Data%20Structures%20%26%20Algorithms/5.%20Queue.md)
+- [6. Deque](https://github.com/Jeon0976/TIL/blob/main/Algorithm/이론%20%26%20인사이트/Basic%20Data%20Structures%20%26%20Algorithms/6.%20Dequeue.md)
+- [7. Parametric Search](https://github.com/Jeon0976/TIL/blob/main/Algorithm/이론%20%26%20인사이트/Basic%20Data%20Structures%20%26%20Algorithms/7.%20Parametric%20Search.md)
+- [8.  DP(Dynamic Programming)](https://github.com/Jeon0976/TIL/blob/main/Algorithm/이론%20%26%20인사이트/Basic%20Data%20Structures%20%26%20Algorithms/8.%20%20DP(Dynamic%20Programming).md)
+- [9. Tabulation vs Memoization](https://github.com/Jeon0976/TIL/blob/main/Algorithm/이론%20%26%20인사이트/Basic%20Data%20Structures%20%26%20Algorithms/9.%20Tabulation%20vs%20Memoization.md)
+- [10. Tree](https://github.com/Jeon0976/TIL/blob/main/Algorithm/이론%20%26%20인사이트/Basic%20Data%20Structures%20%26%20Algorithms/10.%20Tree.md)
+- [11. Binary Trees](https://github.com/Jeon0976/TIL/blob/main/Algorithm/이론%20%26%20인사이트/Basic%20Data%20Structures%20%26%20Algorithms/11.%20Binary%20Trees.md)
 - [12. Binary Search Trees (x)]
 - [13. AVL Trees (x)]
 - [14. Tries (x)]
@@ -289,6 +289,9 @@
 - [2. URI vs URL](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/Internet%20Protocol%2C%20Server/2.%20URI%20vs%20URL.md)
 - [3. REST](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/Internet%20Protocol%2C%20Server/3.%20REST.md)
 - [4. Load Balancing (x)]
+### OS
+- [1. System Calls (x)]
+- [2. 오버헤드란?](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/OS/2.%20오버헤드란%3F.md)
 ### Linux
 - [1. I-Node란?](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/Linux/1.%20I-Node란%3F.md)
 - [2. Disk Quotas란?](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/Linux/2.%20%20Disk%20Quotas%20란%3F.md)
@@ -322,6 +325,3 @@
 - [11. 인터넷 활용 -3) 인터넷 서비스 설정](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/Linux/LinuxMaster/11.%20인터넷%20활용%20-%203%20인터넷%20서비스%20설정.md)
 - [12. 응용 분야 -1) 기술 동향](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/Linux/LinuxMaster/12.%20응용%20분야%20-%201%20기술%20동향.md)
 - [12. 응용 분야 -2) 활용 기술](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/Linux/LinuxMaster/12.%20응용%20분야%20-%202%20활용%20기술.md)
-### OS
-- [1. System Calls (x)](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/OS/1.%20System%20Calls%20(x).md)
-- [2. 오버헤드란?]
