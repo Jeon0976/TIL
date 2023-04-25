@@ -3,7 +3,7 @@
 [[1. CLLocationManager]]
 [[2. Bridging Header]]
 [[3. UIViewController LifeCycle]]
-[[4. IOS Basic Asynchronous Programming (x)]]
+[[4. IOS Basic Asynchronous Programming]]
 [[5. MVVM]]
 [[6. XCTest (x)]]
 [[7. Nimble (x)]]

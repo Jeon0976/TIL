@@ -34,4 +34,6 @@
 [[32. NumberFormatter (x)]]
 [[33. Swift Method 사용 꿀 Tip]]
 [[34. Computed Property vs. methods (x)]]
+[[35. protocol (x)]]
+[[36. public private(set)]]
 #Swift 

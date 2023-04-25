@@ -3,7 +3,7 @@
 - [1. CLLocationManager](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/1.%20CLLocationManager.md)
 - [2. Bridging Header](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/2.%20Bridging%20Header.md)
 - [3. UIViewController LifeCycle](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/3.%20UIViewController%20LifeCycle.md)
-- [4. IOS Basic Asynchronous Programming (x)]
+- [4. IOS Basic Asynchronous Programming]
 - [5. MVVM](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/5.%20MVVM.md)
 - [6. XCTest (x)]
 - [7. Nimble (x)]
@@ -243,21 +243,22 @@
 - [9. Tabulation vs Memoization](https://github.com/Jeon0976/TIL/blob/main/Algorithm/이론%20%26%20인사이트/Basic%20Data%20Structures%20%26%20Algorithms/9.%20Tabulation%20vs%20Memoization.md)
 - [10. Tree](https://github.com/Jeon0976/TIL/blob/main/Algorithm/이론%20%26%20인사이트/Basic%20Data%20Structures%20%26%20Algorithms/10.%20Tree.md)
 - [11. Binary Trees](https://github.com/Jeon0976/TIL/blob/main/Algorithm/이론%20%26%20인사이트/Basic%20Data%20Structures%20%26%20Algorithms/11.%20Binary%20Trees.md)
-- [12. Binary Search Trees (x)]
+- [12. Binary Search Trees]
 - [13. AVL Trees (x)]
-- [14. Tries (x)]
-- [15. Binary Search (x)]
-- [16. Heaps (x)]
-- [17. Priority Queues (x)]
-- [18. Bubble, Selection, Insertion Sort (x)]
-- [19. Merge Sort (x)]
-- [20. Radix Sort (x)]
-- [21. HeapSort (x)]
-- [22. Quick Sort (x)]
-- [23. Graphs (x)]
-- [24. Breadth-First Search (x)]
-- [25. Depth-First Search (x)]
-- [26. Dijkstra's Algorithm (x)]
+- [14. Binary Search Tree vs. AVL Tree]
+- [15. Tries (x)]
+- [16. Binary Search (x)]
+- [17. Heaps (x)]
+- [18. Priority Queues (x)]
+- [19. Bubble, Selection, Insertion Sort (x)]
+- [20. Merge Sort (x)]
+- [21. Radix Sort (x)]
+- [22. HeapSort (x)]
+- [23. Quick Sort (x)]
+- [24. Graphs (x)]
+- [25. Breadth-First Search (x)]
+- [26. Depth-First Search (x)]
+- [27. Dijkstra's Algorithm (x)]
 
 # CS 
 ### Coding 
@@ -290,7 +291,7 @@
 - [3. REST](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/Internet%20Protocol%2C%20Server/3.%20REST.md)
 - [4. Load Balancing (x)]
 ### OS
-- [1. System Calls (x)]
+- [1. System Calls]
 - [2. 오버헤드란?](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/OS/2.%20오버헤드란%3F.md)
 ### Linux
 - [1. I-Node란?](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/Linux/1.%20I-Node란%3F.md)
