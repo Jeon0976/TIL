@@ -10,9 +10,9 @@
 [[10. Tree]]
 [[11. Binary Trees]]
 [[12. Binary Search Trees]]
-[[13. AVL Trees (x)]]
-
-[[15. Tries (x)]]
+[[13. AVL Trees]]
+[[14. Binary Search Tree vs. AVL Tree]]
+[[15. Tries]]
 [[16. Binary Search (x)]]
 [[17. Heaps (x)]]
 [[18. Priority Queues (x)]]
