@@ -13,7 +13,7 @@
 [[13. AVL Trees]]
 [[14. Binary Search Tree vs. AVL Tree]]
 [[15. Tries]]
-[[16. Binary Search (x)]]
+[[16. Binary Search]]
 [[17. Heaps (x)]]
 [[18. Priority Queues (x)]]
 [[19. Bubble, Selection, Insertion Sort (x)]]

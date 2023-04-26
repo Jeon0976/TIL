@@ -70,6 +70,8 @@
 - [33. Swift Method 사용 꿀 Tip](https://github.com/Jeon0976/TIL/blob/main/IOS/Swift/33.%20Swift%20Method%20사용%20꿀%20Tip.md)
 - [34. Computed Property vs. Metohds (x)]
 - [35. Protocol (x)]
+- [36. public private(set)]
+- [37. append 메소드에 대해]
 #### 고차함수 
 - [1. map](https://github.com/Jeon0976/TIL/blob/main/IOS/Swift/고차함수/1.%20map.md)
 - [2. filter](https://github.com/Jeon0976/TIL/blob/main/IOS/Swift/고차함수/2.%20filter.md)
@@ -244,10 +246,10 @@
 - [10. Tree](https://github.com/Jeon0976/TIL/blob/main/Algorithm/이론%20%26%20인사이트/Basic%20Data%20Structures%20%26%20Algorithms/10.%20Tree.md)
 - [11. Binary Trees](https://github.com/Jeon0976/TIL/blob/main/Algorithm/이론%20%26%20인사이트/Basic%20Data%20Structures%20%26%20Algorithms/11.%20Binary%20Trees.md)
 - [12. Binary Search Trees](https://github.com/Jeon0976/TIL/blob/main/Algorithm/이론%20%26%20인사이트/Basic%20Data%20Structures%20%26%20Algorithms/12.%20Binary%20Search%20Trees.md)
-- [13. AVL Trees (x)]
+- [13. AVL Trees]
 - [14. Binary Search Tree vs. AVL Tree](https://github.com/Jeon0976/TIL/blob/main/Algorithm/이론%20%26%20인사이트/Basic%20Data%20Structures%20%26%20Algorithms/14.%20Binary%20Search%20Tree%20vs.%20AVL%20Tree.md)
-- [15. Tries (x)]
-- [16. Binary Search (x)]
+- [15. Tries]
+- [16. Binary Search]
 - [17. Heaps (x)]
 - [18. Priority Queues (x)]
 - [19. Bubble, Selection, Insertion Sort (x)]
