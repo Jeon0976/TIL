@@ -70,8 +70,8 @@
 - [33. Swift Method 사용 꿀 Tip](https://github.com/Jeon0976/TIL/blob/main/IOS/Swift/33.%20Swift%20Method%20사용%20꿀%20Tip.md)
 - [34. Computed Property vs. Metohds (x)]
 - [35. Protocol (x)]
-- [36. public private(set)]
-- [37. append 메소드에 대해]
+- [36. public private(set)](https://github.com/Jeon0976/TIL/blob/main/IOS/Swift/36.%20public%20private(set).md)
+- [37. append 메소드에 대해](https://github.com/Jeon0976/TIL/blob/main/IOS/Swift/37.%20append%20메소드에%20대해.md)
 #### 고차함수 
 - [1. map](https://github.com/Jeon0976/TIL/blob/main/IOS/Swift/고차함수/1.%20map.md)
 - [2. filter](https://github.com/Jeon0976/TIL/blob/main/IOS/Swift/고차함수/2.%20filter.md)
@@ -246,12 +246,12 @@
 - [10. Tree](https://github.com/Jeon0976/TIL/blob/main/Algorithm/이론%20%26%20인사이트/Basic%20Data%20Structures%20%26%20Algorithms/10.%20Tree.md)
 - [11. Binary Trees](https://github.com/Jeon0976/TIL/blob/main/Algorithm/이론%20%26%20인사이트/Basic%20Data%20Structures%20%26%20Algorithms/11.%20Binary%20Trees.md)
 - [12. Binary Search Trees](https://github.com/Jeon0976/TIL/blob/main/Algorithm/이론%20%26%20인사이트/Basic%20Data%20Structures%20%26%20Algorithms/12.%20Binary%20Search%20Trees.md)
-- [13. AVL Trees]
+- [13. AVL Trees](https://github.com/Jeon0976/TIL/blob/main/Algorithm/이론%20%26%20인사이트/Basic%20Data%20Structures%20%26%20Algorithms/13.%20AVL%20Trees.md)
 - [14. Binary Search Tree vs. AVL Tree](https://github.com/Jeon0976/TIL/blob/main/Algorithm/이론%20%26%20인사이트/Basic%20Data%20Structures%20%26%20Algorithms/14.%20Binary%20Search%20Tree%20vs.%20AVL%20Tree.md)
-- [15. Tries]
-- [16. Binary Search]
-- [17. Heaps (x)]
-- [18. Priority Queues (x)]
+- [15. Tries](https://github.com/Jeon0976/TIL/blob/main/Algorithm/이론%20%26%20인사이트/Basic%20Data%20Structures%20%26%20Algorithms/15.%20Tries.md)
+- [16. Binary Search](https://github.com/Jeon0976/TIL/blob/main/Algorithm/이론%20%26%20인사이트/Basic%20Data%20Structures%20%26%20Algorithms/16.%20Binary%20Search.md)
+- [17. Heaps]
+- [18. Priority Queues]
 - [19. Bubble, Selection, Insertion Sort (x)]
 - [20. Merge Sort (x)]
 - [21. Radix Sort (x)]
@@ -261,6 +261,8 @@
 - [25. Breadth-First Search (x)]
 - [26. Depth-First Search (x)]
 - [27. Dijkstra's Algorithm (x)]
+- [28. A * Pathfinding (x)]
+- [29. Huffman code (x) ]
 # CS 
 ### Coding 
 - [1. 정규식(RegEx) (x)]
