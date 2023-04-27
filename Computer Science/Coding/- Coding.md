@@ -1,3 +1,4 @@
+[[- Design Pattern]]
 [[1. 정규식 (RegEx) (x)]]
 [[2. 함수형 프로그래밍]]
 [[3. Currying]]
@@ -10,5 +11,5 @@
 [[10. 매개변수(parameter)와 전달인자(argument)]]
 [[11. 값 타입 vs 참조 타입 (x)]]
 [[12. regacy code (x)]]
-[[- Design Pattern]]
+[[13. Synchronous(동기) vs. Asynchronous(비동기)]]
 #CS/Coding
