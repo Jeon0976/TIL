@@ -21,9 +21,9 @@
 - [19. CALayer (x)]
 - [20. Notification Center (x)]
 #### IOS Concurrency
-- [1. 왜 동시성(Concurrenct) 프로그래밍이 필요할까?]
+- [1. 왜 동시성(Concurrenct) 프로그래밍이 필요할까?](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/IOS%20Concurrency/1.%20왜%20동시성(Concurrenct)%20프로그래밍이%20필요할까%3F.md)
 - [2. GCD vs. Operation (x)]
-- [3. Serial(직렬) Queue vs Concurrent(동시) Queue]
+- [3. Serial(직렬) Queue vs Concurrent(동시) Queue](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/IOS%20Concurrency/1.%20왜%20동시성(Concurrenct)%20프로그래밍이%20필요할까%3F.md)
 #### Extension
 - [1. html 형식 필터링 하는 법](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/Extension/1.%20html%20형식%20필터링%20하는%20법.md)
 - [2. currency 설정](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/Extension/2.%20currency%20설정.md)
@@ -255,8 +255,8 @@
 - [14. Binary Search Tree vs. AVL Tree](https://github.com/Jeon0976/TIL/blob/main/Algorithm/이론%20%26%20인사이트/Basic%20Data%20Structures%20%26%20Algorithms/14.%20Binary%20Search%20Tree%20vs.%20AVL%20Tree.md)
 - [15. Tries](https://github.com/Jeon0976/TIL/blob/main/Algorithm/이론%20%26%20인사이트/Basic%20Data%20Structures%20%26%20Algorithms/15.%20Tries.md)
 - [16. Binary Search](https://github.com/Jeon0976/TIL/blob/main/Algorithm/이론%20%26%20인사이트/Basic%20Data%20Structures%20%26%20Algorithms/16.%20Binary%20Search.md)
-- [17. Heaps]
-- [18. Priority Queues]
+- [17. Heaps](https://github.com/Jeon0976/TIL/blob/main/Algorithm/이론%20%26%20인사이트/Basic%20Data%20Structures%20%26%20Algorithms/17.%20Heaps.md)
+- [18. Priority Queues](https://github.com/Jeon0976/TIL/blob/main/Algorithm/이론%20%26%20인사이트/Basic%20Data%20Structures%20%26%20Algorithms/18.%20Priority%20Queues.md)
 - [19. Bubble, Selection, Insertion Sort (x)]
 - [20. Merge Sort (x)]
 - [21. Radix Sort (x)]
@@ -282,7 +282,7 @@
 - [10. Parameter and Argument](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/Coding/10.%20매개변수(parameter)와%20전달인자(argument).md)
 - [11. 값 타입 vs 참조 타입 (x)]
 - [12. regacy code (x)]
-- [13. Synchronous(동기) vs. Asynchronous(비동기)]
+- [13. Synchronous(동기) vs. Asynchronous(비동기)](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/Coding/13.%20Synchronous(동기)%20vs.%20Asynchronous(비동기).md)
 #### Design Pattern
 - [1. MVC, MVP, MVVM 비교](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/Coding/Design%20Pattern/1.%20MVC%2C%20MVP%2C%20MVVM%20비교.md)
 - [2 Command Pattern (x)]
@@ -302,7 +302,7 @@
 ### OS
 - [1. System Calls](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/OS/1.%20System%20Calls.md)
 - [2. 오버헤드란?](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/OS/2.%20오버헤드란%3F.md)
-- [3. 코어와 스레드]
+- [3. 코어와 스레드](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/OS/3.%20코어와%20스레드.md)
 ### Linux
 - [1. I-Node란?](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/Linux/1.%20I-Node란%3F.md)
 - [2. Disk Quotas란?](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/Linux/2.%20%20Disk%20Quotas%20란%3F.md)
