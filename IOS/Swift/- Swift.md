@@ -37,4 +37,6 @@
 [[35. protocol (x)]]
 [[36. public private(set)]]
 [[37. append 메소드에 대해]]
+[[38. Concurrency (x)]]
+[[39. Error Handling (x)]]
 #Swift 

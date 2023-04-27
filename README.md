@@ -15,12 +15,14 @@
 - [13. MVP](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/13.%20MVP.md)
 - [14. SwiftLint](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/14.%20SwiftLint.md)
 - [15. PropertyList(Decoder, Encoder) (x)]
-- [16. GCD(Crand Central Dispatch) (x)]
-- [17. KVO(Key Value Observing) (x)]
-- [18. URLSession (x)]
-- [19. Xcode Memory Leak 확인 방법 (x)]
-- [20. CALayer (x)]
-- [21. Notification Center (x)]
+- [16. KVO(Key Value Observing) (x)]
+- [17. URLSession (x)]
+- [18. Xcode Memory Leak 확인 방법 (x)]
+- [19. CALayer (x)]
+- [20. Notification Center (x)]
+#### IOS Concurrency
+- [1. 왜 동시성(Concurrenct) 프로그래밍이 필요할까?]
+- [2. GCD vs. Operation (x)]
 #### Extension
 - [1. html 형식 필터링 하는 법](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/Extension/1.%20html%20형식%20필터링%20하는%20법.md)
 - [2. currency 설정](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/Extension/2.%20currency%20설정.md)
@@ -72,6 +74,8 @@
 - [35. Protocol (x)]
 - [36. public private(set)](https://github.com/Jeon0976/TIL/blob/main/IOS/Swift/36.%20public%20private(set).md)
 - [37. append 메소드에 대해](https://github.com/Jeon0976/TIL/blob/main/IOS/Swift/37.%20append%20메소드에%20대해.md)
+- [38. Concurrency (x)]
+- [39. Error Handling (x)]
 #### 고차함수 
 - [1. map](https://github.com/Jeon0976/TIL/blob/main/IOS/Swift/고차함수/1.%20map.md)
 - [2. filter](https://github.com/Jeon0976/TIL/blob/main/IOS/Swift/고차함수/2.%20filter.md)
@@ -296,6 +300,7 @@
 ### OS
 - [1. System Calls](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/OS/1.%20System%20Calls.md)
 - [2. 오버헤드란?](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/OS/2.%20오버헤드란%3F.md)
+- [3. 코어와 스레드]
 ### Linux
 - [1. I-Node란?](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/Linux/1.%20I-Node란%3F.md)
 - [2. Disk Quotas란?](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/Linux/2.%20%20Disk%20Quotas%20란%3F.md)
