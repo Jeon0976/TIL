@@ -17,7 +17,7 @@
 [[17. Heaps]]
 [[18. Priority Queues]]
 [[19. Bubble, Selection, Insertion Sort]]
-[[20. Merge Sort (x)]]
+[[20. Merge Sort]]
 [[21. Radix Sort (x)]]
 [[22. Heap Sort (x)]]
 [[23. Quick Sort (x)]]
