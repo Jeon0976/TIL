@@ -13,17 +13,21 @@
 - [11. JSON 파싱 (x)]
 - [12. Localization](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/12.%20Localization.md)
 - [13. MVP](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/13.%20MVP.md)
-- [14. SwiftLint](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/14.%20SwiftLint.md)
-- [15. PropertyList(Decoder, Encoder) (x)]
-- [16. KVO(Key Value Observing) (x)]
-- [17. URLSession (x)]
-- [18. Xcode Memory Leak 확인 방법 (x)]
-- [19. CALayer (x)]
-- [20. Notification Center (x)]
+- [14. PropertyList(Decoder, Encoder) (x)]
+- [15. KVO(Key Value Observing) (x)]
+- [16. URLSession (x)]
+- [17. Xcode Memory Leak 확인 방법 (x)]
+- [18. CALayer (x)]
+- [19. Notification Center (x)]
+- [20. Local Notification (x) ]
+- [21. KVC(Key Value Coding (x))]
 #### IOS Concurrency
 - [1. 왜 동시성(Concurrenct) 프로그래밍이 필요할까?](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/IOS%20Concurrency/1.%20왜%20동시성(Concurrenct)%20프로그래밍이%20필요할까%3F.md)
-- [2. GCD vs. Operation (x)]
+- [2. GCD vs. Operation](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/IOS%20Concurrency/2.%20GCD(Grand%20Central%20Dispatch)%20vs.%20Operation.md)
 - [3. Serial(직렬) Queue vs Concurrent(동시) Queue](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/IOS%20Concurrency/3.%20Serial(직렬)%20Queue%20vs%20Concurrent(동시)%20Queue.md)
+- [4. Queue & Threads](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/IOS%20Concurrency/4.%20Queue%20%26%20Threads.md)
+- [5. Groups & Semaphores (x)]
+- [6. Concurrency Problems (x)]
 #### Extension
 - [1. html 형식 필터링 하는 법](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/Extension/1.%20html%20형식%20필터링%20하는%20법.md)
 - [2. currency 설정](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/Extension/2.%20currency%20설정.md)
@@ -257,11 +261,11 @@
 - [16. Binary Search](https://github.com/Jeon0976/TIL/blob/main/Algorithm/이론%20%26%20인사이트/Basic%20Data%20Structures%20%26%20Algorithms/16.%20Binary%20Search.md)
 - [17. Heaps](https://github.com/Jeon0976/TIL/blob/main/Algorithm/이론%20%26%20인사이트/Basic%20Data%20Structures%20%26%20Algorithms/17.%20Heaps.md)
 - [18. Priority Queues](https://github.com/Jeon0976/TIL/blob/main/Algorithm/이론%20%26%20인사이트/Basic%20Data%20Structures%20%26%20Algorithms/18.%20Priority%20Queues.md)
-- [19. Bubble, Selection, Insertion Sort (x)]
-- [20. Merge Sort (x)]
-- [21. Radix Sort (x)]
-- [22. HeapSort (x)]
-- [23. Quick Sort (x)]
+- [19. Bubble, Selection, Insertion Sort](https://github.com/Jeon0976/TIL/blob/main/Algorithm/이론%20%26%20인사이트/Basic%20Data%20Structures%20%26%20Algorithms/19.%20Bubble%2C%20Selection%2C%20Insertion%20Sort.md)
+- [20. Merge Sort](https://github.com/Jeon0976/TIL/blob/main/Algorithm/이론%20%26%20인사이트/Basic%20Data%20Structures%20%26%20Algorithms/20.%20Merge%20Sort.md)
+- [21. Radix Sort](https://github.com/Jeon0976/TIL/blob/main/Algorithm/이론%20%26%20인사이트/Basic%20Data%20Structures%20%26%20Algorithms/21.%20Radix%20Sort.md)
+- [22. HeapSort](https://github.com/Jeon0976/TIL/blob/main/Algorithm/이론%20%26%20인사이트/Basic%20Data%20Structures%20%26%20Algorithms/22.%20Heap%20Sort.md)
+- [23. Quick Sort](https://github.com/Jeon0976/TIL/blob/main/Algorithm/이론%20%26%20인사이트/Basic%20Data%20Structures%20%26%20Algorithms/23.%20Quick%20Sort.md)
 - [24. Graphs (x)]
 - [25. Breadth-First Search (x)]
 - [26. Depth-First Search (x)]
