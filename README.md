@@ -242,7 +242,10 @@
 - [5. Swift의 기본함수 활용하기](https://github.com/Jeon0976/TIL/blob/main/Algorithm/이론%20%26%20인사이트/5.%20Swift의%20기본함수%20활용하기.md)
 - [6. Swift 코딩 테스트 tip](https://github.com/Jeon0976/TIL/blob/main/Algorithm/이론%20%26%20인사이트/6.%20Swift%20코딩%20테스트%20tip.md)
 - [7. 순열과 조합 (x)]
-##### Basic Data Structures & Algorithms
+- [8. 2차원 배열(완전 행렬) 동적으로 만들기]
+- [9. 소수 찾기 알고리즘 (x)]
+- [10. 구간 합 알고리즘 (x)]
+##### Data Structures & Algorithms
 - [1. Stack](https://github.com/Jeon0976/TIL/blob/main/Algorithm/이론%20%26%20인사이트/Basic%20Data%20Structures%20%26%20Algorithms/1.%20Stack.md)
 - [2.Linked Lists (1)](https://github.com/Jeon0976/TIL/blob/main/Algorithm/이론%20%26%20인사이트/Basic%20Data%20Structures%20%26%20Algorithms/2.%20Linked%20Lists%20(1).md)
 - [3.Linked List (2)](https://github.com/Jeon0976/TIL/blob/main/Algorithm/이론%20%26%20인사이트/Basic%20Data%20Structures%20%26%20Algorithms/3.%20Linked%20List%20(2).md)
@@ -266,12 +269,20 @@
 - [21. Radix Sort](https://github.com/Jeon0976/TIL/blob/main/Algorithm/이론%20%26%20인사이트/Basic%20Data%20Structures%20%26%20Algorithms/21.%20Radix%20Sort.md)
 - [22. HeapSort](https://github.com/Jeon0976/TIL/blob/main/Algorithm/이론%20%26%20인사이트/Basic%20Data%20Structures%20%26%20Algorithms/22.%20Heap%20Sort.md)
 - [23. Quick Sort](https://github.com/Jeon0976/TIL/blob/main/Algorithm/이론%20%26%20인사이트/Basic%20Data%20Structures%20%26%20Algorithms/23.%20Quick%20Sort.md)
-- [24. Graphs (x)]
-- [25. Breadth-First Search (x)]
-- [26. Depth-First Search (x)]
+- [24. Graphs]
+- [25. Breadth-First Search]
+- [26. Depth-First Search]
 - [27. Dijkstra's Algorithm (x)]
 - [28. A * Pathfinding (x)]
 - [29. Huffman code (x) ]
+- [30. Floyd-Warshall Algorithm (x)]
+- [31. Disjoint Sets Algorithm (x)]
+- [32. Spannig Tree (x)]
+- [33. Kruskal Algorithm (x)]
+- [34. Prim's Algorithm (x)]
+- [35. Topology Sort (x)]
+- [36. 에라토스테네스의 체 (x)]
+- [37. Two pointer (x)]
 # CS 
 ### Coding 
 - [1. 정규식(RegEx) (x)]
