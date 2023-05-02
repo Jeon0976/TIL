@@ -27,7 +27,7 @@
 - [2. GCD vs. Operation](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/IOS%20Concurrency/2.%20GCD(Grand%20Central%20Dispatch)%20vs.%20Operation.md)
 - [3. Serial(직렬) Queue vs Concurrent(동시) Queue](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/IOS%20Concurrency/3.%20Serial(직렬)%20Queue%20vs%20Concurrent(동시)%20Queue.md)
 - [4. Queue & Threads](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/IOS%20Concurrency/4.%20Queue%20%26%20Threads.md)
-- [5. Groups & Semaphores]
+- [5. Groups & Semaphores](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/IOS%20Concurrency/5.%20Groups%20%26%20Semaphores.md)
 - [6. Concurrency Problems (x)]
 - [7. Operations (x)]
 - [8. Operation Queues (x)]
@@ -275,9 +275,9 @@
 - [21. Radix Sort](https://github.com/Jeon0976/TIL/blob/main/Algorithm/이론%20%26%20인사이트/Basic%20Data%20Structures%20%26%20Algorithms/21.%20Radix%20Sort.md)
 - [22. HeapSort](https://github.com/Jeon0976/TIL/blob/main/Algorithm/이론%20%26%20인사이트/Basic%20Data%20Structures%20%26%20Algorithms/22.%20Heap%20Sort.md)
 - [23. Quick Sort](https://github.com/Jeon0976/TIL/blob/main/Algorithm/이론%20%26%20인사이트/Basic%20Data%20Structures%20%26%20Algorithms/23.%20Quick%20Sort.md)
-- [24. Graphs]
-- [25. Breadth-First Search]
-- [26. Depth-First Search]
+- [24. Graphs](https://github.com/Jeon0976/TIL/blob/main/Algorithm/이론%20%26%20인사이트/Data%20Structures%20%26%20Algorithms/24.%20Graphs.md)
+- [25. Breadth-First Search](https://github.com/Jeon0976/TIL/blob/main/Algorithm/이론%20%26%20인사이트/Data%20Structures%20%26%20Algorithms/25.%20Breadth-First%20Search.md)
+- [26. Depth-First Search](https://github.com/Jeon0976/TIL/blob/main/Algorithm/이론%20%26%20인사이트/Data%20Structures%20%26%20Algorithms/26.%20Depth-First%20Search.md)
 - [27. Dijkstra's Algorithm (x)]
 - [28. A * Pathfinding (x)]
 - [29. Huffman code (x) ]
