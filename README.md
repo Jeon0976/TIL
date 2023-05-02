@@ -278,14 +278,14 @@
 - [24. Graphs](https://github.com/Jeon0976/TIL/blob/main/Algorithm/이론%20%26%20인사이트/Data%20Structures%20%26%20Algorithms/24.%20Graphs.md)
 - [25. Breadth-First Search](https://github.com/Jeon0976/TIL/blob/main/Algorithm/이론%20%26%20인사이트/Data%20Structures%20%26%20Algorithms/25.%20Breadth-First%20Search.md)
 - [26. Depth-First Search](https://github.com/Jeon0976/TIL/blob/main/Algorithm/이론%20%26%20인사이트/Data%20Structures%20%26%20Algorithms/26.%20Depth-First%20Search.md)
-- [27. Dijkstra's Algorithm]
+- [27. Dijkstra's Algorithm](https://github.com/Jeon0976/TIL/blob/main/Algorithm/이론%20%26%20인사이트/Data%20Structures%20%26%20Algorithms/27.%20Dijkstra's%20Algorithm.md)
 - [28. A * Pathfinding (x)]
 - [29. Huffman code (x) ]
 - [30. Floyd-Warshall Algorithm (x)]
 - [31. Disjoint Sets Algorithm (x)]
-- [32. Spannig Tree ]
-- [33. MST(Minimum Spanning Tree)]
-- [34. Prim's Algorithm ]
+- [32. Spannig Tree ](https://github.com/Jeon0976/TIL/blob/main/Algorithm/이론%20%26%20인사이트/Data%20Structures%20%26%20Algorithms/32.%20Spannig%20Tree.md)
+- [33. MST(Minimum Spanning Tree)](https://github.com/Jeon0976/TIL/blob/main/Algorithm/이론%20%26%20인사이트/Data%20Structures%20%26%20Algorithms/33.%20MST(Minimum%20Spanning%20Tree).md)
+- [34. Prim's Algorithm ](https://github.com/Jeon0976/TIL/blob/main/Algorithm/이론%20%26%20인사이트/Data%20Structures%20%26%20Algorithms/34.%20Prim's%20Algorithm%20(80%25).md)
 - [35. Kruskal Algorithm (x)]
 - [36. Topology Sort (x)]
 - [37. 에라토스테네스의 체 (x)]
