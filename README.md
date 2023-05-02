@@ -21,13 +21,19 @@
 - [19. Notification Center (x)]
 - [20. Local Notification (x) ]
 - [21. KVC(Key Value Coding (x))]
+- [[22. image cache 처리 (x)]]
 #### IOS Concurrency
 - [1. 왜 동시성(Concurrenct) 프로그래밍이 필요할까?](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/IOS%20Concurrency/1.%20왜%20동시성(Concurrenct)%20프로그래밍이%20필요할까%3F.md)
 - [2. GCD vs. Operation](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/IOS%20Concurrency/2.%20GCD(Grand%20Central%20Dispatch)%20vs.%20Operation.md)
 - [3. Serial(직렬) Queue vs Concurrent(동시) Queue](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/IOS%20Concurrency/3.%20Serial(직렬)%20Queue%20vs%20Concurrent(동시)%20Queue.md)
 - [4. Queue & Threads](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/IOS%20Concurrency/4.%20Queue%20%26%20Threads.md)
-- [5. Groups & Semaphores (x)]
+- [5. Groups & Semaphores]
 - [6. Concurrency Problems (x)]
+- [7. Operations (x)]
+- [8. Operation Queues (x)]
+- [9. Asynchronous Operations (x)]
+- [10. Operation Dependencies (x)]
+- [11. Canceling Operations (x)]
 #### Extension
 - [1. html 형식 필터링 하는 법](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/Extension/1.%20html%20형식%20필터링%20하는%20법.md)
 - [2. currency 설정](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/Extension/2.%20currency%20설정.md)

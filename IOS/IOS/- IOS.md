@@ -22,4 +22,5 @@
 [[19. Notification Center (x)]]
 [[20. Local Notification (x)]]
 [[21. KVC(Key Value Coding) (x)]]
+[[22. image cache 처리 (x)]]
 #IOS 
