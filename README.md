@@ -28,12 +28,13 @@
 - [3. Serial(직렬) Queue vs Concurrent(동시) Queue](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/IOS%20Concurrency/3.%20Serial(직렬)%20Queue%20vs%20Concurrent(동시)%20Queue.md)
 - [4. Queue & Threads](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/IOS%20Concurrency/4.%20Queue%20%26%20Threads.md)
 - [5. Groups & Semaphores](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/IOS%20Concurrency/5.%20Groups%20%26%20Semaphores.md)
-- [6. Concurrency Problems (x)]
-- [7. Operations (x)]
-- [8. Operation Queues (x)]
-- [9. Asynchronous Operations (x)]
-- [10. Operation Dependencies (x)]
-- [11. Canceling Operations (x)]
+- [6. Concurrency Problems]
+- [7. Thread-Safety한 코드의 구현 방법]
+- [8. Operations]
+- [9. Operation Queues (x)]
+- [10. Asynchronous Operations (x)]
+- [11. Operation Dependencies (x)]
+- [12. Canceling Operations (x)]
 #### Extension
 - [1. html 형식 필터링 하는 법](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/Extension/1.%20html%20형식%20필터링%20하는%20법.md)
 - [2. currency 설정](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/Extension/2.%20currency%20설정.md)
@@ -44,6 +45,7 @@
 - [4. SnapKit.Q](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/External%20Library/4.%20SnapKit%20Q.md)
 - [5. SwiftyJSON (x)]
 - [6. SwiftLint](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/External%20Library/6.%20SwiftLint.md)
+#### Core Image
 ### SwiftUI
 - [1. List vs H(V)Stack vs LazyH(V)Stack](https://github.com/Jeon0976/TIL/blob/main/IOS/ISwiftUI/1.%20List%20vs%20H(V)Stack%20vs%20LazyH(V)Stack.md)
 - [2. State and Data Flow](https://github.com/Jeon0976/TIL/blob/main/IOS/ISwiftUI/2.%20State%20and%20Data%20Flow.md)
@@ -228,10 +230,10 @@
 #### programmers
 - [Lv0. 최댓값 만들기(1) (인사이트)](https://github.com/Jeon0976/TIL/blob/main/Algorithm/문제/programmers%20문제/Lv0.%20최댓값%20만들기(1)%20(인사이트).md)
 - [Lv0. 최빈값 구하기 (인사이트)](https://github.com/Jeon0976/TIL/blob/main/Algorithm/문제/programmers%20문제/Lv0.%20최빈값%20구하기%20(인사이트).md)
-- [Lv1. 실패율 (x)]
+- [Lv1. 실패율]
 - [Lv1. 콜라츠 추측](https://github.com/Jeon0976/TIL/blob/main/Algorithm/문제/programmers%20문제/Lv1.%20콜라츠%20추측.md)
 - [Lv1. 푸드 파이트 대회](https://github.com/Jeon0976/TIL/blob/main/Algorithm/문제/programmers%20문제/Lv1.%20푸드%20파이트%20대회.md)
-- [Lv2. 가장 큰 수 (x)]
+- [Lv2. 가장 큰 수]
 - [Lv2. 큰 수 만들기(x)]
 - [Lv2. 가장 큰 수 (x)]
 - [Lv3. 네트워크 (x)]

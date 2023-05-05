@@ -5,7 +5,7 @@
 [[5. Groups & Semaphores]]
 [[6. Concurrency Problems]]
 [[7. Thread-Safety 한 코드의 구현 방법]]
-[[8. Operations (x)]]
+[[8. Operations]]
 [[9. Operation Queues (x)]]
 [[10. Asynchronous Operations (x)]]
 [[11. Operation Dependencies (x)]]
