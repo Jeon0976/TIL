@@ -12,4 +12,5 @@
 [[11. 값 타입 vs 참조 타입 (x)]]
 [[12. regacy code (x)]]
 [[13. Synchronous(동기) vs. Asynchronous(비동기)]]
+[[14. Pyramid of Doom (x)]]
 #CS/Coding
