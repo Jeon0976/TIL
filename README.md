@@ -28,13 +28,13 @@
 - [3. Serial(직렬) Queue vs Concurrent(동시) Queue](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/IOS%20Concurrency/3.%20Serial(직렬)%20Queue%20vs%20Concurrent(동시)%20Queue.md)
 - [4. Queue & Threads](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/IOS%20Concurrency/4.%20Queue%20%26%20Threads.md)
 - [5. Groups & Semaphores](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/IOS%20Concurrency/5.%20Groups%20%26%20Semaphores.md)
-- [6. Concurrency Problems]
-- [7. Thread-Safety한 코드의 구현 방법]
-- [8. Operations]
-- [9. Operation Queues]
-- [10. Asynchronous Operations]
-- [11. Operation Dependencies]
-- [12. Canceling Operations]
+- [6. Concurrency Problems](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/IOS%20Concurrency/6.%20Concurrency%20Problems.md)
+- [7. Thread-Safety한 코드의 구현 방법](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/IOS%20Concurrency/7.%20Thread-Safety%20한%20코드의%20구현%20방법.md)
+- [8. Operations](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/IOS%20Concurrency/8.%20Operations.md)
+- [9. Operation Queues](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/IOS%20Concurrency/9.%20Operation%20Queues.md)
+- [10. Asynchronous Operations](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/IOS%20Concurrency/10.%20Asynchronous%20Operations.md)
+- [11. Operation Dependencies](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/IOS%20Concurrency/11.%20Operation%20Dependencies.md)
+- [12. Canceling Operations](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/IOS%20Concurrency/12.%20Canceling%20Operations.md)
 #### Extension
 - [1. html 형식 필터링 하는 법](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/Extension/1.%20html%20형식%20필터링%20하는%20법.md)
 - [2. currency 설정](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/Extension/2.%20currency%20설정.md)
@@ -90,7 +90,7 @@
 - [37. append 메소드에 대해](https://github.com/Jeon0976/TIL/blob/main/IOS/Swift/37.%20append%20메소드에%20대해.md)
 - [38. Concurrency (x)]
 - [39. Error Handling (x)]
-- [40. convenience init]
+- [40. convenience init](https://github.com/Jeon0976/TIL/blob/main/IOS/Swift/40.%20convenience%20init.md)
 #### 고차함수 
 - [1. map](https://github.com/Jeon0976/TIL/blob/main/IOS/Swift/고차함수/1.%20map.md)
 - [2. filter](https://github.com/Jeon0976/TIL/blob/main/IOS/Swift/고차함수/2.%20filter.md)
@@ -232,10 +232,10 @@
 #### programmers
 - [Lv0. 최댓값 만들기(1) (인사이트)](https://github.com/Jeon0976/TIL/blob/main/Algorithm/문제/programmers%20문제/Lv0.%20최댓값%20만들기(1)%20(인사이트).md)
 - [Lv0. 최빈값 구하기 (인사이트)](https://github.com/Jeon0976/TIL/blob/main/Algorithm/문제/programmers%20문제/Lv0.%20최빈값%20구하기%20(인사이트).md)
-- [Lv1. 실패율]
+- [Lv1. 실패율](https://github.com/Jeon0976/TIL/blob/main/Algorithm/문제/programmers%20문제/Lv1.%20실패율.md)
 - [Lv1. 콜라츠 추측](https://github.com/Jeon0976/TIL/blob/main/Algorithm/문제/programmers%20문제/Lv1.%20콜라츠%20추측.md)
 - [Lv1. 푸드 파이트 대회](https://github.com/Jeon0976/TIL/blob/main/Algorithm/문제/programmers%20문제/Lv1.%20푸드%20파이트%20대회.md)
-- [Lv2. 가장 큰 수]
+- [Lv2. 가장 큰 수](https://github.com/Jeon0976/TIL/blob/main/Algorithm/문제/programmers%20문제/Lv2.%20가장%20큰%20수.md)
 - [Lv2. 큰 수 만들기(x)]
 - [Lv2. 가장 큰 수 (x)]
 - [Lv3. 네트워크 (x)]
@@ -252,8 +252,8 @@
 - [5. Swift의 기본함수 활용하기](https://github.com/Jeon0976/TIL/blob/main/Algorithm/이론%20%26%20인사이트/5.%20Swift의%20기본함수%20활용하기.md)
 - [6. Swift 코딩 테스트 tip](https://github.com/Jeon0976/TIL/blob/main/Algorithm/이론%20%26%20인사이트/6.%20Swift%20코딩%20테스트%20tip.md)
 - [7. 순열과 조합 (x)]
-- [8. 2차원 배열(완전 행렬) 동적으로 만들기]
-- [9. 소수 찾기 알고리즘]
+- [8. 2차원 배열(완전 행렬) 동적으로 만들기](https://github.com/Jeon0976/TIL/blob/main/Algorithm/이론%20%26%20인사이트/8.%202차원%20배열(완전%20행렬)%20동적으로%20만들기.md)
+- [9. 소수 찾기 알고리즘](https://github.com/Jeon0976/TIL/blob/main/Algorithm/이론%20%26%20인사이트/9.%20소수%20찾기%20알고리즘.md)
 - [10. 구간 합 알고리즘 (x)]
 ##### Data Structures & Algorithms
 - [1. Stack](https://github.com/Jeon0976/TIL/blob/main/Algorithm/이론%20%26%20인사이트/Basic%20Data%20Structures%20%26%20Algorithms/1.%20Stack.md)
