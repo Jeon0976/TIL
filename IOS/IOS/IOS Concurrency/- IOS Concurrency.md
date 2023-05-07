@@ -8,5 +8,5 @@
 [[8. Operations]]
 [[9. Operation Queues]]
 [[10. Asynchronous Operations]]
-[[11. Operation Dependencies (x)]]
-[[12. Canceling Operations (x)]]
+[[11. Operation Dependencies]]
+[[12. Canceling Operations]]

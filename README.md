@@ -21,7 +21,7 @@
 - [19. Notification Center (x)]
 - [20. Local Notification (x) ]
 - [21. KVC(Key Value Coding (x))]
-- [[22. image cache 처리 (x)]]
+- [22. image cache 처리 (x)]
 #### IOS Concurrency
 - [1. 왜 동시성(Concurrenct) 프로그래밍이 필요할까?](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/IOS%20Concurrency/1.%20왜%20동시성(Concurrenct)%20프로그래밍이%20필요할까%3F.md)
 - [2. GCD vs. Operation](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/IOS%20Concurrency/2.%20GCD(Grand%20Central%20Dispatch)%20vs.%20Operation.md)
@@ -31,10 +31,10 @@
 - [6. Concurrency Problems]
 - [7. Thread-Safety한 코드의 구현 방법]
 - [8. Operations]
-- [9. Operation Queues (x)]
-- [10. Asynchronous Operations (x)]
-- [11. Operation Dependencies (x)]
-- [12. Canceling Operations (x)]
+- [9. Operation Queues]
+- [10. Asynchronous Operations]
+- [11. Operation Dependencies]
+- [12. Canceling Operations]
 #### Extension
 - [1. html 형식 필터링 하는 법](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/Extension/1.%20html%20형식%20필터링%20하는%20법.md)
 - [2. currency 설정](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/Extension/2.%20currency%20설정.md)
@@ -46,6 +46,7 @@
 - [5. SwiftyJSON (x)]
 - [6. SwiftLint](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/External%20Library/6.%20SwiftLint.md)
 #### Core Image
+#### Core Data
 ### SwiftUI
 - [1. List vs H(V)Stack vs LazyH(V)Stack](https://github.com/Jeon0976/TIL/blob/main/IOS/ISwiftUI/1.%20List%20vs%20H(V)Stack%20vs%20LazyH(V)Stack.md)
 - [2. State and Data Flow](https://github.com/Jeon0976/TIL/blob/main/IOS/ISwiftUI/2.%20State%20and%20Data%20Flow.md)
@@ -89,6 +90,7 @@
 - [37. append 메소드에 대해](https://github.com/Jeon0976/TIL/blob/main/IOS/Swift/37.%20append%20메소드에%20대해.md)
 - [38. Concurrency (x)]
 - [39. Error Handling (x)]
+- [40. convenience init]
 #### 고차함수 
 - [1. map](https://github.com/Jeon0976/TIL/blob/main/IOS/Swift/고차함수/1.%20map.md)
 - [2. filter](https://github.com/Jeon0976/TIL/blob/main/IOS/Swift/고차함수/2.%20filter.md)
@@ -251,7 +253,7 @@
 - [6. Swift 코딩 테스트 tip](https://github.com/Jeon0976/TIL/blob/main/Algorithm/이론%20%26%20인사이트/6.%20Swift%20코딩%20테스트%20tip.md)
 - [7. 순열과 조합 (x)]
 - [8. 2차원 배열(완전 행렬) 동적으로 만들기]
-- [9. 소수 찾기 알고리즘 (x)]
+- [9. 소수 찾기 알고리즘]
 - [10. 구간 합 알고리즘 (x)]
 ##### Data Structures & Algorithms
 - [1. Stack](https://github.com/Jeon0976/TIL/blob/main/Algorithm/이론%20%26%20인사이트/Basic%20Data%20Structures%20%26%20Algorithms/1.%20Stack.md)
@@ -307,6 +309,7 @@
 - [11. 값 타입 vs 참조 타입 (x)]
 - [12. regacy code (x)]
 - [13. Synchronous(동기) vs. Asynchronous(비동기)](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/Coding/13.%20Synchronous(동기)%20vs.%20Asynchronous(비동기).md)
+- [14. Pyramid of Doom (x)]
 #### Design Pattern
 - [1. MVC, MVP, MVVM 비교](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/Coding/Design%20Pattern/1.%20MVC%2C%20MVP%2C%20MVVM%20비교.md)
 - [2 Command Pattern (x)]
