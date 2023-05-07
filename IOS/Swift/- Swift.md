@@ -39,4 +39,5 @@
 [[37. append 메소드에 대해]]
 [[38. Concurrency (x)]]
 [[39. Error Handling (x)]]
+[[40. convenience init]]
 #Swift 
