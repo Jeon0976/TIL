@@ -3,6 +3,7 @@
 [[- IOS Concurrency]]
 [[- Core Image]]
 [[- Core Data]]
+[[- AVFoundation]]
 [[1. CLLocationManager]]
 [[2. Bridging Header]]
 [[3. UIViewController LifeCycle]]
@@ -25,4 +26,9 @@
 [[20. Local Notification (x)]]
 [[21. KVC(Key Value Coding) (x)]]
 [[22. image cache 처리 (x)]]
+[[23. Assets catalogs]]
+[[24. App Thinning 이란]]
+[[25. Timer]]
+[[26. label  분,초,밀리초 단위로 업데이트 하는 방법]]
+[[27. TimeInterval (x)]]
 #IOS 

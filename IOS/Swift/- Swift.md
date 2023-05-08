@@ -40,4 +40,5 @@
 [[38. Concurrency (x)]]
 [[39. Error Handling (x)]]
 [[40. convenience init]]
+[[41. truncatingRemainder]]
 #Swift 

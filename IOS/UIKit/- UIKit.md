@@ -13,6 +13,7 @@
 [[- UIProgressView]]
 [[- UIImageView]]
 [[- UINavigation]]
+[[- UISlider]]
 [[1. NoStoryBoard]]
 [[2. ViewDidLoad() vs init()]]
 [[3. super.init (x)]]
