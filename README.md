@@ -22,12 +22,12 @@
 - [20. Local Notification (x) ]
 - [21. KVC(Key Value Coding (x))]
 - [22. image cache 처리 (x)]
-- [23. Assets catalogs]
-- [24. App Thinning 이란]
-- [25. Timer]
-- [26. label  분,초,밀리초 단위로 업데이트 하는 방법]
+- [23. Assets catalogs](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/23.%20Assets%20catalogs.md)
+- [24. App Thinning 이란](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/24.%20App%20Thinning%20이란.md)
+- [25. Timer](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/25.%20Timer.md)
+- [26. label  분,초,밀리초 단위로 업데이트 하는 방법](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/26.%20label%20%20분%2C초%2C밀리초%20단위로%20업데이트%20하는%20방법.md)
 - [27. TimeInterval (x)]
-- [28. frame vs bounds]
+- [28. frame vs bounds](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/28.%20frame%20vs%20bounds.md)
 #### IOS Concurrency
 - [1. 왜 동시성(Concurrenct) 프로그래밍이 필요할까?](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/IOS%20Concurrency/1.%20왜%20동시성(Concurrenct)%20프로그래밍이%20필요할까%3F.md)
 - [2. GCD vs. Operation](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/IOS%20Concurrency/2.%20GCD(Grand%20Central%20Dispatch)%20vs.%20Operation.md)
@@ -62,7 +62,7 @@
 - [2. State and Data Flow](https://github.com/Jeon0976/TIL/blob/main/IOS/ISwiftUI/2.%20State%20and%20Data%20Flow.md)
 ### Swift
 - [1. What is Swift](https://github.com/Jeon0976/TIL/blob/main/IOS/Swift/1.%20What%20is%20Swift.md)
-- [2. ForEach vs For In]
+- [2. ForEach vs For In](https://github.com/Jeon0976/TIL/blob/main/IOS/Swift/2.%20ForEach%20vs.%20For%20In.md)
 - [3. lazy (x)]
 - [4. weak var](https://github.com/Jeon0976/TIL/blob/main/IOS/Swift/4.%20weak%20var.md)
 - [5. DownCasting (x)]
@@ -101,7 +101,7 @@
 - [38. Concurrency (x)]
 - [39. Error Handling (x)]
 - [40. convenience init](https://github.com/Jeon0976/TIL/blob/main/IOS/Swift/40.%20convenience%20init.md)
-- [41. truncatingRemainder]
+- [41. truncatingRemainder](https://github.com/Jeon0976/TIL/blob/main/IOS/Swift/41.%20truncatingRemainder.md)
 #### 고차함수 
 - [1. map](https://github.com/Jeon0976/TIL/blob/main/IOS/Swift/고차함수/1.%20map.md)
 - [2. filter](https://github.com/Jeon0976/TIL/blob/main/IOS/Swift/고차함수/2.%20filter.md)
@@ -134,13 +134,13 @@
 - [6. safe area (x)]
 - [7. navi.pushViewController vs Present (x)]
 - [8. alpha vs opacity (x)]
-- [9. NSLayoutContraints ]
+- [9. NSLayoutConstraints](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/9.%20NSLayoutConstraints.md)
 - [10. ViewController init? (x)]
 - [11. layoutIfNeeded() (x)]
 - [12. 구분선 구현하기](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/12.%20구분선%20구현하기.md)
 - [13. UIView (x)]
-- [14. UIControl.Event]
-- [15. Autolayout code]
+- [14. UIControl.Event](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/14.%20UIControl.Event.md)
+- [15. Autolayout code](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/15.%20Autolayout%20code.md)
 #### RxSwift
 - [1. Custom Extensions](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/RxSwift/1.%20Custom%20Extensions.md)
 - [2. Subscribe Memory Leak](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/RxSwift/2.%20Subscribe%20Memory%20Leak.md)
@@ -217,7 +217,7 @@
 #### UISearchBar, UISearchController 
 - [1. UISearchBar vs UISearchController (x)]
 #### UISlider
-- [1. UISlider]
+- [1. UISlider](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/UISlider/1.%20UISlider.md)
 #### UIStackView 
 - [1. UIStackView (x)]
 #### UITabBarController
@@ -243,7 +243,7 @@
 ### 문제 
 #### 백준 
 - [1463번. 1로 만들기](https://github.com/Jeon0976/TIL/blob/main/Algorithm/문제/백준%20문제/1463번.%201로%20만들기.md)
-- [1929. 소수 구하기]
+- [1929. 소수 구하기](https://github.com/Jeon0976/TIL/blob/main/Algorithm/문제/백준%20문제/1929.%20소수%20구하기.md)
 - [14725번. 개미굴](https://github.com/Jeon0976/TIL/blob/main/Algorithm/문제/백준%20문제/14725번.%20개미굴.md)
 #### programmers
 - [Lv0. 최댓값 만들기(1) (인사이트)](https://github.com/Jeon0976/TIL/blob/main/Algorithm/문제/programmers%20문제/Lv0.%20최댓값%20만들기(1)%20(인사이트).md)
@@ -308,8 +308,8 @@
 - [33. MST(Minimum Spanning Tree)](https://github.com/Jeon0976/TIL/blob/main/Algorithm/이론%20%26%20인사이트/Data%20Structures%20%26%20Algorithms/33.%20MST(Minimum%20Spanning%20Tree).md)
 - [34. Prim's Algorithm ](https://github.com/Jeon0976/TIL/blob/main/Algorithm/이론%20%26%20인사이트/Data%20Structures%20%26%20Algorithms/34.%20Prim's%20Algorithm%20(80%25).md)
 - [35. Kruskal Algorithm (x)]
-- [36. Topology Sort (x)]
-- [37. 에라토스테네스의 체]
+- [36. 에라토스테네스의 체](https://github.com/Jeon0976/TIL/blob/main/Algorithm/이론%20%26%20인사이트/Data%20Structures%20%26%20Algorithms/36.%20에라토스테네스의%20체.md)
+- [37. Topology Sort (x)]
 - [38. Two pointer (x)]
 - [39. Bellman-Ford Algorithm (x)]
 # CS 

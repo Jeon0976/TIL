@@ -32,6 +32,6 @@
 [[32. Spannig Tree]]
 [[35. Kruskal Algorithm (x)]]
 [[34. Prim's Algorithm (80%)]]
-[[36. Topology Sort(위상 정렬) (x)]]
+[[37. Topology Sort(위상 정렬) (x)]]
 [[36. 에라토스테네스의 체]]
-[[37. Two pointer (x)]]
+[[38. Two pointer (x)]]
