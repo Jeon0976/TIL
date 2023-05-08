@@ -22,9 +22,11 @@
 [[6. safe area (x)]]
 [[7. navi.pushViewController VS present (x)]]
 [[8. alpha VS opacity (x)]]
-[[9. NSLayoutContraints (x)]]
+[[9. NSLayoutConstraints]]
 [[10. ViewController init? (x)]]
 [[11. layoutIfNeeded() (x)]]
 [[12. 구분선 구현하기]]
 [[13. UIView (x)]]
+[[14. UIControl.Event]]
+[[15. Autolayout code]]
 #IOS/UIKit 
