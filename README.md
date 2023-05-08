@@ -22,6 +22,12 @@
 - [20. Local Notification (x) ]
 - [21. KVC(Key Value Coding (x))]
 - [22. image cache 처리 (x)]
+- [23. Assets catalogs]
+- [24. App Thinning 이란]
+- [25. Timer]
+- [26. label  분,초,밀리초 단위로 업데이트 하는 방법]
+- [27. TimeInterval (x)]
+- [28. frame vs bounds]
 #### IOS Concurrency
 - [1. 왜 동시성(Concurrenct) 프로그래밍이 필요할까?](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/IOS%20Concurrency/1.%20왜%20동시성(Concurrenct)%20프로그래밍이%20필요할까%3F.md)
 - [2. GCD vs. Operation](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/IOS%20Concurrency/2.%20GCD(Grand%20Central%20Dispatch)%20vs.%20Operation.md)
@@ -47,12 +53,16 @@
 - [6. SwiftLint](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/External%20Library/6.%20SwiftLint.md)
 #### Core Image
 #### Core Data
+#### AVFoundation
+- [1. AVFoundation]
+- [2. AVAudioPlayer]
+- [3. AVAsset]
 ### SwiftUI
 - [1. List vs H(V)Stack vs LazyH(V)Stack](https://github.com/Jeon0976/TIL/blob/main/IOS/ISwiftUI/1.%20List%20vs%20H(V)Stack%20vs%20LazyH(V)Stack.md)
 - [2. State and Data Flow](https://github.com/Jeon0976/TIL/blob/main/IOS/ISwiftUI/2.%20State%20and%20Data%20Flow.md)
 ### Swift
 - [1. What is Swift](https://github.com/Jeon0976/TIL/blob/main/IOS/Swift/1.%20What%20is%20Swift.md)
-- [2. ForEach vs For In (x)]
+- [2. ForEach vs For In]
 - [3. lazy (x)]
 - [4. weak var](https://github.com/Jeon0976/TIL/blob/main/IOS/Swift/4.%20weak%20var.md)
 - [5. DownCasting (x)]
@@ -91,6 +101,7 @@
 - [38. Concurrency (x)]
 - [39. Error Handling (x)]
 - [40. convenience init](https://github.com/Jeon0976/TIL/blob/main/IOS/Swift/40.%20convenience%20init.md)
+- [41. truncatingRemainder]
 #### 고차함수 
 - [1. map](https://github.com/Jeon0976/TIL/blob/main/IOS/Swift/고차함수/1.%20map.md)
 - [2. filter](https://github.com/Jeon0976/TIL/blob/main/IOS/Swift/고차함수/2.%20filter.md)
@@ -123,11 +134,13 @@
 - [6. safe area (x)]
 - [7. navi.pushViewController vs Present (x)]
 - [8. alpha vs opacity (x)]
-- [9. NSLayoutContraints (x)]
+- [9. NSLayoutContraints ]
 - [10. ViewController init? (x)]
 - [11. layoutIfNeeded() (x)]
 - [12. 구분선 구현하기](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/12.%20구분선%20구현하기.md)
 - [13. UIView (x)]
+- [14. UIControl.Event]
+- [15. Autolayout code]
 #### RxSwift
 - [1. Custom Extensions](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/RxSwift/1.%20Custom%20Extensions.md)
 - [2. Subscribe Memory Leak](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/RxSwift/2.%20Subscribe%20Memory%20Leak.md)
@@ -203,6 +216,8 @@
 - [1. UIRefreshController (x)]
 #### UISearchBar, UISearchController 
 - [1. UISearchBar vs UISearchController (x)]
+#### UISlider
+- [1. UISlider]
 #### UIStackView 
 - [1. UIStackView (x)]
 #### UITabBarController
@@ -228,6 +243,7 @@
 ### 문제 
 #### 백준 
 - [1463번. 1로 만들기](https://github.com/Jeon0976/TIL/blob/main/Algorithm/문제/백준%20문제/1463번.%201로%20만들기.md)
+- [1929. 소수 구하기]
 - [14725번. 개미굴](https://github.com/Jeon0976/TIL/blob/main/Algorithm/문제/백준%20문제/14725번.%20개미굴.md)
 #### programmers
 - [Lv0. 최댓값 만들기(1) (인사이트)](https://github.com/Jeon0976/TIL/blob/main/Algorithm/문제/programmers%20문제/Lv0.%20최댓값%20만들기(1)%20(인사이트).md)
@@ -238,6 +254,7 @@
 - [Lv2. 가장 큰 수](https://github.com/Jeon0976/TIL/blob/main/Algorithm/문제/programmers%20문제/Lv2.%20가장%20큰%20수.md)
 - [Lv2. 큰 수 만들기(x)]
 - [Lv2. 가장 큰 수 (x)]
+- [Lv2. 소수 찾기 (x)]
 - [Lv3. 네트워크 (x)]
 - [Lv3.  N으로 표현 (x)]
 - [Lv4. 무지의 먹방 라이브 (x)]
@@ -292,8 +309,9 @@
 - [34. Prim's Algorithm ](https://github.com/Jeon0976/TIL/blob/main/Algorithm/이론%20%26%20인사이트/Data%20Structures%20%26%20Algorithms/34.%20Prim's%20Algorithm%20(80%25).md)
 - [35. Kruskal Algorithm (x)]
 - [36. Topology Sort (x)]
-- [37. 에라토스테네스의 체 (x)]
+- [37. 에라토스테네스의 체]
 - [38. Two pointer (x)]
+- [39. Bellman-Ford Algorithm (x)]
 # CS 
 ### Coding 
 - [1. 정규식(RegEx) (x)]

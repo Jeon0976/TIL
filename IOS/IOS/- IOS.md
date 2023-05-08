@@ -31,4 +31,5 @@
 [[25. Timer]]
 [[26. label  분,초,밀리초 단위로 업데이트 하는 방법]]
 [[27. TimeInterval (x)]]
+[[28. frame vs bounds]]
 #IOS 
