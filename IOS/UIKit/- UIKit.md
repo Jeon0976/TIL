@@ -20,7 +20,7 @@
 [[4. WebView]]
 [[5. UIColor vs CGColor (x)]]
 [[6. safe area (x)]]
-[[7. navi.pushViewController VS present (x)]]
+[[7. present vs show (x)]]
 [[8. alpha VS opacity (x)]]
 [[9. NSLayoutConstraints]]
 [[10. ViewController init? (x)]]
@@ -29,4 +29,5 @@
 [[13. UIView (x)]]
 [[14. UIControl.Event]]
 [[15. Autolayout code]]
+[[16. modal]]
 #IOS/UIKit 

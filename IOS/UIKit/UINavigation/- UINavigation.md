@@ -1,1 +1,3 @@
-[[1. Navigation title Color 바꾸기 (x)]]
+[[1. Navigation title color 바꾸기]]
+[[2. NavigationItem vs NavigationBar]]
+[[3. UINavigation이란?]]

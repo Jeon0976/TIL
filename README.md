@@ -28,6 +28,7 @@
 - [26. label  분,초,밀리초 단위로 업데이트 하는 방법](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/26.%20label%20%20분%2C초%2C밀리초%20단위로%20업데이트%20하는%20방법.md)
 - [27. TimeInterval (x)]
 - [28. frame vs bounds](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/28.%20frame%20vs%20bounds.md)
+- [29. NSAttributedString (key 포함) (x)]
 #### IOS Concurrency
 - [1. 왜 동시성(Concurrenct) 프로그래밍이 필요할까?](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/IOS%20Concurrency/1.%20왜%20동시성(Concurrenct)%20프로그래밍이%20필요할까%3F.md)
 - [2. GCD vs. Operation](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/IOS%20Concurrency/2.%20GCD(Grand%20Central%20Dispatch)%20vs.%20Operation.md)
@@ -94,7 +95,7 @@
 - [31. Set (x)]
 - [32. NumberFormatter (x)]
 - [33. Swift Method 사용 꿀 Tip](https://github.com/Jeon0976/TIL/blob/main/IOS/Swift/33.%20Swift%20Method%20사용%20꿀%20Tip.md)
-- [34. Computed Property vs. Metohds (x)]
+- [34. Computed Property vs. Methods (x)]
 - [35. Protocol (x)]
 - [36. public private(set)](https://github.com/Jeon0976/TIL/blob/main/IOS/Swift/36.%20public%20private(set).md)
 - [37. append 메소드에 대해](https://github.com/Jeon0976/TIL/blob/main/IOS/Swift/37.%20append%20메소드에%20대해.md)
@@ -102,6 +103,8 @@
 - [39. Error Handling (x)]
 - [40. convenience init](https://github.com/Jeon0976/TIL/blob/main/IOS/Swift/40.%20convenience%20init.md)
 - [41. truncatingRemainder](https://github.com/Jeon0976/TIL/blob/main/IOS/Swift/41.%20truncatingRemainder.md)
+- [42. enumerated() (x)]
+- [43. lexicographicallyPrecedes (x)]
 #### 고차함수 
 - [1. map](https://github.com/Jeon0976/TIL/blob/main/IOS/Swift/고차함수/1.%20map.md)
 - [2. filter](https://github.com/Jeon0976/TIL/blob/main/IOS/Swift/고차함수/2.%20filter.md)
@@ -132,7 +135,7 @@
 - [4. WebView](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/4.%20WebView.md)
 - [5. UIColor vs CGColor (x)]
 - [6. safe area (x)]
-- [7. navi.pushViewController vs Present (x)]
+- [7. present vs show]
 - [8. alpha vs opacity (x)]
 - [9. NSLayoutConstraints](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/9.%20NSLayoutConstraints.md)
 - [10. ViewController init? (x)]
@@ -141,6 +144,7 @@
 - [13. UIView (x)]
 - [14. UIControl.Event](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/14.%20UIControl.Event.md)
 - [15. Autolayout code](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/15.%20Autolayout%20code.md)
+- [16. modal]
 #### RxSwift
 - [1. Custom Extensions](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/RxSwift/1.%20Custom%20Extensions.md)
 - [2. Subscribe Memory Leak](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/RxSwift/2.%20Subscribe%20Memory%20Leak.md)
@@ -210,6 +214,10 @@
 #### UIImageView, UIImage 
 - [1. UIImageView (x)]
 - [2. UIImage Size 조정 (x)]
+#### UINavigation 
+- [1. Navigation title color 바꾸기]
+- [2. NavigationItem vs NavigationBar]
+- [3. UINavigation이란?]
 #### UIProgressView
 - [1. UIProgressView (x)]
 #### UIRefreshControl
