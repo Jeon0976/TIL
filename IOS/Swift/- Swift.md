@@ -41,4 +41,5 @@
 [[39. Error Handling (x)]]
 [[40. convenience init]]
 [[41. truncatingRemainder]]
+[[42. enumerated() (x)]]
 #Swift 

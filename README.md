@@ -242,9 +242,11 @@
 # Algorithm
 ### 문제 
 #### 백준 
-- [1463번. 1로 만들기](https://github.com/Jeon0976/TIL/blob/main/Algorithm/문제/백준%20문제/1463번.%201로%20만들기.md)
-- [1929. 소수 구하기](https://github.com/Jeon0976/TIL/blob/main/Algorithm/문제/백준%20문제/1929.%20소수%20구하기.md)
-- [14725번. 개미굴](https://github.com/Jeon0976/TIL/blob/main/Algorithm/문제/백준%20문제/14725번.%20개미굴.md)
+- [G_1339번. 단어 수학]
+- [G_14725번. 개미굴]
+- [S_1463번. 1로 만들기]
+- [S_1929번. 소수 구하기]
+- [S_10975번. 모든 순열]
 #### programmers
 - [Lv0. 최댓값 만들기(1) (인사이트)](https://github.com/Jeon0976/TIL/blob/main/Algorithm/문제/programmers%20문제/Lv0.%20최댓값%20만들기(1)%20(인사이트).md)
 - [Lv0. 최빈값 구하기 (인사이트)](https://github.com/Jeon0976/TIL/blob/main/Algorithm/문제/programmers%20문제/Lv0.%20최빈값%20구하기%20(인사이트).md)
@@ -268,10 +270,12 @@
 - [4. 약수 구하기 알고리즘 (x)]
 - [5. Swift의 기본함수 활용하기](https://github.com/Jeon0976/TIL/blob/main/Algorithm/이론%20%26%20인사이트/5.%20Swift의%20기본함수%20활용하기.md)
 - [6. Swift 코딩 테스트 tip](https://github.com/Jeon0976/TIL/blob/main/Algorithm/이론%20%26%20인사이트/6.%20Swift%20코딩%20테스트%20tip.md)
-- [7. 순열과 조합 (x)]
+- [7. 경우의 수 공식 총정리]
 - [8. 2차원 배열(완전 행렬) 동적으로 만들기](https://github.com/Jeon0976/TIL/blob/main/Algorithm/이론%20%26%20인사이트/8.%202차원%20배열(완전%20행렬)%20동적으로%20만들기.md)
 - [9. 소수 찾기 알고리즘](https://github.com/Jeon0976/TIL/blob/main/Algorithm/이론%20%26%20인사이트/9.%20소수%20찾기%20알고리즘.md)
 - [10. 구간 합 알고리즘 (x)]
+- [11. 순열과 조합 Swift로 구현 ]
+- [12. 집합, 자연수의 분할 Swift로 구현 (x)]
 ##### Data Structures & Algorithms
 - [1. Stack](https://github.com/Jeon0976/TIL/blob/main/Algorithm/이론%20%26%20인사이트/Data%20Structures%20%26%20Algorithms/1.%20Stack.md)
 - [2.Linked Lists (1)](https://github.com/Jeon0976/TIL/blob/main/Algorithm/이론%20%26%20인사이트/Data%20Structures%20%26%20Algorithms/2.%20Linked%20List%20(1).md)

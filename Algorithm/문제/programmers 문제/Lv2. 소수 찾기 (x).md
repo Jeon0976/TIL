@@ -42,7 +42,7 @@
 - [[26. Depth-First Search]]
 - [[9. 소수 찾기 알고리즘]]
 - [[36. 에라토스테네스의 체]]
-- [[7. 순열과 조합 (x)]]
+- [[7. 경우의 수 공식 총정리]]
 
 ### Tag
 - #Algorithm/Programmers/Level2 
