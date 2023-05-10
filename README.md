@@ -144,7 +144,7 @@
 - [13. UIView (x)]
 - [14. UIControl.Event](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/14.%20UIControl.Event.md)
 - [15. Autolayout code](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/15.%20Autolayout%20code.md)
-- [16. modal]
+- [16. modal](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/16.%20modal.md)
 #### RxSwift
 - [1. Custom Extensions](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/RxSwift/1.%20Custom%20Extensions.md)
 - [2. Subscribe Memory Leak](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/RxSwift/2.%20Subscribe%20Memory%20Leak.md)
@@ -250,11 +250,11 @@
 # Algorithm
 ### 문제 
 #### 백준 
-- [G_1339번. 단어 수학]
-- [G_14725번. 개미굴]
-- [S_1463번. 1로 만들기]
-- [S_1929번. 소수 구하기]
-- [S_10975번. 모든 순열]
+- [G_1339번. 단어 수학](https://github.com/Jeon0976/TIL/blob/main/Algorithm/문제/백준%20문제/G_1339번.%20단어%20수학.md)
+- [G_14725번. 개미굴](https://github.com/Jeon0976/TIL/blob/main/Algorithm/문제/백준%20문제/G_14725번.%20개미굴.md)
+- [S_1463번. 1로 만들기](https://github.com/Jeon0976/TIL/blob/main/Algorithm/문제/백준%20문제/S_1463번.%201로%20만들기.md)
+- [S_1929번. 소수 구하기](https://github.com/Jeon0976/TIL/blob/main/Algorithm/문제/백준%20문제/S_1929번.%20소수%20구하기.md)
+- [S_10975번. 모든 순열](https://github.com/Jeon0976/TIL/blob/main/Algorithm/문제/백준%20문제/S_10974번.%20모든%20순열.md)
 #### programmers
 - [Lv0. 최댓값 만들기(1) (인사이트)](https://github.com/Jeon0976/TIL/blob/main/Algorithm/문제/programmers%20문제/Lv0.%20최댓값%20만들기(1)%20(인사이트).md)
 - [Lv0. 최빈값 구하기 (인사이트)](https://github.com/Jeon0976/TIL/blob/main/Algorithm/문제/programmers%20문제/Lv0.%20최빈값%20구하기%20(인사이트).md)
@@ -278,11 +278,11 @@
 - [4. 약수 구하기 알고리즘 (x)]
 - [5. Swift의 기본함수 활용하기](https://github.com/Jeon0976/TIL/blob/main/Algorithm/이론%20%26%20인사이트/5.%20Swift의%20기본함수%20활용하기.md)
 - [6. Swift 코딩 테스트 tip](https://github.com/Jeon0976/TIL/blob/main/Algorithm/이론%20%26%20인사이트/6.%20Swift%20코딩%20테스트%20tip.md)
-- [7. 경우의 수 공식 총정리]
+- [7. 경우의 수 공식 총정리](https://github.com/Jeon0976/TIL/blob/main/Algorithm/이론%20%26%20인사이트/7.%20경우의%20수%20공식%20총정리.md)
 - [8. 2차원 배열(완전 행렬) 동적으로 만들기](https://github.com/Jeon0976/TIL/blob/main/Algorithm/이론%20%26%20인사이트/8.%202차원%20배열(완전%20행렬)%20동적으로%20만들기.md)
 - [9. 소수 찾기 알고리즘](https://github.com/Jeon0976/TIL/blob/main/Algorithm/이론%20%26%20인사이트/9.%20소수%20찾기%20알고리즘.md)
 - [10. 구간 합 알고리즘 (x)]
-- [11. 순열과 조합 Swift로 구현 ]
+- [11. 순열과 조합 Swift로 구현 ](https://github.com/Jeon0976/TIL/blob/main/Algorithm/이론%20%26%20인사이트/11.%20순열과%20조합%20Swift로%20구현.md)
 - [12. 집합, 자연수의 분할 Swift로 구현 (x)]
 ##### Data Structures & Algorithms
 - [1. Stack](https://github.com/Jeon0976/TIL/blob/main/Algorithm/이론%20%26%20인사이트/Data%20Structures%20%26%20Algorithms/1.%20Stack.md)

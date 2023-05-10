@@ -20,7 +20,7 @@
 [[4. WebView]]
 [[5. UIColor vs CGColor (x)]]
 [[6. safe area (x)]]
-[[7. present vs show (x)]]
+[[7. present vs show]]
 [[8. alpha VS opacity (x)]]
 [[9. NSLayoutConstraints]]
 [[10. ViewController init? (x)]]
