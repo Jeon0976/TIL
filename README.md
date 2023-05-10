@@ -135,7 +135,7 @@
 - [4. WebView](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/4.%20WebView.md)
 - [5. UIColor vs CGColor (x)]
 - [6. safe area (x)]
-- [7. present vs show]
+- [7. present vs show](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/7.%20present%20vs%20show.md)
 - [8. alpha vs opacity (x)]
 - [9. NSLayoutConstraints](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/9.%20NSLayoutConstraints.md)
 - [10. ViewController init? (x)]
@@ -215,9 +215,9 @@
 - [1. UIImageView (x)]
 - [2. UIImage Size 조정 (x)]
 #### UINavigation 
-- [1. Navigation title color 바꾸기]
-- [2. NavigationItem vs NavigationBar]
-- [3. UINavigation이란?]
+- [1. Navigation title color 바꾸기](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/UINavigation/1.%20Navigation%20title%20color%20바꾸기.md)
+- [2. NavigationItem vs NavigationBar](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/UINavigation/2.%20NavigationItem%20vs%20NavigationBar.md)
+- [3. UINavigation이란?](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/UINavigation/3.%20UINavigation이란%3F.md)
 #### UIProgressView
 - [1. UIProgressView (x)]
 #### UIRefreshControl
