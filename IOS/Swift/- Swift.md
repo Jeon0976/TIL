@@ -26,7 +26,7 @@
 [[24. Substring (x)]]
 [[25. Value Semantics (x)]]
 [[26. COW(Copy-on-Write) (x)]]
-[[27. associatedtype (x)]]
+[[27. associatedType]]
 [[28. get, set, didSet, willSet (x)]]
 [[29. Protocol 채택 시 Self requirements를 사용 하였을 때]]
 [[30. 소수점 다루기 (x)]]
@@ -42,4 +42,5 @@
 [[40. convenience init]]
 [[41. truncatingRemainder]]
 [[42. enumerated() (x)]]
+[[43. lexicographicallyPrecedes (x)]]
 #Swift 

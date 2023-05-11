@@ -32,4 +32,7 @@
 [[26. label  분,초,밀리초 단위로 업데이트 하는 방법]]
 [[27. TimeInterval (x)]]
 [[28. frame vs bounds]]
+[[29. NSAttributedString (key 포함) (x)]]
+[[30. FileManager (x)]]
+[[31. UIApplication (x)]]
 #IOS 

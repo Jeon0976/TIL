@@ -29,6 +29,8 @@
 - [27. TimeInterval (x)]
 - [28. frame vs bounds](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/28.%20frame%20vs%20bounds.md)
 - [29. NSAttributedString (key 포함) (x)]
+- [30. FileManager (x)]
+- [31. UIApplication (x)]
 #### IOS Concurrency
 - [1. 왜 동시성(Concurrenct) 프로그래밍이 필요할까?](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/IOS%20Concurrency/1.%20왜%20동시성(Concurrenct)%20프로그래밍이%20필요할까%3F.md)
 - [2. GCD vs. Operation](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/IOS%20Concurrency/2.%20GCD(Grand%20Central%20Dispatch)%20vs.%20Operation.md)
@@ -88,7 +90,7 @@
 - [24. Substring (x)]
 - [25. Value Semantics (x)]
 - [26. COW(Copy-on-Write) (x)]
-- [27. associatedtype (x)]
+- [27. associatedType (x)]
 - [28. get, set, didSet, wiiSet (x)]
 - [29. Protocol 채택 시 Self requirements를 사용 하였을 때](https://github.com/Jeon0976/TIL/blob/main/IOS/Swift/29.%20Protocol%20채택%20시%20Self%20requirements를%20사용%20하였을%20때.md)
 - [30. 소수점 다루기 (x)]
@@ -186,7 +188,7 @@
 - [2. Alert Action 중 순환참조에 관하여](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/UIAlertController/2.%20Alert%20Action%20중%20순환참조에%20관하여.md)
 - [3. Alert에 TextField추가](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/UIAlertController/3.%20Alert에%20TextField%20추가.md)
 #### UIButton
-- [1. UIButton (x)]
+- [1. UIButton]
 - [2. UIButton SystemImage 조절](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/UIButton/2.%20UIButton%20SystemImage%20조절.md)
 - [3. Floating Button (x)]
 - [4. UIButton Configuration in IOS 15 (x)]
@@ -343,6 +345,8 @@
 #### Design Pattern
 - [1. MVC, MVP, MVVM 비교](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/Coding/Design%20Pattern/1.%20MVC%2C%20MVP%2C%20MVVM%20비교.md)
 - [2 Command Pattern (x)]
+- [3. Delegate Pattern]
+- [4. SingleTon Pattern]
 ### DB 
 - [1. Realm (x)]
 - [2. 프로그래머 코딩테스트(23.03.14)](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/DB/2.%20프로그래머%20코딩테스트%20(23.03.14).md)
@@ -351,6 +355,7 @@
 - [1. AS-IS, TO-BE](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/ETC/1.%20AS-IS%2C%20TO-BE.md)
 - [2. CI, CD (x)]
 - [3. bitrise (x)]
+- [4. git 요약 모음 (진행중)]
 ### Internet Protocol & Server 
 - [1. API와 SDK](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/Internet%20Protocol%2C%20Server/1.%20API와%20SDK.md)
 - [2. URI vs URL](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/Internet%20Protocol%2C%20Server/2.%20URI%20vs%20URL.md)
