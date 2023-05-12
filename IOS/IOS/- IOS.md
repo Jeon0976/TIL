@@ -35,4 +35,5 @@
 [[29. NSAttributedString (key 포함) (x)]]
 [[30. FileManager (x)]]
 [[31. UIApplication (x)]]
+[[32. DateFormatter]]
 #IOS 

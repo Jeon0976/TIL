@@ -9,7 +9,7 @@
 [[- UIStackView]]
 [[- UITabBarController]]
 [[- UITableView]]
-[[- UITabGestureRecognizer]]
+[[- UIGestureRecognizer]]
 [[- UIProgressView]]
 [[- UIImageView]]
 [[- UINavigation]]
@@ -30,4 +30,6 @@
 [[14. UIControl.Event]]
 [[15. Autolayout code]]
 [[16. modal]]
+[[17. addTarget의 selector 매개변수에 대해]]
+[[18. addTarget vs addAction (x)]]
 #IOS/UIKit 

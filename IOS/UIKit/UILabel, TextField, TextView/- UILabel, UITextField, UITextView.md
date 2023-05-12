@@ -1,5 +1,5 @@
 [[1. UILabel]]
-[[2. UIText Field (x)]]
+[[2. UIText Field]]
 [[3. UIText View (x)]]
 [[4. NSAttributedString vs NSMutableAttributedString]]
 [[5. UILabel Padding]]

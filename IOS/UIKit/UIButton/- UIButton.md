@@ -5,4 +5,3 @@
 [[5. UIButton font 설정 (x)]]
 [[6. titleLabel.font와 configuration의 관계 (x)]]
 [[7. 버튼 색 변경으로 눌러짐 효과 커스텀 (x)]]
-[[8. addTarget vs addAction (x)]]

@@ -229,7 +229,7 @@
 #### UISlider
 - [1. UISlider](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/UISlider/1.%20UISlider.md)
 #### UIStackView 
-- [1. UIStackView (x)]
+- [1. UIStackView]
 #### UITabBarController
 - [1. UITabBarController (x)]
 - [2. TabBar 유지보수 쉽게 만들기 (x)]
