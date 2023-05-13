@@ -244,19 +244,19 @@
 - [1. UITabBarController (x)]
 - [2. TabBar 유지보수 쉽게 만들기 (x)]
 #### UITableView
-- [1. UITableView]
+- [1. UITableView](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/UITableView/1.%20UITableView.md)
 - [2. dequeueResableCell 옵셔널 다운캐스팅 하는 이유 ](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/UITableView/2.%20dequeueResableCell%20옵셔널%20다운캐스팅%20하는%20이유.md)
-- [3. TableView Line Remove]
-- [4. Header, Footer View에 관하여]
+- [3. TableView Line Remove](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/UITableView/3.%20TableView%20Line%20Remove.md)
+- [4. Header, Footer View에 관하여](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/UITableView/4.%20Header%2C%20Footer%20View에%20관하여.md)
 - [5. ViewContoller에서 TableViewCell 내부의 Button Action 처리하기 (x)]
 - [6. contentView?? (x)]
-- [7. Table View background 설정 (x)]
+- [7. Table View background 설정 (x)] 
 - [8. table view의 style 설정 (x)]
 - [9. indexPath의 모든 것 (x)]
 - [10. prepareForReuse ()](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/UITableView/10.%20prepareForReuse().md)
 - [11. reuseIdentifier (x)]
 - [12. dequeueReusableCell 과정과 사용 이유 (x)]
-- [13. reloadSections]
+- [13. reloadSections](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/UITableView/13.%20reloadSections.md)
 # Algorithm
 ### 문제 
 #### 백준 
@@ -353,8 +353,8 @@
 #### Design Pattern
 - [1. MVC, MVP, MVVM 비교](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/Coding/Design%20Pattern/1.%20MVC%2C%20MVP%2C%20MVVM%20비교.md)
 - [2 Command Pattern (x)]
-- [3. Delegate Pattern]
-- [4. SingleTon Pattern]
+- [3. Delegate Pattern](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/Coding/Design%20Pattern/3.%20Delegate%20Pattern.md)
+- [4. SingleTon Pattern](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/Coding/Design%20Pattern/4.%20SingleTon%20Pattern.md)
 ### DB 
 - [1. Realm (x)]
 - [2. 프로그래머 코딩테스트(23.03.14)](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/DB/2.%20프로그래머%20코딩테스트%20(23.03.14).md)
