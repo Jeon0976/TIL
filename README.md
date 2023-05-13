@@ -31,6 +31,7 @@
 - [29. NSAttributedString (key 포함) (x)]
 - [30. FileManager (x)]
 - [31. UIApplication (x)]
+- [32. DateFormatter]
 #### IOS Concurrency
 - [1. 왜 동시성(Concurrenct) 프로그래밍이 필요할까?](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/IOS%20Concurrency/1.%20왜%20동시성(Concurrenct)%20프로그래밍이%20필요할까%3F.md)
 - [2. GCD vs. Operation](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/IOS%20Concurrency/2.%20GCD(Grand%20Central%20Dispatch)%20vs.%20Operation.md)
@@ -107,6 +108,7 @@
 - [41. truncatingRemainder](https://github.com/Jeon0976/TIL/blob/main/IOS/Swift/41.%20truncatingRemainder.md)
 - [42. enumerated() (x)]
 - [43. lexicographicallyPrecedes (x)]
+- [44. Generic (x)]
 #### 고차함수 
 - [1. map](https://github.com/Jeon0976/TIL/blob/main/IOS/Swift/고차함수/1.%20map.md)
 - [2. filter](https://github.com/Jeon0976/TIL/blob/main/IOS/Swift/고차함수/2.%20filter.md)
@@ -147,6 +149,8 @@
 - [14. UIControl.Event](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/14.%20UIControl.Event.md)
 - [15. Autolayout code](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/15.%20Autolayout%20code.md)
 - [16. modal](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/16.%20modal.md)
+- [17. addTarget의 selector 매개변수에 대해](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/17.%20addTarget의%20selector%20매개변수에%20대해.md)
+- [18. addTarget vs addAction (x)]
 #### RxSwift
 - [1. Custom Extensions](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/RxSwift/1.%20Custom%20Extensions.md)
 - [2. Subscribe Memory Leak](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/RxSwift/2.%20Subscribe%20Memory%20Leak.md)
@@ -188,7 +192,7 @@
 - [2. Alert Action 중 순환참조에 관하여](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/UIAlertController/2.%20Alert%20Action%20중%20순환참조에%20관하여.md)
 - [3. Alert에 TextField추가](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/UIAlertController/3.%20Alert에%20TextField%20추가.md)
 #### UIButton
-- [1. UIButton]
+- [1. UIButton](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/UIButton/1.%20UIButton.md)
 - [2. UIButton SystemImage 조절](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/UIButton/2.%20UIButton%20SystemImage%20조절.md)
 - [3. Floating Button (x)]
 - [4. UIButton Configuration in IOS 15 (x)]
@@ -202,10 +206,13 @@
 - [3. UICollectionViewLayout() vs UICollectionViewFlowLayout() (x)]
 - [4. UICollectionView Dynamic Cell (x)]
 #### UIDatePicker
-- [1. UIDatePicker (x)]
+- [1. UIDatePicker](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/UIDatePicker/1.%20UIDatePicker.md)
+#### UIGestureRecognizer
+- [1. UIGestureRecognizer](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/UIGestureRecognizer/1.%20UIGestureRecognizer.md)
+- [2. 키보드 숨기기 설정](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/UIGestureRecognizer/2.%20키보드%20숨기기%20설정.md)
 #### UILabel, TextField, TextView
 - [1. UILabel](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/UILabel%2C%20TextField%2C%20TextView/1.%20UILabel.md)
-- [2. UIText Field (x)]
+- [2. UIText Field](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/UILabel%2C%20TextField%2C%20TextView/2.%20UIText%20Field.md)
 - [3. UIText View (x)]
 - [4. NSAttributedString vs NSMutableAttributedString](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/UILabel%2C%20TextField%2C%20TextView/4.%20NSAttributedString%20vs%20NSMutableAttributedString.md)
 - [5. UILabel Padding](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/UILabel%2C%20TextField%2C%20TextView/5.%20UILabel%20Padding.md)
@@ -216,6 +223,9 @@
 #### UIImageView, UIImage 
 - [1. UIImageView (x)]
 - [2. UIImage Size 조정 (x)]
+- [3. PHPicker (x)]
+- [4. UIImagePickerViewController (x)]
+- [5. imageView 클릭 시 event 발생 시키는 방법 (x) ]
 #### UINavigation 
 - [1. Navigation title color 바꾸기](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/UINavigation/1.%20Navigation%20title%20color%20바꾸기.md)
 - [2. NavigationItem vs NavigationBar](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/UINavigation/2.%20NavigationItem%20vs%20NavigationBar.md)
@@ -229,7 +239,7 @@
 #### UISlider
 - [1. UISlider](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/UISlider/1.%20UISlider.md)
 #### UIStackView 
-- [1. UIStackView]
+- [1. UIStackView](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/UIStackView/1.%20UIStackView.md)
 #### UITabBarController
 - [1. UITabBarController (x)]
 - [2. TabBar 유지보수 쉽게 만들기 (x)]
@@ -247,8 +257,6 @@
 - [11. section 나누기 (x)]
 - [12. reuseIdentifier (x)]
 - [13. dequeueReusableCell 과정과 사용 이유 (x)]
-#### UITapGestureRecognizer
-- [1. UITapGestureRecognizer (x)]
 # Algorithm
 ### 문제 
 #### 백준 
