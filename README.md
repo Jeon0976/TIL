@@ -272,11 +272,11 @@
 - [Lv1. 콜라츠 추측](https://github.com/Jeon0976/TIL/blob/main/Algorithm/문제/programmers%20문제/Lv1.%20콜라츠%20추측.md)
 - [Lv1. 푸드 파이트 대회](https://github.com/Jeon0976/TIL/blob/main/Algorithm/문제/programmers%20문제/Lv1.%20푸드%20파이트%20대회.md)
 - [Lv2. 가장 큰 수](https://github.com/Jeon0976/TIL/blob/main/Algorithm/문제/programmers%20문제/Lv2.%20가장%20큰%20수.md)
-- [Lv2. 큰 수 만들기(x)]
-- [Lv2. 가장 큰 수 (x)]
-- [Lv2. 소수 찾기 (x)]
+- [Lv2. 큰 수 만들기]
+- [Lv2. 가장 큰 수]
+- [Lv2. 소수 찾기]
 - [Lv3. 네트워크 (x)]
-- [Lv3.  N으로 표현 (x)]
+- [Lv3.  N으로 표현]
 - [Lv4. 무지의 먹방 라이브 (x)]
 #### etc
 - [1. 떡볶이 떡 만들기 (이코테.이진탐색) (x)]
