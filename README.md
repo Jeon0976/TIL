@@ -244,19 +244,19 @@
 - [1. UITabBarController (x)]
 - [2. TabBar 유지보수 쉽게 만들기 (x)]
 #### UITableView
-- [1. UITableView (x)]
+- [1. UITableView]
 - [2. dequeueResableCell 옵셔널 다운캐스팅 하는 이유 ](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/UITableView/2.%20dequeueResableCell%20옵셔널%20다운캐스팅%20하는%20이유.md)
-- [3. TableView Line Remove (x)]
-- [4. Header, Footer View에 관하여 (x)]
-- [5. ViewContoller에서 TableViewCell 내부의 Button Action 처리하기](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/UITableView/5.%20ViewController에서%20TableViewCell%20내부의%20Button%20Action%20처리하기.md)
+- [3. TableView Line Remove]
+- [4. Header, Footer View에 관하여]
+- [5. ViewContoller에서 TableViewCell 내부의 Button Action 처리하기 (x)]
 - [6. contentView?? (x)]
 - [7. Table View background 설정 (x)]
 - [8. table view의 style 설정 (x)]
 - [9. indexPath의 모든 것 (x)]
 - [10. prepareForReuse ()](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/UITableView/10.%20prepareForReuse().md)
-- [11. section 나누기 (x)]
-- [12. reuseIdentifier (x)]
-- [13. dequeueReusableCell 과정과 사용 이유 (x)]
+- [11. reuseIdentifier (x)]
+- [12. dequeueReusableCell 과정과 사용 이유 (x)]
+- [13. reloadSections]
 # Algorithm
 ### 문제 
 #### 백준 
