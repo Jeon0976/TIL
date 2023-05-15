@@ -363,7 +363,7 @@
 - [1. AS-IS, TO-BE](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/ETC/1.%20AS-IS%2C%20TO-BE.md)
 - [2. CI, CD (x)]
 - [3. bitrise (x)]
-- [4. git 요약 모음 (진행중)]
+- [4. git 요약 모음]
 ### Internet Protocol & Server 
 - [1. API와 SDK](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/Internet%20Protocol%2C%20Server/1.%20API와%20SDK.md)
 - [2. URI vs URL](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/Internet%20Protocol%2C%20Server/2.%20URI%20vs%20URL.md)

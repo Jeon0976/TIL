@@ -5,6 +5,7 @@
 [[- Core Data]]
 [[- AVFoundation]]
 [[- TDD]]
+[[- PhotoKit]]
 [[1. CLLocationManager]]
 [[2. Bridging Header]]
 [[3. UIViewController LifeCycle]]
@@ -15,10 +16,10 @@
 [[8. UINavigationController vs NavigationView]]
 [[9. Double vs CGFloat (x)]]
 [[10. UserDefaults]]
-[[11. JSON 파싱 (x)]]
+[[11. JSON 다루기]]
 [[12. Localization]]
 [[13. MVP]]
-[[14. PropertyList(Decoder,Encoder) (x)]]
+[[14. PropertyList (x)]]
 [[15. KVO(key Value Observing) (x)]]
 [[16. URLSession (x)]]
 [[17. Xcode Memory Leak 확인 방법 (x)]]
@@ -37,4 +38,6 @@
 [[30. FileManager (x)]]
 [[31. UIApplication (x)]]
 [[32. DateFormatter]]
+[[33. Struct 내부 Data 가공 후 UI에 뿌릴 때]]
+
 #IOS 
