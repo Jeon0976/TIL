@@ -14,6 +14,7 @@
 [[- UIImageView]]
 [[- UINavigation]]
 [[- UISlider]]
+[[- UIScrollView]]
 [[1. NoStoryBoard]]
 [[2. ViewDidLoad() vs init()]]
 [[3. super.init (x)]]

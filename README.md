@@ -32,6 +32,7 @@
 - [30. FileManager (x)]
 - [31. UIApplication (x)]
 - [32. DateFormatter]
+- [33. Struct 내부 Data 가공 후 UI에 뿌릴 때]
 #### IOS Concurrency
 - [1. 왜 동시성(Concurrenct) 프로그래밍이 필요할까?](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/IOS%20Concurrency/1.%20왜%20동시성(Concurrenct)%20프로그래밍이%20필요할까%3F.md)
 - [2. GCD vs. Operation](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/IOS%20Concurrency/2.%20GCD(Grand%20Central%20Dispatch)%20vs.%20Operation.md)
@@ -61,6 +62,10 @@
 - [1. AVFoundation](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/AVFoundation/1.%20AVFoundation.md)
 - [2. AVAudioPlayer](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/AVFoundation/2.%20AVAudioPlayer.md)
 - [3. AVAsset](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/AVFoundation/3.%20AVAsset.md)
+#### PhotoKit
+- [1. PhotoKit (1)]
+- [2. PhotoKit (2) (x)]
+- [3. fetchOption의 정렬 방식]
 ### SwiftUI
 - [1. List vs H(V)Stack vs LazyH(V)Stack](https://github.com/Jeon0976/TIL/blob/main/IOS/ISwiftUI/1.%20List%20vs%20H(V)Stack%20vs%20LazyH(V)Stack.md)
 - [2. State and Data Flow](https://github.com/Jeon0976/TIL/blob/main/IOS/ISwiftUI/2.%20State%20and%20Data%20Flow.md)
@@ -226,6 +231,7 @@
 - [3. PHPicker (x)]
 - [4. UIImagePickerViewController (x)]
 - [5. imageView 클릭 시 event 발생 시키는 방법 (x) ]
+- [6. clipsToBounds (x)]
 #### UINavigation 
 - [1. Navigation title color 바꾸기](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/UINavigation/1.%20Navigation%20title%20color%20바꾸기.md)
 - [2. NavigationItem vs NavigationBar](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/UINavigation/2.%20NavigationItem%20vs%20NavigationBar.md)
@@ -234,6 +240,8 @@
 - [1. UIProgressView (x)]
 #### UIRefreshControl
 - [1. UIRefreshController (x)]
+#### UIScrollView
+- [1. UIScrollView]
 #### UISearchBar, UISearchController 
 - [1. UISearchBar vs UISearchController (x)]
 #### UISlider
@@ -242,14 +250,14 @@
 - [1. UIStackView](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/UIStackView/1.%20UIStackView.md)
 #### UITabBarController
 - [1. UITabBarController (x)]
-- [2. TabBar 유지보수 쉽게 만들기 (x)]
+- [2. TabBar 유지보수 쉽게 만들기 ]
 #### UITableView
 - [1. UITableView](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/UITableView/1.%20UITableView.md)
 - [2. dequeueResableCell 옵셔널 다운캐스팅 하는 이유 ](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/UITableView/2.%20dequeueResableCell%20옵셔널%20다운캐스팅%20하는%20이유.md)
 - [3. TableView Line Remove](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/UITableView/3.%20TableView%20Line%20Remove.md)
 - [4. Header, Footer View에 관하여](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/UITableView/4.%20Header%2C%20Footer%20View에%20관하여.md)
 - [5. ViewContoller에서 TableViewCell 내부의 Button Action 처리하기 (x)]
-- [6. contentView?? (x)]
+- [6. contentView? (x)]
 - [7. Table View background 설정 (x)] 
 - [8. table view의 style 설정 (x)]
 - [9. indexPath의 모든 것 (x)]
@@ -257,6 +265,9 @@
 - [11. reuseIdentifier (x)]
 - [12. dequeueReusableCell 과정과 사용 이유 (x)]
 - [13. reloadSections](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/UITableView/13.%20reloadSections.md)
+- [14. TableView 기본 삭제 기능]
+- [15. 스와이프 버튼 커스텀]
+- [16. edit 모드에서 삭제 및 이동 구현]
 # Algorithm
 ### 문제 
 #### 백준 

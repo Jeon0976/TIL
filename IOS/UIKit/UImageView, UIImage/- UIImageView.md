@@ -1,3 +1,6 @@
 [[1. UIImageView (x)]]
 [[2. UIImage Size 조정 (x)]]
 [[3.  PHPicker (x)]]
+[[4. UIImagePickerViewController (x)]]
+[[5. imageView 클릭 시 event 발생 시키는 방법 (x)]]
+[[6. clipsToBounds (x)]]
