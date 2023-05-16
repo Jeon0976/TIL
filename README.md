@@ -31,8 +31,8 @@
 - [29. NSAttributedString (key 포함) (x)]
 - [30. FileManager (x)]
 - [31. UIApplication (x)]
-- [32. DateFormatter]
-- [33. Struct 내부 Data 가공 후 UI에 뿌릴 때]
+- [32. DateFormatter](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/32.%20DateFormatter.md)
+- [33. Struct 내부 Data 가공 후 UI에 뿌릴 때](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/33.%20Struct%20내부%20Data%20가공%20후%20UI에%20뿌릴%20때.md)
 #### IOS Concurrency
 - [1. 왜 동시성(Concurrenct) 프로그래밍이 필요할까?](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/IOS%20Concurrency/1.%20왜%20동시성(Concurrenct)%20프로그래밍이%20필요할까%3F.md)
 - [2. GCD vs. Operation](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/IOS%20Concurrency/2.%20GCD(Grand%20Central%20Dispatch)%20vs.%20Operation.md)
@@ -156,6 +156,7 @@
 - [16. modal](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/16.%20modal.md)
 - [17. addTarget의 selector 매개변수에 대해](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/17.%20addTarget의%20selector%20매개변수에%20대해.md)
 - [18. addTarget vs addAction (x)]
+- [19. UIActivityViewController]
 #### RxSwift
 - [1. Custom Extensions](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/RxSwift/1.%20Custom%20Extensions.md)
 - [2. Subscribe Memory Leak](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/RxSwift/2.%20Subscribe%20Memory%20Leak.md)
@@ -206,10 +207,9 @@
 - [7. 버튼 색 변경으로 눌러짐 효과 커스텀 (x)]
 - [addTarget vs addAction (x)]
 #### UICollectionView
-- [1. UICollectionView (x)]
-- [2. UICollectionViewDelegate() vs UICollectionViewDelegateFlowLayout() (x)]
-- [3. UICollectionViewLayout() vs UICollectionViewFlowLayout() (x)]
-- [4. UICollectionView Dynamic Cell (x)]
+- [1. UICollectionView ]
+- [2. UICollectionViewDelegate() vs UICollectionViewDelegateFlowLayout() ]
+- [3. UICollectionViewLayout() vs UICollectionViewFlowLayout()]
 #### UIDatePicker
 - [1. UIDatePicker](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/UIDatePicker/1.%20UIDatePicker.md)
 #### UIGestureRecognizer
@@ -249,7 +249,7 @@
 #### UIStackView 
 - [1. UIStackView](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/UIStackView/1.%20UIStackView.md)
 #### UITabBarController
-- [1. UITabBarController (x)]
+- [1. UITabBarController]
 - [2. TabBar 유지보수 쉽게 만들기 ]
 #### UITableView
 - [1. UITableView](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/UITableView/1.%20UITableView.md)

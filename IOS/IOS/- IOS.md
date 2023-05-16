@@ -6,6 +6,7 @@
 [[- AVFoundation]]
 [[- TDD]]
 [[- PhotoKit]]
+[[- API 연동]]
 [[1. CLLocationManager]]
 [[2. Bridging Header]]
 [[3. UIViewController LifeCycle]]
@@ -21,10 +22,10 @@
 [[13. MVP]]
 [[14. PropertyList (x)]]
 [[15. KVO(key Value Observing) (x)]]
-[[16. URLSession (x)]]
+[[16. ATS(App Transport Security)]]
 [[17. Xcode Memory Leak 확인 방법 (x)]]
 [[18. CALayer (x)]]
-[[19. Notification Center (x)]]
+[[19. Notification Center]]
 [[20. Local Notification (x)]]
 [[21. KVC(Key Value Coding) (x)]]
 [[22. image cache 처리 (x)]]
@@ -39,5 +40,5 @@
 [[31. UIApplication (x)]]
 [[32. DateFormatter]]
 [[33. Struct 내부 Data 가공 후 UI에 뿌릴 때]]
-
+[[34. NotificationCenter의 userInfo와 object에 대해]]
 #IOS 
