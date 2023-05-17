@@ -1,4 +1,6 @@
 [[- Design Pattern]]
+[[- Python]]
+[[- C++]]
 [[1. 정규식 (RegEx) (x)]]
 [[2. 함수형 프로그래밍]]
 [[3. Currying]]
