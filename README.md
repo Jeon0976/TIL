@@ -15,7 +15,7 @@
 - [13. MVP](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/13.%20MVP.md)
 - [14. PropertyList(Decoder, Encoder) (x)]
 - [15. KVO(Key Value Observing) (x)]
-- [16. URLSession (x)]
+- [16. ATS(App Transport Security)]
 - [17. Xcode Memory Leak 확인 방법 (x)]
 - [18. CALayer (x)]
 - [19. Notification Center (x)]
@@ -46,6 +46,10 @@
 - [10. Asynchronous Operations](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/IOS%20Concurrency/10.%20Asynchronous%20Operations.md)
 - [11. Operation Dependencies](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/IOS%20Concurrency/11.%20Operation%20Dependencies.md)
 - [12. Canceling Operations](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/IOS%20Concurrency/12.%20Canceling%20Operations.md)
+#### API 연동 
+[1. URLSession (1)]
+[2. Beginning Networking with URLSession (x)]
+[3. Advanced Networking with URLSession (x)]
 #### Extension
 - [1. html 형식 필터링 하는 법](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/Extension/1.%20html%20형식%20필터링%20하는%20법.md)
 - [2. currency 설정](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/Extension/2.%20currency%20설정.md)
@@ -366,6 +370,14 @@
 - [2 Command Pattern (x)]
 - [3. Delegate Pattern](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/Coding/Design%20Pattern/3.%20Delegate%20Pattern.md)
 - [4. SingleTon Pattern](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/Coding/Design%20Pattern/4.%20SingleTon%20Pattern.md)
+#### C++ 
+#### Python 
+[1. Python 자료형]
+[2. Python 조건문]
+[3. Python 반복문]
+[4. Python 함수]
+[5. Python 입출력]
+[6. Python 주요 라이브러리의 문법과 유의점]
 ### DB 
 - [1. Realm (x)]
 - [2. 프로그래머 코딩테스트(23.03.14)](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/DB/2.%20프로그래머%20코딩테스트%20(23.03.14).md)
