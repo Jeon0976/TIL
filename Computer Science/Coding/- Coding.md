@@ -15,4 +15,5 @@
 [[12. regacy code (x)]]
 [[13. Synchronous(동기) vs. Asynchronous(비동기)]]
 [[14. Pyramid of Doom (x)]]
+[[15. 명령형 vs 선언형 (x)]]
 #CS/Coding

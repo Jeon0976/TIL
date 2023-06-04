@@ -34,4 +34,5 @@
 [[17. addTarget의 selector 매개변수에 대해]]
 [[18. addTarget vs addAction (x)]]
 [[19. UIActivityViewController]]
+[[20. model custom (x)]]
 #IOS/UIKit 

@@ -43,4 +43,7 @@
 [[41. truncatingRemainder]]
 [[42. enumerated() (x)]]
 [[43. lexicographicallyPrecedes (x)]]
+[[44. Generic (x)]]
+[[45. Opaque Type (x)]]
 #Swift 
+
