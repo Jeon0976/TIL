@@ -42,4 +42,7 @@
 [[33. Struct 내부 Data 가공 후 UI에 뿌릴 때]]
 [[34. NotificationCenter의 userInfo와 object에 대해]]
 [[35. JSONSerialization]]
+[[36. SlideAnimate (x)]]
+[[37. 내부 폴더에 있는 json 파일 불러오기]]
+[[38. bundle, package, Framework 개념]]
 #IOS 
