@@ -51,9 +51,9 @@
 - [11. Operation Dependencies](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/IOS%20Concurrency/11.%20Operation%20Dependencies.md)
 - [12. Canceling Operations](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/IOS%20Concurrency/12.%20Canceling%20Operations.md)
 #### API 연동 
-[1. URLSession]
-[2. URLComponents]
-[3.  url vs urlRequest]
+- [1. URLSession]
+- [2. URLComponents]
+- [3.  url vs urlRequest]
 #### Extension
 - [1. html 형식 필터링 하는 법](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/Extension/1.%20html%20형식%20필터링%20하는%20법.md)
 - [2. currency 설정](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/Extension/2.%20currency%20설정.md)
@@ -312,6 +312,7 @@
 #### 백준 
 - [G_1339번. 단어 수학](https://github.com/Jeon0976/TIL/blob/main/Algorithm/문제/백준%20문제/G_1339번.%20단어%20수학.md)
 - [G_14725번. 개미굴](https://github.com/Jeon0976/TIL/blob/main/Algorithm/문제/백준%20문제/G_14725번.%20개미굴.md)
+- [G_1339번. 단어 수학]
 - [S_1463번. 1로 만들기](https://github.com/Jeon0976/TIL/blob/main/Algorithm/문제/백준%20문제/S_1463번.%201로%20만들기.md)
 - [S_1929번. 소수 구하기](https://github.com/Jeon0976/TIL/blob/main/Algorithm/문제/백준%20문제/S_1929번.%20소수%20구하기.md)
 - [S_10975번. 모든 순열](https://github.com/Jeon0976/TIL/blob/main/Algorithm/문제/백준%20문제/S_10974번.%20모든%20순열.md)
@@ -325,6 +326,8 @@
 - [Lv2. 큰 수 만들기](https://github.com/Jeon0976/TIL/blob/main/Algorithm/문제/programmers%20문제/Lv2.%20큰%20수%20만들기.md)
 - [Lv2. 가장 큰 수](https://github.com/Jeon0976/TIL/blob/main/Algorithm/문제/programmers%20문제/Lv2.%20가장%20큰%20수.md)
 - [Lv2. 소수 찾기](https://github.com/Jeon0976/TIL/blob/main/Algorithm/문제/programmers%20문제/Lv2.%20소수%20찾기.md)
+- [Lv2. 올바른 괄호]
+- [Lv2. 할인행사]
 - [Lv3. 네트워크 (x)]
 - [Lv3.  N으로 표현](https://github.com/Jeon0976/TIL/blob/main/Algorithm/문제/programmers%20문제/Lv3.%20N으로%20표현.md)
 - [Lv4. 무지의 먹방 라이브 (x)]
@@ -387,6 +390,7 @@
 - [37. Topology Sort (x)]
 - [38. Two pointer (x)]
 - [39. Bellman-Ford Algorithm (x)]
+- [40. Backtracking (x)]
 # CS 
 ### Coding 
 - [1. 정규식(RegEx) (x)]
@@ -411,13 +415,13 @@
 - [4. SingleTon Pattern](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/Coding/Design%20Pattern/4.%20SingleTon%20Pattern.md)
 #### C++ 
 #### Python 
-[1. Python 자료형]
-[2. Python 조건문]
-[3. Python 반복문]
-[4. Python 함수]
-[5. Python 입출력]
-[6. Python 주요 라이브러리의 문법과 유의점]
-[7. 코딩 테스트 간 기타 문법]
+- [1. Python 자료형]
+- [2. Python 조건문]
+- [3. Python 반복문]
+- [4. Python 함수]
+- [5. Python 입출력]
+- [6. Python 주요 라이브러리의 문법과 유의점]
+- [7. 코딩 테스트 간 기타 문법]
 ### DB 
 - [1. Realm (x)]
 - [2. 프로그래머 코딩테스트(23.03.14)](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/DB/2.%20프로그래머%20코딩테스트%20(23.03.14).md)

@@ -35,3 +35,5 @@
 [[37. Topology Sort(위상 정렬) (x)]]
 [[36. 에라토스테네스의 체]]
 [[38. Two pointer (x)]]
+[[39. Bellman-Ford Algorithm (x)]]
+[[40. Backtracking (x)]]
