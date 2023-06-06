@@ -43,6 +43,5 @@
 [[34. NotificationCenter의 userInfo와 object에 대해]]
 [[35. JSONSerialization]]
 [[36. SlideAnimate (x)]]
-[[37. 내부 폴더에 있는 json 파일 불러오기]]
-[[38. bundle, package, Framework 개념]]
+[[37. bundle, package, Framework 개념 (x)]]
 #IOS 

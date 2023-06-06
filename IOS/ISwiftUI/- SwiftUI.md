@@ -9,5 +9,10 @@
 [[9. List의 동적 콘텐츠 (x)]]
 [[10. list 높이의 따라 부모 view의 높이 변경이 불가능한 이유 (x)]]
 [[11. GeometryProxy (x)]]
+[[12. border cornerRadius 적용 방법 (x)]]
+[[13. GeometryReader CoordinateSpace (x)]]
+[[14. Ideal Size와 fixedSize에 대해서 (x)]]
+[[15. GeometryReader란? (x)]]
+[[16. image 크기가 제각각 일 때 쉽게 화면 비율에 맞추는 방법 (x)]]
 
 #IOS/SwiftUI 

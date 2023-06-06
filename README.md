@@ -10,15 +10,15 @@
 - [8. UINavigationController vs NavigationView](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/8.%20UINavigationController%20vs%20NavigationView.md)
 - [9. Doblue vs CGFloat (x)]
 - [10. UserDefaults](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/10.%20UserDefaults.md)
-- [11. JSON 파싱 (x)]
+- [11. JSON 다루기]
 - [12. Localization](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/12.%20Localization.md)
 - [13. MVP](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/13.%20MVP.md)
-- [14. PropertyList(Decoder, Encoder) (x)]
+- [14. PropertyList (x)]
 - [15. KVO(Key Value Observing) (x)]
 - [16. ATS(App Transport Security)]
 - [17. Xcode Memory Leak 확인 방법 (x)]
 - [18. CALayer (x)]
-- [19. Notification Center (x)]
+- [19. Notification Center]
 - [20. Local Notification (x) ]
 - [21. KVC(Key Value Coding (x))]
 - [22. image cache 처리 (x)]
@@ -33,6 +33,10 @@
 - [31. UIApplication (x)]
 - [32. DateFormatter](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/32.%20DateFormatter.md)
 - [33. Struct 내부 Data 가공 후 UI에 뿌릴 때](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/33.%20Struct%20내부%20Data%20가공%20후%20UI에%20뿌릴%20때.md)
+- [34. NotificationCenter의 userInfo와 object에 대해]
+- [35. JSONSerialization]
+- [36. SlideAnimate (x)]
+- [37. bundle, package, Framework 개념 (x)]
 #### IOS Concurrency
 - [1. 왜 동시성(Concurrenct) 프로그래밍이 필요할까?](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/IOS%20Concurrency/1.%20왜%20동시성(Concurrenct)%20프로그래밍이%20필요할까%3F.md)
 - [2. GCD vs. Operation](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/IOS%20Concurrency/2.%20GCD(Grand%20Central%20Dispatch)%20vs.%20Operation.md)
@@ -47,12 +51,14 @@
 - [11. Operation Dependencies](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/IOS%20Concurrency/11.%20Operation%20Dependencies.md)
 - [12. Canceling Operations](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/IOS%20Concurrency/12.%20Canceling%20Operations.md)
 #### API 연동 
-[1. URLSession (1)]
-[2. Beginning Networking with URLSession (x)]
-[3. Advanced Networking with URLSession (x)]
+[1. URLSession]
+[2. URLComponents]
+[3.  url vs urlRequest]
 #### Extension
 - [1. html 형식 필터링 하는 법](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/Extension/1.%20html%20형식%20필터링%20하는%20법.md)
 - [2. currency 설정](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/Extension/2.%20currency%20설정.md)
+- [3. 한글 문장이 길때 적절하게 줄 바꿈 함수]
+- [4. 내부 폴더에 있는 json 파일 불러오기]
 #### External Library
 - [1.TTGTagCollectionView (x)]
 - [2. Alamofire (x)]
@@ -62,6 +68,9 @@
 - [6. SwiftLint](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/External%20Library/6.%20SwiftLint.md)
 #### Core Image
 #### Core Data
+#### Core Location 
+- [1. 위치 권한에 대한 모든 것]
+- [2. 내 위치의 위도, 경도 데이터 불러오기]
 #### AVFoundation
 - [1. AVFoundation](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/AVFoundation/1.%20AVFoundation.md)
 - [2. AVAudioPlayer](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/AVFoundation/2.%20AVAudioPlayer.md)
@@ -70,9 +79,25 @@
 - [1. PhotoKit (1)](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/PhotoKit/1.%20PhotoKit%20(1).md)
 - [2. PhotoKit (2) (x)]
 - [3. fetchOption의 정렬 방식](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/PhotoKit/3.%20fetchOption의%20정렬%20방식.md)
+#### TDD
+
 ### SwiftUI
 - [1. List vs H(V)Stack vs LazyH(V)Stack](https://github.com/Jeon0976/TIL/blob/main/IOS/ISwiftUI/1.%20List%20vs%20H(V)Stack%20vs%20LazyH(V)Stack.md)
 - [2. State and Data Flow](https://github.com/Jeon0976/TIL/blob/main/IOS/ISwiftUI/2.%20State%20and%20Data%20Flow.md)
+- [3. SwiftUI 란]
+- [4. ContentView]
+- [5. 수식어 적용 순서 주의 사항]
+- [6. Image에 대해서 (x)]
+- [7. UIHostingController]
+- [8. Overlay vs. Background (x)]
+- [9. List의 동적 콘텐츠 (x)]
+- [10. list 높이의 따라 부모 view의 높이 변경이 불가능한 이유 (x)]
+- [11. GeometryProxy (x)]
+- [12. border cornerRadius 적용 방법 (x)]
+- [13. GeometryReader CoordinateSpace (x)]
+- [14. Ideal Size와 fixedSize에 대해서 (x)]
+- [15. GeometryReader란? (x)]
+- [16. image 크기가 제각각 일 때 쉽게 화면 비율에 맞추는 방법 (x)]
 ### Swift
 - [1. What is Swift](https://github.com/Jeon0976/TIL/blob/main/IOS/Swift/1.%20What%20is%20Swift.md)
 - [2. ForEach vs For In](https://github.com/Jeon0976/TIL/blob/main/IOS/Swift/2.%20ForEach%20vs.%20For%20In.md)
@@ -100,7 +125,7 @@
 - [24. Substring (x)]
 - [25. Value Semantics (x)]
 - [26. COW(Copy-on-Write) (x)]
-- [27. associatedType (x)]
+- [27. associatedType]
 - [28. get, set, didSet, wiiSet (x)]
 - [29. Protocol 채택 시 Self requirements를 사용 하였을 때](https://github.com/Jeon0976/TIL/blob/main/IOS/Swift/29.%20Protocol%20채택%20시%20Self%20requirements를%20사용%20하였을%20때.md)
 - [30. 소수점 다루기 (x)]
@@ -118,6 +143,7 @@
 - [42. enumerated() (x)]
 - [43. lexicographicallyPrecedes (x)]
 - [44. Generic (x)]
+- [45. Opaque Type (x)]
 #### 고차함수 
 - [1. map](https://github.com/Jeon0976/TIL/blob/main/IOS/Swift/고차함수/1.%20map.md)
 - [2. filter](https://github.com/Jeon0976/TIL/blob/main/IOS/Swift/고차함수/2.%20filter.md)
@@ -161,6 +187,7 @@
 - [17. addTarget의 selector 매개변수에 대해](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/17.%20addTarget의%20selector%20매개변수에%20대해.md)
 - [18. addTarget vs addAction (x)]
 - [19. UIActivityViewController]
+- [20. model custom (x)]
 #### RxSwift
 - [1. Custom Extensions](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/RxSwift/1.%20Custom%20Extensions.md)
 - [2. Subscribe Memory Leak](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/RxSwift/2.%20Subscribe%20Memory%20Leak.md)
@@ -229,6 +256,8 @@
 - [7. Label vs TextField vs TextView (x)]
 - [8. TextView Custom PlaceHolder](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/UILabel%2C%20TextField%2C%20TextView/8.%20TextView%20Custom%20PlaceHolder.md)
 - [9. UITextView 높이 동적 할당 (x)]
+- [10. UILabel 높이 동적으로 값 얻기 (x)]
+- [11. padding Inset Label (x)]
 #### UIImageView, UIImage 
 - [1. UIImageView (x)]
 - [2. UIImage Size 조정 (x)]
@@ -255,6 +284,8 @@
 #### UITabBarController
 - [1. UITabBarController]
 - [2. TabBar 유지보수 쉽게 만들기 ]
+- [3. Tab Bar view 끼리의 page 이동 방법 (x)]
+- [4. Tab Bar -> Tab Bar로 button 이동 (x)]
 #### UITableView
 - [1. UITableView](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/UITableView/1.%20UITableView.md)
 - [2. dequeueResableCell 옵셔널 다운캐스팅 하는 이유 ](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/UITableView/2.%20dequeueResableCell%20옵셔널%20다운캐스팅%20하는%20이유.md)
@@ -272,6 +303,10 @@
 - [14. TableView 기본 삭제 기능](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/UITableView/14.%20TableView%20기본%20삭제%20기능.md)
 - [15. 스와이프 버튼 커스텀](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/UITableView/15.%20스와이프%20버튼%20커스텀.md)
 - [16. edit 모드에서 삭제 및 이동 구현](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/UITableView/16.%20edit%20모드에서%20삭제%20및%20이동%20구현.md)
+- [17.  TableView Cell init Layout 관련]
+- [18. tableview 스크롤 할 때마다 api 호출 (x)]
+- [19. tableView tag에 대해서 (x)]
+- [20. addTarget를 사용하면 indexPath를 직접 전달할 수는 없습니다. 하지만, textField의 CGPoint를 얻어 해당 위치의 indexPath를 조회하는 방법이 있습니다. (x)]
 # Algorithm
 ### 문제 
 #### 백준 
@@ -293,9 +328,12 @@
 - [Lv3. 네트워크 (x)]
 - [Lv3.  N으로 표현](https://github.com/Jeon0976/TIL/blob/main/Algorithm/문제/programmers%20문제/Lv3.%20N으로%20표현.md)
 - [Lv4. 무지의 먹방 라이브 (x)]
-#### etc
+#### 이것이 코딩 테스트이다
 - [1. 떡볶이 떡 만들기 (이코테.이진탐색) (x)]
-- [2. 이코테. DP 문제들](https://github.com/Jeon0976/TIL/blob/main/Algorithm/문제/2.%20이코테.%20DP%20문제들.md)
+- [2. 이코테. DP 문제들]
+- [3. 큰 수의 법칙]
+- [4. 음료수 얼려 먹기 (x)]
+- [5. 미로 탈출 (x)]
 ### 이론 & 인사이트 
 - [1. 수학 계산 시간 복잡도](https://github.com/Jeon0976/TIL/blob/main/Algorithm/이론%20%26%20인사이트/1.%20%20수학%20계산%20시간%20복잡도.md)
 - [2. 고차함수 활용하기](https://github.com/Jeon0976/TIL/tree/main/Algorithm/이론%20%26%20인사이트)
@@ -365,6 +403,7 @@
 - [12. regacy code (x)]
 - [13. Synchronous(동기) vs. Asynchronous(비동기)](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/Coding/13.%20Synchronous(동기)%20vs.%20Asynchronous(비동기).md)
 - [14. Pyramid of Doom (x)]
+- [15. 명령형 vs 선언형 (x)]
 #### Design Pattern
 - [1. MVC, MVP, MVVM 비교](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/Coding/Design%20Pattern/1.%20MVC%2C%20MVP%2C%20MVVM%20비교.md)
 - [2 Command Pattern (x)]
@@ -378,6 +417,7 @@
 [4. Python 함수]
 [5. Python 입출력]
 [6. Python 주요 라이브러리의 문법과 유의점]
+[7. 코딩 테스트 간 기타 문법]
 ### DB 
 - [1. Realm (x)]
 - [2. 프로그래머 코딩테스트(23.03.14)](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/DB/2.%20프로그래머%20코딩테스트%20(23.03.14).md)
@@ -387,6 +427,9 @@
 - [2. CI, CD (x)]
 - [3. bitrise (x)]
 - [4. git 요약 모음]
+- [5. .gitignore (x)]
+- [6. git-lfs (x)]
+- [7. git commit 규칙]
 ### Internet Protocol & Server 
 - [1. API와 SDK](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/Internet%20Protocol%2C%20Server/1.%20API와%20SDK.md)
 - [2. URI vs URL](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/Internet%20Protocol%2C%20Server/2.%20URI%20vs%20URL.md)
