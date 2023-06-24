@@ -312,7 +312,7 @@
 #### 백준 
 - [G_1339번. 단어 수학](https://github.com/Jeon0976/TIL/blob/main/Algorithm/문제/백준%20문제/G_1339번.%20단어%20수학.md)
 - [G_14725번. 개미굴](https://github.com/Jeon0976/TIL/blob/main/Algorithm/문제/백준%20문제/G_14725번.%20개미굴.md)
-- [G_1339번. 단어 수학]
+- [G_9663번. N-Queen](https://github.com/Jeon0976/TIL/blob/main/Algorithm/문제/백준%20문제/G_9663번.%20N-Queen.md)
 - [S_1463번. 1로 만들기](https://github.com/Jeon0976/TIL/blob/main/Algorithm/문제/백준%20문제/S_1463번.%201로%20만들기.md)
 - [S_1929번. 소수 구하기](https://github.com/Jeon0976/TIL/blob/main/Algorithm/문제/백준%20문제/S_1929번.%20소수%20구하기.md)
 - [S_10975번. 모든 순열](https://github.com/Jeon0976/TIL/blob/main/Algorithm/문제/백준%20문제/S_10974번.%20모든%20순열.md)
@@ -326,15 +326,15 @@
 - [Lv2. 큰 수 만들기](https://github.com/Jeon0976/TIL/blob/main/Algorithm/문제/programmers%20문제/Lv2.%20큰%20수%20만들기.md)
 - [Lv2. 가장 큰 수](https://github.com/Jeon0976/TIL/blob/main/Algorithm/문제/programmers%20문제/Lv2.%20가장%20큰%20수.md)
 - [Lv2. 소수 찾기](https://github.com/Jeon0976/TIL/blob/main/Algorithm/문제/programmers%20문제/Lv2.%20소수%20찾기.md)
-- [Lv2. 올바른 괄호]
-- [Lv2. 할인행사]
+- [Lv2. 올바른 괄호](https://github.com/Jeon0976/TIL/blob/main/Algorithm/문제/programmers%20문제/Lv2.%20올바른%20괄호.md)
+- [Lv2. 할인행사](https://github.com/Jeon0976/TIL/blob/main/Algorithm/문제/programmers%20문제/Lv2.%20할인행사.md)
 - [Lv3. 네트워크 (x)]
 - [Lv3.  N으로 표현](https://github.com/Jeon0976/TIL/blob/main/Algorithm/문제/programmers%20문제/Lv3.%20N으로%20표현.md)
 - [Lv4. 무지의 먹방 라이브 (x)]
 #### 이것이 코딩 테스트이다
 - [1. 떡볶이 떡 만들기 (이코테.이진탐색) (x)]
-- [2. 이코테. DP 문제들]
-- [3. 큰 수의 법칙]
+- [2. 이코테. DP 문제들](https://github.com/Jeon0976/TIL/blob/main/Algorithm/문제/이것이%20코딩%20테스트이다/2.%20이코테.%20DP%20문제들.md)
+- [3. 큰 수의 법칙](https://github.com/Jeon0976/TIL/blob/main/Algorithm/문제/이것이%20코딩%20테스트이다/3.%20큰%20수의%20법칙.md)
 - [4. 음료수 얼려 먹기 (x)]
 - [5. 미로 탈출 (x)]
 ### 이론 & 인사이트 
@@ -415,13 +415,13 @@
 - [4. SingleTon Pattern](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/Coding/Design%20Pattern/4.%20SingleTon%20Pattern.md)
 #### C++ 
 #### Python 
-- [1. Python 자료형]
-- [2. Python 조건문]
-- [3. Python 반복문]
-- [4. Python 함수]
-- [5. Python 입출력]
-- [6. Python 주요 라이브러리의 문법과 유의점]
-- [7. 코딩 테스트 간 기타 문법]
+- [1. Python 자료형](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/Coding/Python/1.%20Python%20자료형.md)
+- [2. Python 조건문](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/Coding/Python/2.%20Python%20조건문.md)
+- [3. Python 반복문](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/Coding/Python/3.%20Python%20반복문.md)
+- [4. Python 함수](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/Coding/Python/4.%20Python%20함수.md)
+- [5. Python 입출력](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/Coding/Python/5.%20Python%20입출력.md)
+- [6. Python 주요 라이브러리의 문법과 유의점](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/Coding/Python/6.%20Python%20주요%20라이브러리의%20문법과%20유의점.md)
+- [7. 코딩 테스트 간 기타 문법](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/Coding/Python/7.%20코딩%20테스트%20간%20기타%20문법.md)
 ### DB 
 - [1. Realm (x)]
 - [2. 프로그래머 코딩테스트(23.03.14)](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/DB/2.%20프로그래머%20코딩테스트%20(23.03.14).md)
@@ -430,10 +430,10 @@
 - [1. AS-IS, TO-BE](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/ETC/1.%20AS-IS%2C%20TO-BE.md)
 - [2. CI, CD (x)]
 - [3. bitrise (x)]
-- [4. git 요약 모음]
+- [4. git 요약 모음](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/ETC/4.%20git%20요약%20모음.md)
 - [5. .gitignore (x)]
 - [6. git-lfs (x)]
-- [7. git commit 규칙]
+- [7. git commit 규칙](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/ETC/7.%20git%20commit%20규칙.md)
 ### Internet Protocol & Server 
 - [1. API와 SDK](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/Internet%20Protocol%2C%20Server/1.%20API와%20SDK.md)
 - [2. URI vs URL](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/Internet%20Protocol%2C%20Server/2.%20URI%20vs%20URL.md)

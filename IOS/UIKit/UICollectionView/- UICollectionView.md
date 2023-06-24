@@ -1,3 +1,5 @@
 [[1. UICollectionView]]
 [[2. UICollectionViewDelegate() Vs UICollectionViewDelegateFlowLayout()]]
 [[3. UICollectionViewLayout() vs UICollectionViewFlowLayout()]]
+[[4. UIPageControl (x)]]
+[[5. 무한 스크롤 뷰 (x)]]

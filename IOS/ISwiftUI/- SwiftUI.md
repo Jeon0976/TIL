@@ -14,5 +14,13 @@
 [[14. Ideal Size와 fixedSize에 대해서 (x)]]
 [[15. GeometryReader란? (x)]]
 [[16. image 크기가 제각각 일 때 쉽게 화면 비율에 맞추는 방법 (x)]]
+[[17. ResultBuilder (FunctionBuilder) (x)]]
+[[18. Preview (x)]]
+[[19. @Environment (x)]]
+[[20. 데이터 흐름에 대해 (1) (x)]]
+[[21. 데이터 흐름에 대해 (2) (x)]]
+[[22. ViewModifier (x)]]
+[[23. Custom Style (x)]]
+[[24. Animations With SwiftUI (x)]]
 
 #IOS/SwiftUI 

@@ -14,3 +14,7 @@
 [[14. TableView 기본 삭제 기능]]
 [[15. 스와이프 버튼 커스텀]]
 [[16. edit 모드에서 삭제 및 이동 구현]]
+[[17.  TableView Cell init Layout 관련]]
+[[18. tableview 스크롤 할 때마다 api 호출 (x)]]
+[[19. tableView tag에 대해서 (x)]]
+[[20. addTarget를 사용하면 indexPath를 직접 전달할 수는 없습니다. 하지만, textField의 CGPoint를 얻어 해당 위치의 indexPath를 조회하는 방법이 있습니다. (x)]]
