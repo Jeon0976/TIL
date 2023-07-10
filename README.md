@@ -10,16 +10,16 @@
 - [8. UINavigationController vs NavigationView](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/8.%20UINavigationController%20vs%20NavigationView.md)
 - [9. Doblue vs CGFloat (x)]
 - [10. UserDefaults](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/10.%20UserDefaults.md)
-- [11. JSON 다루기]
+- [11. JSON 다루기](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/11.%20JSON%20다루기.md)
 - [12. Localization](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/12.%20Localization.md)
 - [13. MVP](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/13.%20MVP.md)
 - [14. PropertyList (x)]
 - [15. KVO(Key Value Observing) (x)]
-- [16. ATS(App Transport Security)]
+- [16. ATS(App Transport Security)](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/16.%20ATS(App%20Transport%20Security).md)
 - [17. Xcode Memory Leak 확인 방법 (x)]
 - [18. CALayer (x)]
-- [19. Notification Center]
-- [20. Local Notification (x) ]
+- [19. Notification Center](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/19.%20Notification%20Center.md)
+- [20. Local Notification (x)]
 - [21. KVC(Key Value Coding (x))]
 - [22. image cache 처리 (x)]
 - [23. Assets catalogs](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/23.%20Assets%20catalogs.md)
@@ -33,8 +33,8 @@
 - [31. UIApplication (x)]
 - [32. DateFormatter](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/32.%20DateFormatter.md)
 - [33. Struct 내부 Data 가공 후 UI에 뿌릴 때](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/33.%20Struct%20내부%20Data%20가공%20후%20UI에%20뿌릴%20때.md)
-- [34. NotificationCenter의 userInfo와 object에 대해]
-- [35. JSONSerialization]
+- [34. NotificationCenter의 userInfo와 object에 대해](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/34.%20NotificationCenter의%20userInfo와%20object에%20대해.md)
+- [35. JSONSerialization](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/35.%20JSONSerialization.md)
 - [36. SlideAnimate (x)]
 - [37. bundle, package, Framework 개념 (x)]
 - [38. 앱 안정성을 위한 API id 비공개화 (x)]
@@ -53,16 +53,16 @@
 - [11. Operation Dependencies](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/IOS%20Concurrency/11.%20Operation%20Dependencies.md)
 - [12. Canceling Operations](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/IOS%20Concurrency/12.%20Canceling%20Operations.md)
 #### API 연동 
-- [1. URLSession]
-- [2. URLComponents]
-- [3.  url vs urlRequest]
+- [1. URLSession](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/API/1.%20URLSession.md)
+- [2. URLComponents](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/API/2.%20URLComponents.md)
+- [3.  url vs urlRequest](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/API/3.%20%20url%20vs%20urlRequest.md)
 - [4. post (x)]
 #### Extension
 - [1. html 형식 필터링 하는 법](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/Extension/1.%20html%20형식%20필터링%20하는%20법.md)
 - [2. currency 설정](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/Extension/2.%20currency%20설정.md)
-- [3. 한글 문장이 길때 적절하게 줄 바꿈 함수]
-- [4. 내부 폴더에 있는 json 파일 불러오기]
-- [5. 검색 결과 색상 넣기]
+- [3. 한글 문장이 길때 적절하게 줄 바꿈 함수](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/Extension/3.%20한글%20문장이%20길때%20적절하게%20줄%20바꿈%20함수.md)
+- [4. 내부 폴더에 있는 json 파일 불러오기](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/Extension/4.%20내부%20폴더에%20있는%20json%20파일%20불러오기.md)
+- [5. 검색 결과 색상 넣기](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/Extension/5.%20검색%20결과%20색상%20넣기.md)
 #### External Library
 - [1.TTGTagCollectionView (x)]
 - [2. Alamofire (x)]
@@ -74,8 +74,8 @@
 #### Core Image
 #### Core Data
 #### Core Location 
-- [1. 위치 권한에 대한 모든 것]
-- [2. 내 위치의 위도, 경도 데이터 불러오기]
+- [1. 위치 권한에 대한 모든 것](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/Core%20Location/1.%20위치%20권한에%20대한%20모든%20것.md)
+- [2. 내 위치의 위도, 경도 데이터 불러오기](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/Core%20Location/2.%20내%20위치의%20위도%2C%20경도%20데이터%20불러오기.md)
 #### AVFoundation
 - [1. AVFoundation](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/AVFoundation/1.%20AVFoundation.md)
 - [2. AVAudioPlayer](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/AVFoundation/2.%20AVAudioPlayer.md)
@@ -89,11 +89,11 @@
 ### SwiftUI
 - [1. List vs H(V)Stack vs LazyH(V)Stack](https://github.com/Jeon0976/TIL/blob/main/IOS/ISwiftUI/1.%20List%20vs%20H(V)Stack%20vs%20LazyH(V)Stack.md)
 - [2. State and Data Flow](https://github.com/Jeon0976/TIL/blob/main/IOS/ISwiftUI/2.%20State%20and%20Data%20Flow.md)
-- [3. SwiftUI 란]
-- [4. ContentView]
-- [5. 수식어 적용 순서 주의 사항]
+- [3. SwiftUI 란](https://github.com/Jeon0976/TIL/blob/main/IOS/ISwiftUI/3.%20SwiftUI%20란.md)
+- [4. ContentView](https://github.com/Jeon0976/TIL/blob/main/IOS/ISwiftUI/4.%20ContentView.md)
+- [5. 수식어 적용 순서 주의 사항](https://github.com/Jeon0976/TIL/blob/main/IOS/ISwiftUI/5.%20수식어%20적용%20순서%20주의%20사항.md)
 - [6. Image에 대해서 (x)]
-- [7. UIHostingController]
+- [7. UIHostingController](https://github.com/Jeon0976/TIL/blob/main/IOS/ISwiftUI/7.%20UIHostingController.md)
 - [8. Overlay vs. Background (x)]
 - [9. List의 동적 콘텐츠 (x)]
 - [10. list 높이의 따라 부모 view의 높이 변경이 불가능한 이유 (x)]
@@ -138,7 +138,7 @@
 - [24. Substring (x)]
 - [25. Value Semantics (x)]
 - [26. COW(Copy-on-Write) (x)]
-- [27. associatedType]
+- [27. associatedType](https://github.com/Jeon0976/TIL/blob/main/IOS/Swift/27.%20associatedType.md)
 - [28. get, set, didSet, wiiSet (x)]
 - [29. Protocol 채택 시 Self requirements를 사용 하였을 때](https://github.com/Jeon0976/TIL/blob/main/IOS/Swift/29.%20Protocol%20채택%20시%20Self%20requirements를%20사용%20하였을%20때.md)
 - [30. 소수점 다루기 (x)]
@@ -157,8 +157,8 @@
 - [43. lexicographicallyPrecedes (x)]
 - [44. Generic (x)]
 - [45. Opaque Type (x)]
-- [[46. Property Wrappers (x)]]
-- [[47. Shallow, Deep Copy]]
+- [46. Property Wrappers (x)]
+- [47. Shallow, Deep Copy](https://github.com/Jeon0976/TIL/blob/main/IOS/Swift/47.%20Shallow%2C%20Deep%20Copy.md)
 #### 고차함수 
 - [1. map](https://github.com/Jeon0976/TIL/blob/main/IOS/Swift/고차함수/1.%20map.md)
 - [2. filter](https://github.com/Jeon0976/TIL/blob/main/IOS/Swift/고차함수/2.%20filter.md)
@@ -201,9 +201,9 @@
 - [16. modal](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/16.%20modal.md)
 - [17. addTarget의 selector 매개변수에 대해](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/17.%20addTarget의%20selector%20매개변수에%20대해.md)
 - [18. addTarget vs addAction (x)]
-- [19. UIActivityViewController]
+- [19. UIActivityViewController](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/19.%20UIActivityViewController.md)
 - [20. model custom (x)]
-- [[21. Haptic Feedback (x)]]
+- [21. Haptic Feedback (x)]
 - [22. ContentHuggingPriority vs ContentCompressionResistancePriority (x)]
 - [23. UIScrollView, UIPageControl를 활용한 안내 화면 (x)]
 #### RxSwift
@@ -256,11 +256,12 @@
 - [6. titleLabel.font와 configuration의 관계 (x)]
 - [7. 버튼 색 변경으로 눌러짐 효과 커스텀 (x)]
 #### UICollectionView
-- [1. UICollectionView ]
-- [2. UICollectionViewDelegate() vs UICollectionViewDelegateFlowLayout() ]
-- [3. UICollectionViewLayout() vs UICollectionViewFlowLayout()]
+- [1. UICollectionView ](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/UICollectionView/1.%20UICollectionView.md)
+- [2. UICollectionViewDelegate() vs UICollectionViewDelegateFlowLayout()](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/UICollectionView/2.%20UICollectionViewDelegate()%20Vs%20UICollectionViewDelegateFlowLayout().md)
+- [3. UICollectionViewLayout() vs UICollectionViewFlowLayout()](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/UICollectionView/3.%20UICollectionViewLayout()%20vs%20UICollectionViewFlowLayout().md)
 - [4. UIPageControl (x)]
 - [5. 무한 스크롤 뷰 (x)]
+- [6. 2개의 CollectionView 동기화 및 버튼 페이징 기능 추가 (x)]
 #### UIDatePicker
 - [1. UIDatePicker](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/UIDatePicker/1.%20UIDatePicker.md)
 #### UIGestureRecognizer
@@ -303,8 +304,8 @@
 #### UIStackView 
 - [1. UIStackView](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/UIStackView/1.%20UIStackView.md)
 #### UITabBarController
-- [1. UITabBarController]
-- [2. TabBar 유지보수 쉽게 만들기 ]
+- [1. UITabBarController](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/UITabBarController/1.%20UITabBarController.md)
+- [2. TabBar 유지보수 쉽게 만들기 ](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/UITabBarController/2.%20TabBar%20유지보수%20쉽게%20만들기.md)
 - [3. Tab Bar view 끼리의 page 이동 방법 (x)]
 - [4. Tab Bar -> Tab Bar로 button 이동 (x)]
 #### UITableView
@@ -324,14 +325,14 @@
 - [14. TableView 기본 삭제 기능](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/UITableView/14.%20TableView%20기본%20삭제%20기능.md)
 - [15. 스와이프 버튼 커스텀](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/UITableView/15.%20스와이프%20버튼%20커스텀.md)
 - [16. edit 모드에서 삭제 및 이동 구현](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/UITableView/16.%20edit%20모드에서%20삭제%20및%20이동%20구현.md)
-- [17.  TableView Cell init Layout 관련]
+- [17.  TableView Cell init Layout 관련](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/UITableView/17.%20%20TableView%20Cell%20init%20Layout%20관련.md)
 - [18. tableview 스크롤 할 때마다 api 호출 (x)]
 - [19. tableView tag에 대해서 (x)]
 - [20. textField의 cgPoint를 통해 indexPath 알아내기(x)]
 # Algorithm
 ### 문제 
 #### 백준 
-- [G_1107번. 리모컨]
+- [G_1107번. 리모컨](https://github.com/Jeon0976/TIL/blob/main/Algorithm/문제/백준%20문제/G_1107번.%20리모컨.md)
 - [G_1339번. 단어 수학](https://github.com/Jeon0976/TIL/blob/main/Algorithm/문제/백준%20문제/G_1339번.%20단어%20수학.md)
 - [G_14725번. 개미굴](https://github.com/Jeon0976/TIL/blob/main/Algorithm/문제/백준%20문제/G_14725번.%20개미굴.md)
 - [G_9663번. N-Queen](https://github.com/Jeon0976/TIL/blob/main/Algorithm/문제/백준%20문제/G_9663번.%20N-Queen.md)
@@ -340,20 +341,20 @@
 - [S_1463번. 1로 만들기](https://github.com/Jeon0976/TIL/blob/main/Algorithm/문제/백준%20문제/S_1463번.%201로%20만들기.md)
 - [S_1929번. 소수 구하기](https://github.com/Jeon0976/TIL/blob/main/Algorithm/문제/백준%20문제/S_1929번.%20소수%20구하기.md)
 - [S_10975번. 모든 순열](https://github.com/Jeon0976/TIL/blob/main/Algorithm/문제/백준%20문제/S_10974번.%20모든%20순열.md)
-- [S_1010번. 다리 놓기]
+- [S_1010번. 다리 놓기](https://github.com/Jeon0976/TIL/blob/main/Algorithm/문제/백준%20문제/S_1010번.%20다리%20놓기.md)
 - [S_1012번. 유기농 배추 (x)]
 - [S_1018번. 체스판 다시 칠하기 (x)]
-- [S_1260번. DFS와 BFS]
-- [S_1485번. 정사각형]
+- [S_1260번. DFS와 BFS](https://github.com/Jeon0976/TIL/blob/main/Algorithm/문제/백준%20문제/S_1260번.%20DFS와%20BFS.md)
+- [S_1485번. 정사각형](https://github.com/Jeon0976/TIL/blob/main/Algorithm/문제/백준%20문제/S_1485번.%20정사각형.md)
 - [S_1966번. 프린터큐 (x)]
 - [S_2108번. 통계학 (x)]
 - [S_2167번. 2차원 배열의 합 (x)]
 - [S_2217번. 로프 (x)]
 - [S_2579번. 계단 오르기 (x)]
-- [S_14888번. 연산자 끼워넣기]
-- [S_17413번. 단어 뒤집기 2]
-- [S_깊이 우선 탐색 시리즈]
-- [S_너비 우선 탐색 시리즈]
+- [S_14888번. 연산자 끼워넣기](https://github.com/Jeon0976/TIL/blob/main/Algorithm/문제/백준%20문제/S_14888번.%20연산자%20끼워넣기.md)
+- [S_17413번. 단어 뒤집기 2](https://github.com/Jeon0976/TIL/blob/main/Algorithm/문제/백준%20문제/S_17413번.%20단어%20뒤집기%202.md)
+- [S_깊이 우선 탐색 시리즈](https://github.com/Jeon0976/TIL/blob/main/Algorithm/문제/백준%20문제/S_깊이%20우선%20탐색%20시리즈.md)
+- [S_너비 우선 탐색 시리즈](https://github.com/Jeon0976/TIL/blob/main/Algorithm/문제/백준%20문제/S_너비%20우선%20탐색%20시리즈.md)
 #### programmers
 - [Lv0. 최댓값 만들기(1) (인사이트)](https://github.com/Jeon0976/TIL/blob/main/Algorithm/문제/programmers%20문제/Lv0.%20최댓값%20만들기(1)%20(인사이트).md)
 - [Lv0. 최빈값 구하기 (인사이트)](https://github.com/Jeon0976/TIL/blob/main/Algorithm/문제/programmers%20문제/Lv0.%20최빈값%20구하기%20(인사이트).md)
@@ -453,15 +454,15 @@
 - [2 Command Pattern (x)]
 - [3. Delegate Pattern](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/Coding/Design%20Pattern/3.%20Delegate%20Pattern.md)
 - [4. SingleTon Pattern](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/Coding/Design%20Pattern/4.%20SingleTon%20Pattern.md)
-- [5. Builder Pattern]
-- [6. Prototype Pattern]
-- [7. Factory Method Pattern]
-- [8. Abstract Factory Pattern]
-- [9. Bridge Pattern]
-- [10. Decorator Pattern]
-- [11. Facade Pattern]
-- [12. Flyweight Pattern]
-- [13. Proxy Pattern]
+- [5. Builder Pattern](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/Coding/Design%20Pattern/5.%20Builder%20Pattern.md)
+- [6. Prototype Pattern](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/Coding/Design%20Pattern/6.%20Prototype%20Pattern.md)
+- [7. Factory Method Pattern](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/Coding/Design%20Pattern/7.%20Factory%20Method%20Pattern.md)
+- [8. Abstract Factory Pattern](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/Coding/Design%20Pattern/8.%20Abstract%20Factory%20Pattern.md)
+- [9. Bridge Pattern](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/Coding/Design%20Pattern/9.%20Bridge%20Pattern.md)
+- [10. Decorator Pattern](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/Coding/Design%20Pattern/10.%20Decorator%20Pattern.md)
+- [11. Facade Pattern](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/Coding/Design%20Pattern/11.%20Facade%20Pattern.md)
+- [12. Flyweight Pattern](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/Coding/Design%20Pattern/12.%20Flyweight%20Pattern.md)
+- [13. Proxy Pattern](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/Coding/Design%20Pattern/13.%20Proxy%20Pattern.md)
 - [14. Composite Pattern (x)]
 - [15. Adapter Pattern (x)]
 - [16. Proxy Pattern Vs Flyweight Pattern (x)]

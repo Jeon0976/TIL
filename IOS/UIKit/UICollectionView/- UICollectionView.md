@@ -3,3 +3,4 @@
 [[3. UICollectionViewLayout() vs UICollectionViewFlowLayout()]]
 [[4. UIPageControl (x)]]
 [[5. 무한 스크롤 뷰 (x)]]
+[[6. 2개의 CollectionView 동기화 및 버튼 페이징 기능 추가 (x)]]
