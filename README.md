@@ -37,6 +37,8 @@
 - [35. JSONSerialization]
 - [36. SlideAnimate (x)]
 - [37. bundle, package, Framework 개념 (x)]
+- [38. 앱 안정성을 위한 API id 비공개화 (x)]
+- [39. NSCache (x)]
 #### IOS Concurrency
 - [1. 왜 동시성(Concurrenct) 프로그래밍이 필요할까?](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/IOS%20Concurrency/1.%20왜%20동시성(Concurrenct)%20프로그래밍이%20필요할까%3F.md)
 - [2. GCD vs. Operation](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/IOS%20Concurrency/2.%20GCD(Grand%20Central%20Dispatch)%20vs.%20Operation.md)
@@ -54,11 +56,13 @@
 - [1. URLSession]
 - [2. URLComponents]
 - [3.  url vs urlRequest]
+- [4. post (x)]
 #### Extension
 - [1. html 형식 필터링 하는 법](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/Extension/1.%20html%20형식%20필터링%20하는%20법.md)
 - [2. currency 설정](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/Extension/2.%20currency%20설정.md)
 - [3. 한글 문장이 길때 적절하게 줄 바꿈 함수]
 - [4. 내부 폴더에 있는 json 파일 불러오기]
+- [5. 검색 결과 색상 넣기]
 #### External Library
 - [1.TTGTagCollectionView (x)]
 - [2. Alamofire (x)]
@@ -66,6 +70,7 @@
 - [4. SnapKit.Q](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/External%20Library/4.%20SnapKit%20Q.md)
 - [5. SwiftyJSON (x)]
 - [6. SwiftLint](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/External%20Library/6.%20SwiftLint.md)
+- [7. KeychainSwift (x)]
 #### Core Image
 #### Core Data
 #### Core Location 
@@ -98,6 +103,14 @@
 - [14. Ideal Size와 fixedSize에 대해서 (x)]
 - [15. GeometryReader란? (x)]
 - [16. image 크기가 제각각 일 때 쉽게 화면 비율에 맞추는 방법 (x)]
+- [17. ResultBuilder (FunctionBuilder) (x)]
+- [18. Preview (x)]
+- [19. @Environment (x)]
+- [20. 데이터 흐름에 대해 (1) (x)]
+- [21. 데이터 흐름에 대해 (2) (x)]
+- [22. ViewModifier (x)]
+- [23. Custom Style (x)]
+- [24. Animations With SwiftUI (x)]
 ### Swift
 - [1. What is Swift](https://github.com/Jeon0976/TIL/blob/main/IOS/Swift/1.%20What%20is%20Swift.md)
 - [2. ForEach vs For In](https://github.com/Jeon0976/TIL/blob/main/IOS/Swift/2.%20ForEach%20vs.%20For%20In.md)
@@ -144,6 +157,8 @@
 - [43. lexicographicallyPrecedes (x)]
 - [44. Generic (x)]
 - [45. Opaque Type (x)]
+- [[46. Property Wrappers (x)]]
+- [[47. Shallow, Deep Copy]]
 #### 고차함수 
 - [1. map](https://github.com/Jeon0976/TIL/blob/main/IOS/Swift/고차함수/1.%20map.md)
 - [2. filter](https://github.com/Jeon0976/TIL/blob/main/IOS/Swift/고차함수/2.%20filter.md)
@@ -188,6 +203,9 @@
 - [18. addTarget vs addAction (x)]
 - [19. UIActivityViewController]
 - [20. model custom (x)]
+- [[21. Haptic Feedback (x)]]
+- [22. ContentHuggingPriority vs ContentCompressionResistancePriority (x)]
+- [23. UIScrollView, UIPageControl를 활용한 안내 화면 (x)]
 #### RxSwift
 - [1. Custom Extensions](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/RxSwift/1.%20Custom%20Extensions.md)
 - [2. Subscribe Memory Leak](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/RxSwift/2.%20Subscribe%20Memory%20Leak.md)
@@ -228,6 +246,7 @@
 - [1. UIAlertController](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/UIAlertController/1.%20UIAlertController.md)
 - [2. Alert Action 중 순환참조에 관하여](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/UIAlertController/2.%20Alert%20Action%20중%20순환참조에%20관하여.md)
 - [3. Alert에 TextField추가](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/UIAlertController/3.%20Alert에%20TextField%20추가.md)
+#### UIAnimations
 #### UIButton
 - [1. UIButton](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/UIButton/1.%20UIButton.md)
 - [2. UIButton SystemImage 조절](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/UIButton/2.%20UIButton%20SystemImage%20조절.md)
@@ -236,16 +255,18 @@
 - [5. UIButton font 설정 (x)]
 - [6. titleLabel.font와 configuration의 관계 (x)]
 - [7. 버튼 색 변경으로 눌러짐 효과 커스텀 (x)]
-- [addTarget vs addAction (x)]
 #### UICollectionView
 - [1. UICollectionView ]
 - [2. UICollectionViewDelegate() vs UICollectionViewDelegateFlowLayout() ]
 - [3. UICollectionViewLayout() vs UICollectionViewFlowLayout()]
+- [4. UIPageControl (x)]
+- [5. 무한 스크롤 뷰 (x)]
 #### UIDatePicker
 - [1. UIDatePicker](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/UIDatePicker/1.%20UIDatePicker.md)
 #### UIGestureRecognizer
 - [1. UIGestureRecognizer](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/UIGestureRecognizer/1.%20UIGestureRecognizer.md)
 - [2. 키보드 숨기기 설정](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/UIGestureRecognizer/2.%20키보드%20숨기기%20설정.md)
+- [3. UIPanGestureRecognizer (x)]
 #### UILabel, TextField, TextView
 - [1. UILabel](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/UILabel%2C%20TextField%2C%20TextView/1.%20UILabel.md)
 - [2. UIText Field](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/UILabel%2C%20TextField%2C%20TextView/2.%20UIText%20Field.md)
@@ -306,16 +327,33 @@
 - [17.  TableView Cell init Layout 관련]
 - [18. tableview 스크롤 할 때마다 api 호출 (x)]
 - [19. tableView tag에 대해서 (x)]
-- [20. addTarget를 사용하면 indexPath를 직접 전달할 수는 없습니다. 하지만, textField의 CGPoint를 얻어 해당 위치의 indexPath를 조회하는 방법이 있습니다. (x)]
+- [20. textField의 cgPoint를 통해 indexPath 알아내기(x)]
 # Algorithm
 ### 문제 
 #### 백준 
+- [G_1107번. 리모컨]
 - [G_1339번. 단어 수학](https://github.com/Jeon0976/TIL/blob/main/Algorithm/문제/백준%20문제/G_1339번.%20단어%20수학.md)
 - [G_14725번. 개미굴](https://github.com/Jeon0976/TIL/blob/main/Algorithm/문제/백준%20문제/G_14725번.%20개미굴.md)
 - [G_9663번. N-Queen](https://github.com/Jeon0976/TIL/blob/main/Algorithm/문제/백준%20문제/G_9663번.%20N-Queen.md)
+- [G_14502번. 연구소 (x)]
+- [G_14891번. 톱니바퀴 (x)]
 - [S_1463번. 1로 만들기](https://github.com/Jeon0976/TIL/blob/main/Algorithm/문제/백준%20문제/S_1463번.%201로%20만들기.md)
 - [S_1929번. 소수 구하기](https://github.com/Jeon0976/TIL/blob/main/Algorithm/문제/백준%20문제/S_1929번.%20소수%20구하기.md)
 - [S_10975번. 모든 순열](https://github.com/Jeon0976/TIL/blob/main/Algorithm/문제/백준%20문제/S_10974번.%20모든%20순열.md)
+- [S_1010번. 다리 놓기]
+- [S_1012번. 유기농 배추 (x)]
+- [S_1018번. 체스판 다시 칠하기 (x)]
+- [S_1260번. DFS와 BFS]
+- [S_1485번. 정사각형]
+- [S_1966번. 프린터큐 (x)]
+- [S_2108번. 통계학 (x)]
+- [S_2167번. 2차원 배열의 합 (x)]
+- [S_2217번. 로프 (x)]
+- [S_2579번. 계단 오르기 (x)]
+- [S_14888번. 연산자 끼워넣기]
+- [S_17413번. 단어 뒤집기 2]
+- [S_깊이 우선 탐색 시리즈]
+- [S_너비 우선 탐색 시리즈]
 #### programmers
 - [Lv0. 최댓값 만들기(1) (인사이트)](https://github.com/Jeon0976/TIL/blob/main/Algorithm/문제/programmers%20문제/Lv0.%20최댓값%20만들기(1)%20(인사이트).md)
 - [Lv0. 최빈값 구하기 (인사이트)](https://github.com/Jeon0976/TIL/blob/main/Algorithm/문제/programmers%20문제/Lv0.%20최빈값%20구하기%20(인사이트).md)
@@ -350,6 +388,8 @@
 - [10. 구간 합 알고리즘 (x)]
 - [11. 순열과 조합 Swift로 구현 ](https://github.com/Jeon0976/TIL/blob/main/Algorithm/이론%20%26%20인사이트/11.%20순열과%20조합%20Swift로%20구현.md)
 - [12. 집합, 자연수의 분할 Swift로 구현 (x)]
+- [13. 1차원, 2차원 배열의 합 구하기 (x)]
+- [14. 접미사 배열 (x)]
 ##### Data Structures & Algorithms
 - [1. Stack](https://github.com/Jeon0976/TIL/blob/main/Algorithm/이론%20%26%20인사이트/Data%20Structures%20%26%20Algorithms/1.%20Stack.md)
 - [2.Linked Lists (1)](https://github.com/Jeon0976/TIL/blob/main/Algorithm/이론%20%26%20인사이트/Data%20Structures%20%26%20Algorithms/2.%20Linked%20List%20(1).md)
@@ -413,6 +453,18 @@
 - [2 Command Pattern (x)]
 - [3. Delegate Pattern](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/Coding/Design%20Pattern/3.%20Delegate%20Pattern.md)
 - [4. SingleTon Pattern](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/Coding/Design%20Pattern/4.%20SingleTon%20Pattern.md)
+- [5. Builder Pattern]
+- [6. Prototype Pattern]
+- [7. Factory Method Pattern]
+- [8. Abstract Factory Pattern]
+- [9. Bridge Pattern]
+- [10. Decorator Pattern]
+- [11. Facade Pattern]
+- [12. Flyweight Pattern]
+- [13. Proxy Pattern]
+- [14. Composite Pattern (x)]
+- [15. Adapter Pattern (x)]
+- [16. Proxy Pattern Vs Flyweight Pattern (x)]
 #### C++ 
 #### Python 
 - [1. Python 자료형](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/Coding/Python/1.%20Python%20자료형.md)
@@ -422,6 +474,7 @@
 - [5. Python 입출력](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/Coding/Python/5.%20Python%20입출력.md)
 - [6. Python 주요 라이브러리의 문법과 유의점](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/Coding/Python/6.%20Python%20주요%20라이브러리의%20문법과%20유의점.md)
 - [7. 코딩 테스트 간 기타 문법](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/Coding/Python/7.%20코딩%20테스트%20간%20기타%20문법.md)
+#### UML
 ### DB 
 - [1. Realm (x)]
 - [2. 프로그래머 코딩테스트(23.03.14)](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/DB/2.%20프로그래머%20코딩테스트%20(23.03.14).md)

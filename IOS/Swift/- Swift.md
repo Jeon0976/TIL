@@ -46,6 +46,6 @@
 [[44. Generic (x)]]
 [[45. Opaque Type (x)]]
 [[46. Property Wrappers (x)]]
-[[47.Shallow, Deep Copy]]
+[[47. Shallow, Deep Copy]]
 #Swift 
 

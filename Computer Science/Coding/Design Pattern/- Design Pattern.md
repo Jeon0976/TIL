@@ -7,7 +7,13 @@
 [[7. Factory Method Pattern]]
 [[8. Abstract Factory Pattern]]
 [[9. Bridge Pattern]]
-[[10. Decorator Pattern (x)]]
+[[10. Decorator Pattern]]
+[[11. Facade Pattern]]
+[[12. Flyweight Pattern]]
+[[13. Proxy Pattern]]
+[[14. Composite Pattern (x)]]
+[[15. Adapter Pattern (x)]]
+[[16. Proxy Pattern Vs Flyweight Pattern (x)]]
 
 -  Design patterns aren’t concrete implementations, but rather, they are a starting point for writing code. 
 - Design patterns collectively form a set of best practices to help you write more understandable and easier-to-maintain code.
