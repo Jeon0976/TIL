@@ -36,4 +36,9 @@
 [[18. addTarget vs addAction (x)]]
 [[19. UIActivityViewController]]
 [[20. model custom (x)]]
+[[21. Haptic Feedback (x)]]
+[[22. ContentHuggingPriority vs ContentCompressionResistancePriority (x)]]
+[[23. UIScrollView, UIPageControl를 활용한 안내 화면 (x)]]
+[[24. navigation Push간 랙걸리는 모습? 이유]]
+
 #IOS/UIKit 

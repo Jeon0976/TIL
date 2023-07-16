@@ -449,6 +449,10 @@
 - [13. Synchronous(동기) vs. Asynchronous(비동기)](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/Coding/13.%20Synchronous(동기)%20vs.%20Asynchronous(비동기).md)
 - [14. Pyramid of Doom (x)]
 - [15. 명령형 vs 선언형 (x)]
+#### Block Chain 
+- [1. 이더리움 이란?]
+- [2. PoW(Proof of Work)에 대해]
+- [3. 중요한 이더리움 관련 개념들]
 #### Design Pattern
 - [1. MVC, MVP, MVVM 비교](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/Coding/Design%20Pattern/1.%20MVC%2C%20MVP%2C%20MVVM%20비교.md)
 - [2 Command Pattern (x)]
@@ -463,8 +467,8 @@
 - [11. Facade Pattern](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/Coding/Design%20Pattern/11.%20Facade%20Pattern.md)
 - [12. Flyweight Pattern](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/Coding/Design%20Pattern/12.%20Flyweight%20Pattern.md)
 - [13. Proxy Pattern](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/Coding/Design%20Pattern/13.%20Proxy%20Pattern.md)
-- [14. Composite Pattern (x)]
-- [15. Adapter Pattern (x)]
+- [14. Composite Pattern]
+- [15. Adapter Pattern]
 - [16. Proxy Pattern Vs Flyweight Pattern (x)]
 #### C++ 
 #### Python 

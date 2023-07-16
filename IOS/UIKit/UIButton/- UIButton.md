@@ -5,3 +5,6 @@
 [[5. UIButton font 설정 (x)]]
 [[6. titleLabel.font와 configuration의 관계 (x)]]
 [[7. 버튼 색 변경으로 눌러짐 효과 커스텀 (x)]]
+[[8. 여러 개 중 택일 버튼 만들기 (x)]]
+[[9. setAttributedTitle (x)]]
+[[10. subClass Button을 포함한 stackView 크기 만큼 버튼 크기 동적 변경 (x)]]

@@ -46,5 +46,7 @@
 [[37. bundle, package, Framework 개념 (x)]]
 [[38. 앱 안정성을 위한 API id 비공개화 (x)]]
 [[39. NSCache (x)]]
+[[40. String vs NSString (x)]]
+[[41. 옳바른 날짜 데이터 확인하기 (x)]]
 
 #IOS 

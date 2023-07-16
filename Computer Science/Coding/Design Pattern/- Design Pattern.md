@@ -11,8 +11,8 @@
 [[11. Facade Pattern]]
 [[12. Flyweight Pattern]]
 [[13. Proxy Pattern]]
-[[14. Composite Pattern (x)]]
-[[15. Adapter Pattern (x)]]
+[[14. Composite Pattern]]
+[[15. Adapter Pattern]]
 [[16. Proxy Pattern Vs Flyweight Pattern (x)]]
 
 -  Design patterns aren’t concrete implementations, but rather, they are a starting point for writing code. 

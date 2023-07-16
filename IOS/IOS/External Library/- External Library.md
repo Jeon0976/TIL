@@ -5,3 +5,5 @@
 [[5. SwiftyJSON (x)]]
 [[6. SwiftLint]]
 [[7. KeychainSwift (x)]]
+[[8. Lottie (x)]]
+[[9. web3swift (x)]]

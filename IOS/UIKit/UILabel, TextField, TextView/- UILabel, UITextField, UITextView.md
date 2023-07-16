@@ -7,3 +7,7 @@
 [[7. Label vs TextField vs TextView (x)]]
 [[8. TextView Custom PlaceHolder]]
 [[9. UITextView 높이 동적 할당 (x)]]
+[[10. UILabel 높이 동적으로 값 얻기 (x)]]
+[[11. padding Inset Label (x)]]
+[[12. textFieldDidChangeSelection vs shouldChangeCharactersIn (x)]]
+[[13. textField에 날짜 입력 받기 (x)]]
