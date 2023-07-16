@@ -39,6 +39,8 @@
 - [37. bundle, package, Framework 개념 (x)]
 - [38. 앱 안정성을 위한 API id 비공개화 (x)]
 - [39. NSCache (x)]
+- [40. String vs NSString (x)]
+- [41. 올바른 날짜 데이터 확인하기 (x)]
 #### IOS Concurrency
 - [1. 왜 동시성(Concurrenct) 프로그래밍이 필요할까?](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/IOS%20Concurrency/1.%20왜%20동시성(Concurrenct)%20프로그래밍이%20필요할까%3F.md)
 - [2. GCD vs. Operation](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/IOS%20Concurrency/2.%20GCD(Grand%20Central%20Dispatch)%20vs.%20Operation.md)
@@ -71,6 +73,8 @@
 - [5. SwiftyJSON (x)]
 - [6. SwiftLint](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/External%20Library/6.%20SwiftLint.md)
 - [7. KeychainSwift (x)]
+- [8. Lottie (x)]
+- [9. web3swift (x)]
 #### Core Image
 #### Core Data
 #### Core Location 
@@ -206,6 +210,8 @@
 - [21. Haptic Feedback (x)]
 - [22. ContentHuggingPriority vs ContentCompressionResistancePriority (x)]
 - [23. UIScrollView, UIPageControl를 활용한 안내 화면 (x)]
+- [24. navigation Push간 랙걸리는 모습? 이유]
+- [25. 그라디에션 적용하기 (x)]
 #### RxSwift
 - [1. Custom Extensions](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/RxSwift/1.%20Custom%20Extensions.md)
 - [2. Subscribe Memory Leak](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/RxSwift/2.%20Subscribe%20Memory%20Leak.md)
@@ -255,6 +261,9 @@
 - [5. UIButton font 설정 (x)]
 - [6. titleLabel.font와 configuration의 관계 (x)]
 - [7. 버튼 색 변경으로 눌러짐 효과 커스텀 (x)]
+- [8. 여러 개 중 택일 버튼 만들기 (x)]
+- [9. setAttributedTitle (x)]
+- [10. subClass Button을 포함한 stackView 크기 만큼 버튼 크기 동적 변경 (x)]
 #### UICollectionView
 - [1. UICollectionView ](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/UICollectionView/1.%20UICollectionView.md)
 - [2. UICollectionViewDelegate() vs UICollectionViewDelegateFlowLayout()](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/UICollectionView/2.%20UICollectionViewDelegate()%20Vs%20UICollectionViewDelegateFlowLayout().md)
@@ -280,6 +289,8 @@
 - [9. UITextView 높이 동적 할당 (x)]
 - [10. UILabel 높이 동적으로 값 얻기 (x)]
 - [11. padding Inset Label (x)]
+- [12. textFieldDidChangeSelection vs shouldChangeCharactersIn (x)]
+- [13. textField에 날짜 입력 받기 (x)]
 #### UIImageView, UIImage 
 - [1. UIImageView (x)]
 - [2. UIImage Size 조정 (x)]
@@ -450,9 +461,9 @@
 - [14. Pyramid of Doom (x)]
 - [15. 명령형 vs 선언형 (x)]
 #### Block Chain 
-- [1. 이더리움 이란?]
-- [2. PoW(Proof of Work)에 대해]
-- [3. 중요한 이더리움 관련 개념들]
+- [1. 이더리움 이란?](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/BlockChain/1.%20이더리움%20이란%3F.md)
+- [2. PoW(Proof of Work)에 대해](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/BlockChain/2.%20PoW(Proof%20of%20Work)에%20대해.md)
+- [3. 중요한 이더리움 관련 개념들](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/BlockChain/3.%20중요한%20이더리움%20관련%20개념들.md)
 #### Design Pattern
 - [1. MVC, MVP, MVVM 비교](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/Coding/Design%20Pattern/1.%20MVC%2C%20MVP%2C%20MVVM%20비교.md)
 - [2 Command Pattern (x)]
@@ -467,8 +478,8 @@
 - [11. Facade Pattern](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/Coding/Design%20Pattern/11.%20Facade%20Pattern.md)
 - [12. Flyweight Pattern](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/Coding/Design%20Pattern/12.%20Flyweight%20Pattern.md)
 - [13. Proxy Pattern](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/Coding/Design%20Pattern/13.%20Proxy%20Pattern.md)
-- [14. Composite Pattern]
-- [15. Adapter Pattern]
+- [14. Composite Pattern](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/Coding/Design%20Pattern/14.%20Composite%20Pattern.md)
+- [15. Adapter Pattern](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/Coding/Design%20Pattern/15.%20Adapter%20Pattern.md)
 - [16. Proxy Pattern Vs Flyweight Pattern (x)]
 #### C++ 
 #### Python 
