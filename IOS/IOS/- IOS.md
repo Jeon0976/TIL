@@ -48,5 +48,7 @@
 [[39. NSCache (x)]]
 [[40. String vs NSString (x)]]
 [[41. 올바른 날짜 데이터 확인하기 (x)]]
+[[42. Runloop (x)]]
+[[43. WMO(Whole Module Optimization)]]
 
 #IOS 
