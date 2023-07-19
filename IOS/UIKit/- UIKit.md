@@ -40,5 +40,7 @@
 [[22. ContentHuggingPriority vs ContentCompressionResistancePriority (x)]]
 [[23. UIScrollView, UIPageControl를 활용한 안내 화면 (x)]]
 [[24. navigation Push간 랙걸리는 모습? 이유]]
+[[25. 그라디에션 적용하기 (x)]]
+[[26. UIResponder (x)]]
 
 #IOS/UIKit 
