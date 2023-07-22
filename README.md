@@ -41,6 +41,10 @@
 - [39. NSCache (x)]
 - [40. String vs NSString (x)]
 - [41. 올바른 날짜 데이터 확인하기 (x)]
+- [42. Runloop (x)]
+- [43. WMO(Whole Module Optimization)]
+- [44. 앱의 생명주기(Life Cycle)]
+- [45. NSObject (x)]
 #### IOS Concurrency
 - [1. 왜 동시성(Concurrenct) 프로그래밍이 필요할까?](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/IOS%20Concurrency/1.%20왜%20동시성(Concurrenct)%20프로그래밍이%20필요할까%3F.md)
 - [2. GCD vs. Operation](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/IOS%20Concurrency/2.%20GCD(Grand%20Central%20Dispatch)%20vs.%20Operation.md)
@@ -163,6 +167,8 @@
 - [45. Opaque Type (x)]
 - [46. Property Wrappers (x)]
 - [47. Shallow, Deep Copy](https://github.com/Jeon0976/TIL/blob/main/IOS/Swift/47.%20Shallow%2C%20Deep%20Copy.md)
+- [48. Dynamic Dispatch & Static Dispatch]
+- [49. String은 왜 subscript(Int)로 접근이 안될까 (x)]
 #### 고차함수 
 - [1. map](https://github.com/Jeon0976/TIL/blob/main/IOS/Swift/고차함수/1.%20map.md)
 - [2. filter](https://github.com/Jeon0976/TIL/blob/main/IOS/Swift/고차함수/2.%20filter.md)
@@ -212,6 +218,7 @@
 - [23. UIScrollView, UIPageControl를 활용한 안내 화면 (x)]
 - [24. navigation Push간 랙걸리는 모습? 이유]
 - [25. 그라디에션 적용하기 (x)]
+- [26. UIResponder (x)]
 #### RxSwift
 - [1. Custom Extensions](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/RxSwift/1.%20Custom%20Extensions.md)
 - [2. Subscribe Memory Leak](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/RxSwift/2.%20Subscribe%20Memory%20Leak.md)
@@ -460,6 +467,9 @@
 - [13. Synchronous(동기) vs. Asynchronous(비동기)](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/Coding/13.%20Synchronous(동기)%20vs.%20Asynchronous(비동기).md)
 - [14. Pyramid of Doom (x)]
 - [15. 명령형 vs 선언형 (x)]
+- [16. vTable]
+- [17. 1급 객체 (x)]
+- [18. Boilerplate Code (x)]
 #### Block Chain 
 - [1. 이더리움 이란?](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/BlockChain/1.%20이더리움%20이란%3F.md)
 - [2. PoW(Proof of Work)에 대해](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/BlockChain/2.%20PoW(Proof%20of%20Work)에%20대해.md)
@@ -480,7 +490,11 @@
 - [13. Proxy Pattern](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/Coding/Design%20Pattern/13.%20Proxy%20Pattern.md)
 - [14. Composite Pattern](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/Coding/Design%20Pattern/14.%20Composite%20Pattern.md)
 - [15. Adapter Pattern](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/Coding/Design%20Pattern/15.%20Adapter%20Pattern.md)
-- [16. Proxy Pattern Vs Flyweight Pattern (x)]
+- [16. Proxy Pattern Vs Flyweight Pattern]
+- [17. Interpreter]
+- [18. Template Method]
+- [19 Chain of Responsibility]
+- [20. Iterator]
 #### C++ 
 #### Python 
 - [1. Python 자료형](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/Coding/Python/1.%20Python%20자료형.md)
@@ -512,6 +526,9 @@
 - [1. System Calls](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/OS/1.%20System%20Calls.md)
 - [2. 오버헤드란?](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/OS/2.%20오버헤드란%3F.md)
 - [3. 코어와 스레드](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/OS/3.%20코어와%20스레드.md)
+- [4. Native Thread vs Green Thread]
+- [5. 모니터와 세마포어]
+- [6. busy waiting]
 ### Linux
 - [1. I-Node란?](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/Linux/1.%20I-Node란%3F.md)
 - [2. Disk Quotas란?](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/Linux/2.%20%20Disk%20Quotas%20란%3F.md)

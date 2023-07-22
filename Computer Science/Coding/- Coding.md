@@ -17,5 +17,7 @@
 [[14. Pyramid of Doom (x)]]
 [[15. 명령형 vs 선언형 (x)]]
 [[16. vTable]]
+[[17. 1급 객체 (x)]]
+[[18. Boilerplate Code (x)]]
 
 #CS/Coding
