@@ -19,5 +19,7 @@
 [[16. vTable]]
 [[17. 1급 객체 (x)]]
 [[18. Boilerplate Code (x)]]
+[[19. Interface vs abstract class]]
+[[20. 현대 언어에서 다중상속을 채택하지 않는 이유]]
 
 #CS/Coding

@@ -267,10 +267,10 @@
 - [4. UIButton Configuration in IOS 15 (x)]
 - [5. UIButton font 설정 (x)]
 - [6. titleLabel.font와 configuration의 관계 (x)]
-- [7. 버튼 색 변경으로 눌러짐 효과 커스텀 (x)]
-- [8. 여러 개 중 택일 버튼 만들기 (x)]
-- [9. setAttributedTitle (x)]
-- [10. subClass Button을 포함한 stackView 크기 만큼 버튼 크기 동적 변경 (x)]
+- [7. 여러 개 중 택일 버튼 만들기 (x)]
+- [8. setAttributedTitle (x)]
+- [9. 내부 image, text inset관련 (x)]
+- [10. UIButton image Tint 색상 변경하기]
 #### UICollectionView
 - [1. UICollectionView ](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/UICollectionView/1.%20UICollectionView.md)
 - [2. UICollectionViewDelegate() vs UICollectionViewDelegateFlowLayout()](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/UICollectionView/2.%20UICollectionViewDelegate()%20Vs%20UICollectionViewDelegateFlowLayout().md)

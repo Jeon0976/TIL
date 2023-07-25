@@ -18,6 +18,9 @@
 [[18. Template Method]]
 [[19 Chain of Responsibility]]
 [[20. Iterator]]
+[[21. Mediator]]
+[[22. Memento]]
+[[23. Observer]]
 
 -  Design patterns aren’t concrete implementations, but rather, they are a starting point for writing code. 
 - Design patterns collectively form a set of best practices to help you write more understandable and easier-to-maintain code.
