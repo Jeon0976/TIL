@@ -495,6 +495,13 @@
 - [18. Template Method]
 - [19 Chain of Responsibility]
 - [20. Iterator]
+- [21. Mediator]
+- [22. Memento]
+- [23. Observer]
+- [24. State]
+- [25. Strategy]
+- [26. Visitor]
+- [27. State vs Strategy]
 #### C++ 
 #### Python 
 - [1. Python 자료형](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/Coding/Python/1.%20Python%20자료형.md)

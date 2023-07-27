@@ -21,6 +21,10 @@
 [[21. Mediator]]
 [[22. Memento]]
 [[23. Observer]]
+[[24. State]]
+[[25. Strategy]]
+[[26. Visitor]]
+[[27. State vs Strategy]]
 
 -  Design patterns aren’t concrete implementations, but rather, they are a starting point for writing code. 
 - Design patterns collectively form a set of best practices to help you write more understandable and easier-to-maintain code.

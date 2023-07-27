@@ -48,5 +48,8 @@
 [[46. Property Wrappers (x)]]
 [[47. Shallow, Deep Copy]]
 [[48. Dynamic Dispatch & Static Dispatch]]
+[[49. String은 왜 subscript(Int)로 접근이 안될까 (x)]]
+[[50. Mirror (x)]]
+
 #Swift 
 
