@@ -93,7 +93,10 @@
 - [2. PhotoKit (2) (x)]
 - [3. fetchOption의 정렬 방식](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/PhotoKit/3.%20fetchOption의%20정렬%20방식.md)
 #### TDD
-
+#### NS
+[1. NSNotFound (x)]
+[2. NSCopying (x)]
+[3. NSRange (x)]
 ### SwiftUI
 - [1. List vs H(V)Stack vs LazyH(V)Stack](https://github.com/Jeon0976/TIL/blob/main/IOS/ISwiftUI/1.%20List%20vs%20H(V)Stack%20vs%20LazyH(V)Stack.md)
 - [2. State and Data Flow](https://github.com/Jeon0976/TIL/blob/main/IOS/ISwiftUI/2.%20State%20and%20Data%20Flow.md)
@@ -169,6 +172,7 @@
 - [47. Shallow, Deep Copy](https://github.com/Jeon0976/TIL/blob/main/IOS/Swift/47.%20Shallow%2C%20Deep%20Copy.md)
 - [48. Dynamic Dispatch & Static Dispatch]
 - [49. String은 왜 subscript(Int)로 접근이 안될까 (x)]
+- [50. Mirror (x)]
 #### 고차함수 
 - [1. map](https://github.com/Jeon0976/TIL/blob/main/IOS/Swift/고차함수/1.%20map.md)
 - [2. filter](https://github.com/Jeon0976/TIL/blob/main/IOS/Swift/고차함수/2.%20filter.md)
@@ -219,6 +223,7 @@
 - [24. navigation Push간 랙걸리는 모습? 이유]
 - [25. 그라디에션 적용하기 (x)]
 - [26. UIResponder (x)]
+- [27. anchor로 잡을 때 frame 값에 대하여 (x)]
 #### RxSwift
 - [1. Custom Extensions](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/RxSwift/1.%20Custom%20Extensions.md)
 - [2. Subscribe Memory Leak](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/RxSwift/2.%20Subscribe%20Memory%20Leak.md)
@@ -476,7 +481,7 @@
 - [3. 중요한 이더리움 관련 개념들](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/BlockChain/3.%20중요한%20이더리움%20관련%20개념들.md)
 #### Design Pattern
 - [1. MVC, MVP, MVVM 비교](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/Coding/Design%20Pattern/1.%20MVC%2C%20MVP%2C%20MVVM%20비교.md)
-- [2 Command Pattern (x)]
+- [2 Command Pattern](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/Coding/Design%20Pattern/2.%20Command%20Pattern.md)
 - [3. Delegate Pattern](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/Coding/Design%20Pattern/3.%20Delegate%20Pattern.md)
 - [4. SingleTon Pattern](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/Coding/Design%20Pattern/4.%20SingleTon%20Pattern.md)
 - [5. Builder Pattern](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/Coding/Design%20Pattern/5.%20Builder%20Pattern.md)
@@ -490,18 +495,18 @@
 - [13. Proxy Pattern](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/Coding/Design%20Pattern/13.%20Proxy%20Pattern.md)
 - [14. Composite Pattern](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/Coding/Design%20Pattern/14.%20Composite%20Pattern.md)
 - [15. Adapter Pattern](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/Coding/Design%20Pattern/15.%20Adapter%20Pattern.md)
-- [16. Proxy Pattern Vs Flyweight Pattern]
-- [17. Interpreter]
-- [18. Template Method]
-- [19 Chain of Responsibility]
-- [20. Iterator]
-- [21. Mediator]
-- [22. Memento]
-- [23. Observer]
-- [24. State]
-- [25. Strategy]
-- [26. Visitor]
-- [27. State vs Strategy]
+- [16. Proxy Pattern Vs Flyweight Pattern](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/Coding/Design%20Pattern/16.%20Proxy%20Pattern%20Vs%20Flyweight%20Pattern.md)
+- [17. Interpreter](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/Coding/Design%20Pattern/17.%20Interpreter.md)
+- [18. Template Method](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/Coding/Design%20Pattern/18.%20Template%20Method.md)
+- [19 Chain of Responsibility](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/Coding/Design%20Pattern/19%20Chain%20of%20Responsibility.md)
+- [20. Iterator](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/Coding/Design%20Pattern/20.%20Iterator.md)
+- [21. Mediator](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/Coding/Design%20Pattern/21.%20Mediator.md)
+- [22. Memento](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/Coding/Design%20Pattern/22.%20Memento.md)
+- [23. Observer](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/Coding/Design%20Pattern/23.%20Observer.md)
+- [24. State](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/Coding/Design%20Pattern/24.%20State.md)
+- [25. Strategy](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/Coding/Design%20Pattern/25.%20Strategy.md)
+- [26. Visitor](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/Coding/Design%20Pattern/26.%20Visitor.md)
+- [27. State vs Strategy](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/Coding/Design%20Pattern/27.%20State%20vs%20Strategy.md)
 #### C++ 
 #### Python 
 - [1. Python 자료형](https://github.com/Jeon0976/TIL/blob/main/Computer%20Science/Coding/Python/1.%20Python%20자료형.md)
