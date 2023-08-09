@@ -42,5 +42,10 @@
 [[24. navigation Push간 랙걸리는 모습? 이유]]
 [[25. 그라디에션 적용하기 (x)]]
 [[26. UIResponder (x)]]
+[[27. view의 테투리 CornerRadius (x)]]
+[[28. required init? 생성에 대해서 (x)]]
+[[29. UITemporaryLayoutWidth & Height (x)]]
+[[30. updateConstraints (x)]]
+[[31. layoutSubviews (x)]]
 
 #IOS/UIKit 

@@ -6,7 +6,7 @@
 [[- AVFoundation]]
 [[- TDD]]
 [[- PhotoKit]]
-[[- API 연동]]
+[[- NetworkServic]]
 [[- NS]]
 [[1. CLLocationManager]]
 [[2. Bridging Header]]
