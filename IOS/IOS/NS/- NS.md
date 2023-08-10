@@ -1,3 +1,6 @@
 [[1. NSNotFound (x)]]
 [[2. NSCopying (x)]]
 [[3. NSRange (x)]]
+[[4. NSAttributedString (key 포함) (x)]]
+[[5. NSCache (x)]]
+[[6. NSObject (x)]]

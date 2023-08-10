@@ -28,23 +28,21 @@
 - [26. label  분,초,밀리초 단위로 업데이트 하는 방법](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/26.%20label%20%20분%2C초%2C밀리초%20단위로%20업데이트%20하는%20방법.md)
 - [27. TimeInterval (x)]
 - [28. frame vs bounds](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/28.%20frame%20vs%20bounds.md)
-- [29. NSAttributedString (key 포함) (x)]
-- [30. FileManager (x)]
-- [31. UIApplication (x)]
+- [29. FileManager (x)]
+- [30. UIApplication (x)]
+- [31. SlideAnimate (x)]
 - [32. DateFormatter](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/32.%20DateFormatter.md)
 - [33. Struct 내부 Data 가공 후 UI에 뿌릴 때](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/33.%20Struct%20내부%20Data%20가공%20후%20UI에%20뿌릴%20때.md)
 - [34. NotificationCenter의 userInfo와 object에 대해](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/34.%20NotificationCenter의%20userInfo와%20object에%20대해.md)
 - [35. JSONSerialization](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/35.%20JSONSerialization.md)
-- [36. SlideAnimate (x)]
-- [37. bundle, package, Framework 개념 (x)]
-- [38. 앱 안정성을 위한 API id 비공개화 (x)]
-- [39. NSCache (x)]
-- [40. String vs NSString (x)]
-- [41. 올바른 날짜 데이터 확인하기 (x)]
-- [42. Runloop (x)]
-- [43. WMO(Whole Module Optimization)]
-- [44. 앱의 생명주기(Life Cycle)]
-- [45. NSObject (x)]
+- [36. bundle, package, Framework 개념 (x)]
+- [37. 앱 안정성을 위한 API id 비공개화]
+- [38. String vs NSString (x)]
+- [39. 올바른 날짜 데이터 확인하기 (x)]
+- [40. Runloop (x)]
+- [41. WMO(Whole Module Optimization)]
+- [42. 앱의 생명주기(Life Cycle)]
+
 #### IOS Concurrency
 - [1. 왜 동시성(Concurrenct) 프로그래밍이 필요할까?](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/IOS%20Concurrency/1.%20왜%20동시성(Concurrenct)%20프로그래밍이%20필요할까%3F.md)
 - [2. GCD vs. Operation](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/IOS%20Concurrency/2.%20GCD(Grand%20Central%20Dispatch)%20vs.%20Operation.md)
@@ -63,6 +61,7 @@
 - [2. URLComponents](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/API/2.%20URLComponents.md)
 - [3.  url vs urlRequest](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/API/3.%20%20url%20vs%20urlRequest.md)
 - [4. post (x)]
+- [5. Socket 통신 (x)]
 #### Extension
 - [1. html 형식 필터링 하는 법](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/Extension/1.%20html%20형식%20필터링%20하는%20법.md)
 - [2. currency 설정](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/Extension/2.%20currency%20설정.md)
@@ -79,6 +78,7 @@
 - [7. KeychainSwift (x)]
 - [8. Lottie (x)]
 - [9. web3swift (x)]
+- [10. then (x)]
 #### Core Image
 #### Core Data
 #### Core Location 
@@ -97,6 +97,9 @@
 - [1. NSNotFound (x)]
 - [2. NSCopying (x)]
 - [3. NSRange (x)]
+- [4. NSAttributedString (key 포함) (x)]
+- [5. NSCache (x)]
+- [6. NSObject (x)]
 ### SwiftUI
 - [1. List vs H(V)Stack vs LazyH(V)Stack](https://github.com/Jeon0976/TIL/blob/main/IOS/ISwiftUI/1.%20List%20vs%20H(V)Stack%20vs%20LazyH(V)Stack.md)
 - [2. State and Data Flow](https://github.com/Jeon0976/TIL/blob/main/IOS/ISwiftUI/2.%20State%20and%20Data%20Flow.md)
@@ -202,28 +205,26 @@
 - [3. super.init (x)]
 - [4. WebView](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/4.%20WebView.md)
 - [5. UIColor vs CGColor (x)]
-- [6. safe area (x)]
-- [7. present vs show](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/7.%20present%20vs%20show.md)
-- [8. alpha vs opacity (x)]
-- [9. NSLayoutConstraints](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/9.%20NSLayoutConstraints.md)
-- [10. ViewController init? (x)]
-- [11. layoutIfNeeded() (x)]
-- [12. 구분선 구현하기](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/12.%20구분선%20구현하기.md)
-- [13. UIView (x)]
-- [14. UIControl.Event](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/14.%20UIControl.Event.md)
-- [15. Autolayout code](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/15.%20Autolayout%20code.md)
-- [16. modal](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/16.%20modal.md)
-- [17. addTarget의 selector 매개변수에 대해](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/17.%20addTarget의%20selector%20매개변수에%20대해.md)
-- [18. addTarget vs addAction (x)]
-- [19. UIActivityViewController](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/19.%20UIActivityViewController.md)
-- [20. model custom (x)]
-- [21. Haptic Feedback (x)]
-- [22. ContentHuggingPriority vs ContentCompressionResistancePriority (x)]
-- [23. UIScrollView, UIPageControl를 활용한 안내 화면 (x)]
-- [24. navigation Push간 랙걸리는 모습? 이유]
-- [25. 그라디에션 적용하기 (x)]
-- [26. UIResponder (x)]
-- [27. anchor로 잡을 때 frame 값에 대하여 (x)]
+- [6. present vs show]
+- [7. alpha VS opacity (x)]
+- [8. ViewController init? (x)]
+- [9. 구분선 구현하기]
+- [10. UIView (x)]
+- [11. UIControl.Event]
+- [12. modal]
+- [13. addTarget의 selector 매개변수에 대해]
+- [14. addTarget vs addAction (x)]
+- [15. UIActivityViewController]
+- [16. model custom (x)]
+- [17. Haptic Feedback (x)]
+- [18. UIScrollView, UIPageControl를 활용한 안내 화면 (x)]
+- [19. navigation Push간 랙걸리는 모습? 이유]
+- [20. 그라디에션 적용하기 (x)]
+- [21. UIResponder (x)]
+- [22. view의 테투리 CornerRadius (x)]
+- [23. required init? 생성에 대해서 (x)]
+- [24. UIPageViewController (x)]
+- [25. UIViewController의 container view 사용에 관해 (x)]
 #### RxSwift
 - [1. Custom Extensions](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/RxSwift/1.%20Custom%20Extensions.md)
 - [2. Subscribe Memory Leak](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/RxSwift/2.%20Subscribe%20Memory%20Leak.md)
@@ -260,11 +261,23 @@
 - [RxSwift)Ch 7.Combining Operators](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/RxSwift/RxSwift.%20Reactive%20Programming%20with%20Swift/RxSwift-Ch%207.%20Transforming%20Operators.md)
 - [RxSwuft)Ch 9. Combining Operators](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/RxSwift/RxSwift.%20Reactive%20Programming%20with%20Swift/RxSwift-Ch%209.%20Combining%20Operators.md)
 - [RxSwift)Ch 11.Time-Based Operatosr](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/RxSwift/RxSwift.%20Reactive%20Programming%20with%20Swift/RxSwift-Ch%2011.%20Time-Based%20Operators.md)
+#### Layout
+- [1. safe area (x)]
+- [2. NSLayoutConstraints]
+- [3. layoutIfNeeded() (x)]
+- [4. Autolayout code]
+- [5. ContentHuggingPriority vs ContentCompressionResistancePriority (x)]
+- [6. UITemporaryLayoutWidth & Height (x)]
+- [7. updateConstraints (x)]
+- [8. layoutSubviews (x)]
+- [9. Auto layout priority를 활용한 에니메이션 구현 (x)]
+- [10. frame과 autolayout에 관해 (x)]
 #### UIAlertController 
 - [1. UIAlertController](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/UIAlertController/1.%20UIAlertController.md)
 - [2. Alert Action 중 순환참조에 관하여](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/UIAlertController/2.%20Alert%20Action%20중%20순환참조에%20관하여.md)
 - [3. Alert에 TextField추가](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/UIAlertController/3.%20Alert에%20TextField%20추가.md)
 #### UIAnimations
+[1. View Animations (x)]
 #### UIButton
 - [1. UIButton](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/UIButton/1.%20UIButton.md)
 - [2. UIButton SystemImage 조절](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/UIButton/2.%20UIButton%20SystemImage%20조절.md)
@@ -276,6 +289,7 @@
 - [8. setAttributedTitle (x)]
 - [9. 내부 image, text inset관련 (x)]
 - [10. UIButton image Tint 색상 변경하기]
+- [11. isUserInteractionEnabled (x)]
 #### UICollectionView
 - [1. UICollectionView ](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/UICollectionView/1.%20UICollectionView.md)
 - [2. UICollectionViewDelegate() vs UICollectionViewDelegateFlowLayout()](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/UICollectionView/2.%20UICollectionViewDelegate()%20Vs%20UICollectionViewDelegateFlowLayout().md)
@@ -303,6 +317,7 @@
 - [11. padding Inset Label (x)]
 - [12. textFieldDidChangeSelection vs shouldChangeCharactersIn (x)]
 - [13. textField에 날짜 입력 받기 (x)]
+- [14. Line Spacing 넣기 (x)]
 #### UIImageView, UIImage 
 - [1. UIImageView (x)]
 - [2. UIImage Size 조정 (x)]
@@ -320,17 +335,22 @@
 - [1. UIRefreshController (x)]
 #### UIScrollView
 - [1. UIScrollView](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/UIScrollView/1.%20UIScrollView.md)
+- [2. Content Layout Guide, Frame Layout Guide (x)]
 #### UISearchBar, UISearchController 
 - [1. UISearchBar vs UISearchController (x)]
+#### UISegmentedControl 
+- [1. UISegmentedControl]
+- [2. TopTabBar for ViewController]
+- [3. TopTabBar  for View]
 #### UISlider
 - [1. UISlider](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/UISlider/1.%20UISlider.md)
 #### UIStackView 
 - [1. UIStackView](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/UIStackView/1.%20UIStackView.md)
+- [[2. StackView 내부 margins 넣는 법]]
 #### UITabBarController
 - [1. UITabBarController](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/UITabBarController/1.%20UITabBarController.md)
 - [2. TabBar 유지보수 쉽게 만들기 ](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/UITabBarController/2.%20TabBar%20유지보수%20쉽게%20만들기.md)
-- [3. Tab Bar view 끼리의 page 이동 방법 (x)]
-- [4. Tab Bar -> Tab Bar로 button 이동 (x)]
+- [3. Tab Bar 내부 page이동 방법]
 #### UITableView
 - [1. UITableView](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/UITableView/1.%20UITableView.md)
 - [2. dequeueResableCell 옵셔널 다운캐스팅 하는 이유 ](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/UITableView/2.%20dequeueResableCell%20옵셔널%20다운캐스팅%20하는%20이유.md)
@@ -352,6 +372,7 @@
 - [18. tableview 스크롤 할 때마다 api 호출 (x)]
 - [19. tableView tag에 대해서 (x)]
 - [20. textField의 cgPoint를 통해 indexPath 알아내기(x)]
+- [21. UIDiffableDataSource (x)]
 # Algorithm
 ### 문제 
 #### 백준 

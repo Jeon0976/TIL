@@ -444,7 +444,7 @@ class MyViewController: UIViewController {
 
 ### 연결문서 
 - [[18. Boilerplate Code (x)]]
-- [[26. UIResponder (x)]]
+- [[21. UIResponder (x)]]
 
 ### Tag
 - #CS/Design_Patterns/Behavioral/Chain_of_Responsibility
