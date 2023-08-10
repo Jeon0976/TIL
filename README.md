@@ -94,9 +94,9 @@
 - [3. fetchOption의 정렬 방식](https://github.com/Jeon0976/TIL/blob/main/IOS/IOS/PhotoKit/3.%20fetchOption의%20정렬%20방식.md)
 #### TDD
 #### NS
-[1. NSNotFound (x)]
-[2. NSCopying (x)]
-[3. NSRange (x)]
+- [1. NSNotFound (x)]
+- [2. NSCopying (x)]
+- [3. NSRange (x)]
 ### SwiftUI
 - [1. List vs H(V)Stack vs LazyH(V)Stack](https://github.com/Jeon0976/TIL/blob/main/IOS/ISwiftUI/1.%20List%20vs%20H(V)Stack%20vs%20LazyH(V)Stack.md)
 - [2. State and Data Flow](https://github.com/Jeon0976/TIL/blob/main/IOS/ISwiftUI/2.%20State%20and%20Data%20Flow.md)

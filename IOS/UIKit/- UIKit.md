@@ -16,6 +16,8 @@
 [[- UINavigation]]
 [[- UISlider]]
 [[- UIScrollView]]
+[[- UISegmentedControl]]
+[[- layout]]
 [[1. NoStoryBoard]]
 [[2. ViewDidLoad() vs init()]]
 [[3. super.init (x)]]
@@ -47,5 +49,7 @@
 [[29. UITemporaryLayoutWidth & Height (x)]]
 [[30. updateConstraints (x)]]
 [[31. layoutSubviews (x)]]
-
+[[32. Auto layout priority를 활용한 에니메이션 구현 (x)]]
+[[29. UIPageViewController (x)]]
+[[30. UIViewController의 container view 사용에 관해 (x)]]
 #IOS/UIKit 
