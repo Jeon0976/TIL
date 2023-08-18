@@ -8,3 +8,5 @@
 [[8. layoutSubviews (x)]]
 [[9. Auto layout priority를 활용한 에니메이션 구현 (x)]]
 [[10. frame과 autolayout에 관해 (x)]]
+[[11. AutoLayout그릴때 순서도 중요한가?]]
+[[12. 상단 상태창에 따른 view 높이 변화 (x)]]

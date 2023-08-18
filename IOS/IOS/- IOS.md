@@ -4,7 +4,6 @@
 [[- Core Image]]
 [[- Core Data]]
 [[- AVFoundation]]
-[[- TDD]]
 [[- PhotoKit]]
 [[- NetworkServic]]
 [[- NS]]

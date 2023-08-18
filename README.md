@@ -277,7 +277,7 @@
 - [2. Alert Action 중 순환참조에 관하여](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/UIAlertController/2.%20Alert%20Action%20중%20순환참조에%20관하여.md)
 - [3. Alert에 TextField추가](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/UIAlertController/3.%20Alert에%20TextField%20추가.md)
 #### UIAnimations
-[1. View Animations (x)]
+- [1. View Animations (x)]
 #### UIButton
 - [1. UIButton](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/UIButton/1.%20UIButton.md)
 - [2. UIButton SystemImage 조절](https://github.com/Jeon0976/TIL/blob/main/IOS/UIKit/UIButton/2.%20UIButton%20SystemImage%20조절.md)
