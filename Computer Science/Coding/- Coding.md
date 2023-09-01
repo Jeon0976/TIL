@@ -24,5 +24,6 @@
 [[18. Boilerplate Code (x)]]
 [[19. Interface vs abstract class]]
 [[20. 현대 언어에서 다중상속을 채택하지 않는 이유]]
+[[21. DTO(Data Transfer Object)란? (x)]]
 
 #CS/Coding

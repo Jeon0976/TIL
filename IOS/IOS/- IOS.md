@@ -49,5 +49,8 @@
 [[40. Runloop (x)]]
 [[41. WMO(Whole Module Optimization)]]
 [[42. 앱의 생명주기(Life Cycle)]]
+[[43. 전체 뷰를 움직인 상태에서 appWillResignActive 할 경우 (x)]]
+[[44. keyboard가 올라올 때 전체 뷰를 높이는게 아니라 textview를 높여야 안정적 (x)]]
+[[45. XMLParser (x)]]
 
 #IOS 
